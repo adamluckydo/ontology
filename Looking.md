@@ -2,12 +2,14 @@
 
 ![Simple illustration of the relationship between conceiving and perceiving](Looking.png)
 
-- Relating (self-preservation, self-gratification, self-love, love for other beings, love for all phenomena, love without object, nondual love, love for image)
+- Desiring (self-preservation, self-gratification, self-love, love for other beings, love for all phenomena, love without object, nondual love, love for image)
 - Perceiving (phenomena only experienced as concepts, aware of sensations from the head, sensations aware of themselves, centerless awareness, Jhanas, cessation, imaginal sensations)
 - Conceiving (I/me/mine and world, stark nihilism/eternalism, in-between conceptions, five aggregates / three characteristics, emptiness/nonduality, soulmaking/imaginal)
 
+Desires fabricate Perceptions are understood by Conceptions which shape Desires which fabricate... etc.
 
 Valid ways of looking:
+
 - Humans are a result of biological processes built on chemistry, which is built on physics, which is built on math, in a world that started with the Big Bang. There is no reason for this.
 - I am a hero tasked with discovering what is important and making it happen
 - I was put into this world as a form of punishment

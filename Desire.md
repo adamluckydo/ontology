@@ -10,6 +10,10 @@ Emptiness: the word itself has immensely nihilistic connotations, but the Buddha
 
 In a very real sense, the Buddhist path is based on a sense of fear.
 
+### Is Buddhism the Truth?
+
+Is it possible for a human being to have _the_ Truth? 
+
 ### Will awakening cause you to lose your personality?
 
 No, you will pretty much be unidentifiably different from before. I say this based on:
