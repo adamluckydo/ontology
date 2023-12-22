@@ -186,7 +186,7 @@ Technically, in Buddha Dharma, there are four stages of awakening, defined by te
 
 Awakening, stream entry, nonduality, pure being. Many ways to put it, but it comes down to one key point:
 
-You pay attention to experience and recognize that there is no "self", and there never was one.
+You pay close enough attention to experience in a specific way, and suddenly you realize that there is no "self", and there never was one.
 
 ___
 
