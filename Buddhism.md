@@ -12,7 +12,7 @@ An age old question that, until that point, I had never taken seriously. Some pa
 
 "If I have to start deciding how I want to live my life, I obviously have to make the right decisions. And if I don't know what's actually meaningful, how am I supposed to make good decisions?"
 
-The question pittered around in the back of my head for a couple of years, and I eventually settled on an answer that suited me just fine: "the meaning of life is to find a meaning in life". I didn't actually land on a specific meaning for myself at the time, but satisfaction at my own recursive prowess kept me placated.
+The question pittered around in the back of my head for a couple of years, and I eventually settled on an answer that suited me just fine: "The meaning of life is to find a meaning in life". I didn't actually land on a specific meaning for myself at the time, but satisfaction at my own recursive prowess kept me placated.
 
 Fast-forward to 2020: Covid hits, I am utterly isolated, and I experience a freak injury that makes sitting painful and prevents me from feeling anything from sex. Fortuitously, one of my friends had recently introduced me to the Waking Up app. And, being the goody two-shoes student I am, instead of drowning my pain in alcohol or food, I turned to investigating the nature of my own experience.
 
@@ -32,7 +32,7 @@ Over the course of the next three years (we are now at the present date), I piec
 
 ___
 
-So back to this article: it's actually going to be three:
+So back to this article: It's actually going to be three:
 
 1. This one, in which I try to explain the Buddha's most central realizations and what they entail, succinctly but clearly, in fully English terms.
 2. An article where I address arguments for and against Buddhism in order to clear up common misconceptions and explain how I currently relate to it.
@@ -69,7 +69,7 @@ And if you're curious, these were his last words:
 
 If it's not clear already, the Buddha's view on life was not exactly happy-go-lucky. From the get-go, he was dead-set on his vision, and he never deviated from it. The Buddha was known to say:
 
-“I teach one thing and one thing only: suffering and the end of suffering.”
+“I teach one thing and one thing only: Suffering and the end of suffering.”
 
 ## Buddhism in a nutshell
 
@@ -164,7 +164,7 @@ For example, if you feel a pain in your knee, you would normally be likely to im
 
 Looking in terms of the five aggregates is a strategy to break that automatic cycle. When you feel that pain, you notice the sensation as "Form", the unpleasantness as "Feeling", and so on.
 
-The five aggregates view is also depersonalizing: if things are just "aggregates", there's not much reason to care about them. Likewise, all of the aggregates are impermanent, unable to permanently satisfy us in a way we'd like, and can't be inherently identified as "me" or "mine". The Buddha heavily emphasized these three aspects of phenomena in his teachings, going so far as to proclaim them as...
+The five aggregates view is also depersonalizing: If things are just "aggregates", there's not much reason to care about them. Likewise, all of the aggregates are impermanent, unable to permanently satisfy us in a way we'd like, and can't be inherently identified as "me" or "mine". The Buddha heavily emphasized these three aspects of phenomena in his teachings, going so far as to proclaim them as...
 
 #### The Three Characteristics
 
@@ -198,9 +198,11 @@ Awakening, stream entry, nonduality, pure being. Many ways to put it, but it com
 
 You pay close enough attention to experience in a specific way, and suddenly you realize that there is no "self", and there never was one.
 
+And that's great, actually!
+
 ___
 
-First, an analogy from the Buddha, told to a monk named Magandiya:
+Here's an analogy from the Buddha, told to a monk named Magandiya:
 
 Magandiya, it is just as if there were a blind man who couldn’t see black objects, white objects, blue, yellow, red objects, the sun or the moon. Now, suppose that a certain man were to take a grimy, oil-stained rag and fool him, saying, “Here, my good man, is a white cloth – beautiful, spotless, and clean.” The blind man would take it and wear it.
 
@@ -212,7 +214,7 @@ And it would occur to you, “My gosh, how long have I been fooled, cheated, and
 
 ___
 
-And some external readings/listenings that I've found very interesting:
+And some external readings/listenings that I've found very illuminating:
 
 - [The best description I've seen of the mental processes that occur leading to stream entry, and the logic by which the brain processes awakening and updates its relationship with phenomena](https://www.lesswrong.com/posts/mELQFMi9egPn5EAjK/my-attempt-to-explain-looking-insight-meditation-and)
 
