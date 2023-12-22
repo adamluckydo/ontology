@@ -1,34 +1,44 @@
-# Buddhism
+# The Descent into Buddhism
 
 ## Who am I, what is this article
 
-I've always had an insatiable urge to understand. Thinking itself is a fun activity for me. An evening spent spinning a problem around in my mind is an evening well spent. _Read: "I'm probably a bit autistic"_
+I always liked mazes as a kid. I particularly liked the challenge of not putting pencil to paper until I had them solved. Seeing how tall I could stack the incorrect paths in my head probably had unintended consequences, since my math teachers always complained that I never showed my work. But really, the fun wasn't in _how_ I solved the problem, it was in the fact that I _did_ solve the problem, and maybe just a bit about being the type of guy who _could_ solve it.
 
-However, being concerned with understanding the condition of my own existence is relatively new. Starting around college, (coincidentally around the time I was forced to start making my own life decisions) my mind kept raising the age-old question: "what is the meaning of life?" After all, if I don't know what's important, how am I supposed to make good decisions? At the time, I settled on an answer that suited me just fine: "the meaning of life is to find a meaning in life". I didn't actually land on a specific meaning at the time, but satisfaction at my recursive prowess kept me placated.
+However, starting around college, (coincidentally around the time I was forced to start making my own life decisions) my mind decided to raise a question of a much greater magnitude:
 
-Fast-forward to 2020: Covid hits, I am utterly isolated, and I experience a freak injury that makes sitting painful and prevents me from feeling anything from sex, seemingly permanently. Fortuitously, one of my friends had recently introduced me to the Waking Up app. And, being the goody two-shoes student I am, instead of drowning my pain in alcohol or food, I turned to investigating the nature of my own experience.
+"What is the meaning of life?"
 
-After all, if I'm so smart, why aren't I happy?
+An age old question that, until that point, I had never taken seriously. Some part of my mind had considered that question inoperable, off-limits from actual contemplation. But now, I reasoned:
 
-Turns out, this rabbit hole is one there's no getting out of.
+"If I have to start deciding how I want to live my life, I obviously have to make the right decisions. And if I don't know what's actually meaningful, how am I supposed to make good decisions?"
+
+The question pittered around in the back of my head for a couple of years, and I eventually settled on an answer that suited me just fine: "the meaning of life is to find a meaning in life". I didn't actually land on a specific meaning for myself at the time, but satisfaction at my own recursive prowess kept me placated.
+
+Fast-forward to 2020: Covid hits, I am utterly isolated, and I experience a freak injury that makes sitting painful and prevents me from feeling anything from sex. Fortuitously, one of my friends had recently introduced me to the Waking Up app. And, being the goody two-shoes student I am, instead of drowning my pain in alcohol or food, I turned to investigating the nature of my own experience.
+
+After all, if I was so smart, why wasn't I happy?
+
+Turns out, this rabbit hole was one I wasn't getting out of.
 
 ___
 
-The Waking Up app was cool; for the first time ever I got to hear people who seemed similarly interested in the notion of introspecting with a purpose. The app presents a wide range of perspectives and practices, but most fell short of what I was looking for. I wanted _answers_, damnit.
+The Waking Up app was cool; for the first time ever I got to hear people who seemed similarly interested in peeking below the surface of reality. The app presented a wide range of perspectives and teachings, but most fell short of what I was looking for. I wanted _answers_, damnit.
 
-After listening to the series on Stoicism, I had just about had it. I noted the practices down as "very solid coping mechanisms for nerds". But finally, I landed on Joseph Goldstein's Buddha Dharma talks. Listening, I was like, "wait, these guys literally made a _science_ out of experience? The Buddha straight-up _has_ the answers, and it turns out those answers solve suffering for good?!?" To me, Buddhism hit an entirely different level of insight, practicality, and scientific rigor than any other spiritual, religious, or philosphical framework I'd encountered.
+After listening to the series on Stoicism, I had just about had it. I remember telling my sister my analysis: "Very solid coping mechanisms for nerds".
 
-Over the course of the next three years (we are now at the present date), I pieced together a coherent picture of what the Buddha _actually_ taught, meditated a bunch, accidentally threw my psyche into a state of immense suffering that lasted for 3 months, discovered Rob Burbea (<3), recovered mentally, and worked to reconcile the seemingly indisputable teachings of the Buddha with my own life experience.
+But finally, after hitting play on a few of Joseph Goldstein's Buddha Dharma talks, I started realizing something: "Wait, these guys made a _science_ out of subjective experience? And not only is it a science, but it's a _solved_ science? The Buddha just _has_ the answers, and it turns out those answers solve suffering for good?!?" To me, Buddhism was on an entirely different level of insight, practicality, and scientific rigor than any other spiritual, religious, or philosphical framework I'd encountered.
+
+Over the course of the next three years (we are now at the present date), I pieced together a coherent picture of the Buddha's teachings, meditated a bunch, took some illicit substances, accidentally threw my psyche into a state of immense suffering that lasted for 3 months, discovered Rob Burbea (<3), recovered mentally, and worked to reconcile the seemingly indisputable teachings of the Buddha with my own life experience.
 
 ___
 
 So back to this article: it's actually going to be three:
 
-1. This one, in which I try to explain the Buddha's most central realizations, what they entail, and the path he laid out for others as succinctly but clearly as possible in fully English terms.
-2. An article where I address as many important arguments for and against Buddhism as I can in order to clear up common misconceptions and explain how I currently relate to it.
-3. An article where I outline my current beliefs, specifically relating to ontology, meditative practice, and what's important in this life.
+1. This one, in which I try to explain the Buddha's most central realizations and what they entail, succinctly but clearly, in fully English terms.
+2. An article where I address arguments for and against Buddhism in order to clear up common misconceptions and explain how I currently relate to it.
+3. An article where I outline my current beliefs, specifically relating to ontology, meditative practice, and ways to make life better.
 
-Before we begin, a disclaimer: I am not a Buddhist scholar, but I have done my best to emphasize only things the Buddha himself actually taught. I'm intentionally not going to go into arguments against any of his claims here, and I'm also not going to emphasize the nicer aspects of the Buddha's teachings (like the importance of cultivating love and generosity). I want the Buddha's implicit ontology to come through as directly as possible, and I explicitly don't want to blunt that impact. Please, _PLEASE_ do not take any of this as meditation advice. That will come in article 3 `:)`
+Before we begin, a disclaimer: I am not a Buddhist scholar, but I have done my best to emphasize only things the Buddha himself actually taught. I'm intentionally not going to go into arguments against any of his claims here, and I'm also not going to emphasize the nicer aspects of the Buddha's teachings (like the Jhanas & cultivating love and generosity). I want the Buddha's implicit ontology to come through as clearly as possible, and I explicitly don't want to blunt that impact. Please, _PLEASE_ do not take any of this as meditation advice. Instead, stay tuned for article 3 `:)`
 
 ## Who the Buddha was
 
@@ -91,7 +101,7 @@ In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that no
 
 ![Chicken noodle soup](soup.png)
 
-Soup?
+Is it really soup?
 
 For example, when we have a bowl of hot broth with white meat and pasta in it, we think "this is chicken soup". And it is... right? And it's still soup when you spoon it into your mouth, but then maybe it's not quite soup because there's some saliva mixed in, and then when you swallow it the chicken isn't quite "in" the broth anymore, and everything is mashed up. So it's not soup anymore? And when it's in your stomach, when does it stop being "chicken" and when does it start being "you"? When you can't see it anymore?
 
@@ -108,11 +118,11 @@ That does NOT arise."
 
 At first, these ideas may seem obvious, or at the very least unimportant. Of course things cause other things. But putting some pieces together, we realize a few things:
 
-1. Nothing in our experience is fundamental. Put another way, there is no root cause that is in itself not also an effect of some other cause. It's all interconnected and cyclic. Imagine an Ouroboros:
-
-![A snake eating itself](ouroboros.jpg)
+1. Nothing in our experience is fundamental. Put another way, there is no root cause that is in itself not also an effect of some other cause. It's all interconnected and cyclic. Imagine an Ouroboros (a snake eating its own tail).
 
 2. Every phenomena has a specific set of causes that are conditions for it to arise. If we can remove even one of the causes, the effect will no longer arise.
+
+![A snake eating itself](ouroboros.jpg)
 
 ### SparkNotes: Enlightenment
 
@@ -150,7 +160,7 @@ For example, if you feel a pain in your knee, you would normally be likely to im
 
 ![The Hero's Journey diagram](heros_journey.jpg)
 
-"I was just trying to get to the fridge, man"
+"I just wanted to grab a snack..."
 
 Looking in terms of the five aggregates is a strategy to break that automatic cycle. When you feel that pain, you notice the sensation as "Form", the unpleasantness as "Feeling", and so on.
 
@@ -225,8 +235,6 @@ From the Buddha:
 
 “And now, monks, I thought: ‘This truth that I have realized is profound, hard to see, hard to understand, pure, peaceful, sublime, beyond the realm of reasoning, subtle, and only the wise can experience it’”
 
-"Consciousness without feature, without end, luminous all around, does not partake of the solidity of earth, the liquidity of water, the radiance of fire, the windiness of wind, the divinity of devas."
-
-"There, I declare, is no coming, no going, no stopping, no passing away, no arising. It is without foundation. It continues not. This indeed is the end of suffering."
+"There is that dimension, monks, where there is neither earth, nor water, nor fire, nor wind; neither dimension of the infinitude of space, nor dimension of the infinitude of consciousness, nor dimension of nothingness, nor dimension of neither perception nor non-perception; neither this world, nor the next world, nor sun, nor moon. And there, I say, there is neither coming, nor going, nor staying; neither passing away nor arising. It is without foundation. It continues not. This, just this, is the end of suffering."
 
 “Where all phenomena cease, there all ways of speaking cease.”
