@@ -24,7 +24,7 @@ ___
 
 The Waking Up app was cool; for the first time ever I got to hear people who seemed similarly interested in peeking below the surface of reality. The app presented a wide range of perspectives and teachings, but most fell short of what I was looking for. I wanted _answers_, damnit.
 
-After listening to the series on Stoicism, I had just about had it. I remember telling my sister my analysis: "Very solid coping mechanisms for nerds".
+After listening to the series on Stoicism, I had just about had it. I remember giving my sister my review: "Very solid coping mechanisms for nerds".
 
 But finally, after hitting play on a few of Joseph Goldstein's Buddha Dharma talks, I started realizing something: "Wait, these guys made a _science_ out of subjective experience? And not only is it a science, but it's a _solved_ science? The Buddha just _has_ the answers, and it turns out those answers solve suffering for good?!?" To me, Buddhism was on an entirely different level of insight, practicality, and scientific rigor than any other spiritual, religious, or philosphical framework I'd encountered.
 
