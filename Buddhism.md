@@ -105,11 +105,11 @@ Is it really soup?
 
 For example, when we have a bowl of hot broth with white meat and pasta in it, we think "this is chicken soup". And it is... right? And it's still soup when you spoon it into your mouth, but then maybe it's not quite soup because there's some saliva mixed in, and then when you swallow it the chicken isn't quite "in" the broth anymore, and everything is mashed up. So it's not soup anymore? And when it's in your stomach, when does it stop being "chicken" and when does it start being "you"? When you can't see it anymore?
 
-It turns out our natural inclination to label things is a lot less about reality and a lot more about usefully categorizing things. If we want to understand reality beyond the labels, the Buddha has an explanation ready to go.
+It turns out our natural inclination to label things is a lot less about reality and a lot more about usefully categorizing things. If we want to understand reality beyond the labels, the Buddha is ready with an explanation.
 
 #### Because This Is, That Is
 
-Dependent Origination states that all phenomena are interconnected, only arising dependent on an inconceivably complex web of prior causes and conditions. There is no "thing" that has the sort of inherent, independent, or permanent existence that we tend to subconsciously attribute to phenomena. Additionally, the concept of Interdependent Co-Arising states that not only are all things dependent on other things, but cause and effect necessarily arise together. The teaching of this concept generally goes as follows:
+The teaching of Dependent Origination states that all phenomena are interconnected, only arising dependent on an inconceivably complex web of prior causes and conditions. There is no "thing" that has the sort of inherent, independent, or permanent existence that we tend to subconsciously attribute to phenomena. Additionally, the concept of Interdependent Co-Arising states that not only are all things dependent on other things, but cause and effect necessarily arise together. The teaching of this concept generally goes as follows:
 
 "With this as condition,
 That arises.
