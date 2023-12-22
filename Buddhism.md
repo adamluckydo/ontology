@@ -150,7 +150,7 @@ For example, if you feel a pain in your knee, you would normally be likely to im
 
 ![The Hero's Journey diagram](heros_journey.jpg)
 
-"God DAMNIT I was just trying to get to the fridge"
+"I was just trying to get to the fridge man"
 
 Looking in terms of the five aggregates is a strategy to break that automatic cycle. When you feel that pain, you notice the sensation as "Form", the unpleasantness as "Feeling", and so on.
 
