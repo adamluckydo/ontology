@@ -2,19 +2,19 @@
 
 ## Who am I, what is this article
 
-I always liked mazes as a kid. I particularly liked the challenge of not putting pencil to paper until I had them solved. Seeing how tall I could stack the incorrect paths in my head probably had unintended consequences, since my math teachers always complained that I never showed my work. But really, the fun wasn't in _how_ I solved the problem, it was in the fact that I _did_ solve the problem, and maybe just a bit about being the type of guy who _could_ solve it.
+I always liked mazes as a kid. I particularly liked the challenge of not putting pen to paper until I had them solved. Although seeing how tall I could stack the incorrect paths in my head probably had unintended consequences, since my math teachers always complained that I never showed my work. But to me, what mattered wasn't _how_ I solved the problem, it was that I _did_ solve the problem, and maybe, just a bit, being the type of guy who _could_ solve the problem.
 
-However, starting around college, (coincidentally around the time I was forced to start making my own life decisions) my mind decided to raise a question of a much greater magnitude:
+But sometime around 2016, while in college (coincidentally around the time I was forced to start making my own life decisions), my mind decided to raise a problem of a much greater magnitude:
 
 "What is the meaning of life?"
 
-An age old question that, until that point, I had never taken seriously. Some part of my mind had considered that question inoperable, off-limits from actual contemplation. But now, I reasoned:
+To ask that genuinely is almost laughable. But why? Its ubiquity? The unspoken agreement that it's unsolvable? An implicit assumption that meaning isn't real? The otherwise intolerable tension of existential dread? Or maybe because to even ask the question is to be unwell. For whatever reason, I had never taken the question seriously. Some part of my mind had considered it inoperable, off-limits from actual contemplation. But now, I reasoned:
 
-"If I have to start deciding how I want to live my life, I obviously have to make the right decisions. And if I don't know what's actually meaningful, how am I supposed to make good decisions?"
+"If I have to start deciding how I want to live my life, I obviously have to make the right decisions. And if I don't know what's actually meaningful, how can I know which decisions are the right ones?"
 
 The question pittered around in the back of my head for a couple of years, and I eventually settled on an answer that suited me just fine: "The meaning of life is to find a meaning in life". I didn't actually land on a specific meaning for myself at the time, but satisfaction at my own recursive prowess kept me placated.
 
-Fast-forward to 2020: Covid hits, I am utterly isolated, and I experience a freak injury that makes sitting painful and prevents me from feeling anything from sex. Fortuitously, one of my friends had recently introduced me to the Waking Up app. And, being the goody two-shoes student I am, instead of drowning my pain in alcohol or food, I turned to investigating the nature of my own experience.
+Fast-forward to 2020: Covid hit, I was utterly isolated, and I experienced a freak injury that made sitting painful and prevented me from feeling anything from sex. Fortuitously, a friend had recently introduced me to the Waking Up app. And, being the goody two-shoes student I am, instead of drowning my pain in booze or treats, I turned to investigating the nature of my own experience.
 
 After all, if I was so smart, why wasn't I happy?
 
@@ -22,13 +22,15 @@ Turns out, this rabbit hole was one I wasn't getting out of.
 
 ___
 
-The Waking Up app was cool; for the first time ever I got to hear people who seemed similarly interested in peeking below the surface of reality. The app presented a wide range of perspectives and teachings, but most fell short of what I was looking for. I wanted _answers_, damnit.
+The Waking Up app was cool; for the first time ever I got to hear people who seemed similarly interested in peeking below the surface of life. The app showcased a wide variety of perspectives and teachings, but most fell short of what I was looking for. I wanted _answers_, damnit.
 
-After listening to the series on Stoicism, I had just about had it. I remember giving my sister my review: "Very solid coping mechanisms for nerds".
+After listening to the series on Stoicism, I had just about had it. I remember sharing my review with my sister: "Very solid coping mechanisms for nerds". I'm so glad that they have a way to cope with reality, but what actually _is_ reality?
 
-But finally, after hitting play on a few of Joseph Goldstein's Buddha Dharma talks, I started realizing something: "Wait, these guys made a _science_ out of subjective experience? And not only is it a science, but it's a _solved_ science? The Buddha just _has_ the answers, and it turns out those answers solve suffering for good?!?" To me, Buddhism was on an entirely different level of insight, practicality, and scientific rigor than any other spiritual, religious, or philosphical framework I'd encountered.
+Finally, I stumbled upon a section of the app called "The Path of Insight"; a series of Buddha Dharma talks by Joseph Goldstein. At first, it sounded like a bunch of religious dogma: "Be kind to thy neighbor" and whatnot. But as I continued hitting play, I started realizing something: "Wait, this is actually a science? Of subjective experience? And not only is it a science, but it's a _solved_ science? The Buddha just _has_ the answers, and it turns out those answers solve suffering for good?!?" I was still suspicious, but Buddhism seemed to be on an entirely different level of insight, practicality, and scientific rigor from anything else on the app.
 
-Over the course of the next three years (we are now at the present date), I pieced together a coherent picture of the Buddha's teachings, meditated a bunch, took some illicit substances, accidentally threw my psyche into a state of immense suffering that lasted for 3 months, discovered Rob Burbea (<3), recovered mentally, and worked to reconcile the seemingly indisputable teachings of the Buddha with my own life experience.
+Over the course of the next three years (we are now at the present date): I've read a scary number of opinions from meditators on Twitter, meditated a decent amount myself, taken some illicit substances, accidentally thrown my psyche into a state of immense suffering lasting for 3 months, discovered Rob Burbea (<3), recovered mentally, pieced together a coherent picture of the Buddha's teachings, and worked to reconcile them with my own life experience.
+
+Now I want to create the resources I wish I had had three years ago. Specifically: A straightforward explanation of Buddhism that captures the Buddha's ontology, a series of practical arguments for and against personally adopting the practice of Buddhism, and a presentation of ontology that neither accepts Buddhism as unquestionable fact nor disregards its findings.
 
 ___
 
@@ -36,9 +38,9 @@ So back to this article: It's actually going to be three:
 
 1. This one, in which I try to explain the Buddha's most central realizations and what they entail, succinctly but clearly, in fully English terms.
 2. An article where I address arguments for and against Buddhism in order to clear up common misconceptions and explain how I currently relate to it.
-3. An article where I outline my current beliefs, specifically relating to ontology, meditative practice, and ways to make life better.
+3. An article where I outline my current beliefs, specifically relating to the importance of attention, intention, ontology, and desire.
 
-Before we begin, a disclaimer: I am not a Buddhist scholar, but I have done my best to emphasize only things the Buddha himself actually taught. I'm intentionally not going to go into arguments against any of his claims here, and I'm also not going to emphasize the nicer aspects of the Buddha's teachings (like the Jhanas & cultivating love and generosity). I want the Buddha's implicit ontology to come through as clearly as possible, and I explicitly don't want to blunt that impact. Please, _PLEASE_ do not take any of this as meditation advice. Instead, stay tuned for article 3 `:)`
+Before we begin, a disclaimer: I am not a Buddhist scholar, but I have done my best to emphasize only things the Buddha himself actually taught. I'm intentionally not going to go into arguments against any of his claims here, and I'm also not going to emphasize the nicer aspects of the Buddha's teachings (e.g. the Jhanas, cultivating love and generosity, etc.). I want the Buddha's implicit ontology to come through as clearly as possible, and I explicitly don't want to blunt that impact. Please, _PLEASE_ do not take any of this as meditation advice. Instead, stay tuned for the next articles `:)`
 
 ## Who the Buddha was
 
@@ -56,7 +58,6 @@ I have run, not finding
 although seeking the builder of this house;
 and again and again I faced the suffering of new birth.
 Oh housebuilder! Now you are seen.
-
 You shall not build a house again for me.
 All your beams are broken,
 the ridgepole is shattered.
@@ -95,7 +96,7 @@ So what is this "true" nature of reality that us plebians are blind to?
 
 #### "It" "Is" "Soup"
 
-The primary teaching that Buddhism offers is the realization of Emptiness. Specifically, the emptiness of all phenomena.
+The primary teaching Buddhism offers is the realization of Emptiness. Specifically, the emptiness of all phenomena.
 
 In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists (and despite the name it's also not endorsing nihilism, but we'll get to that later). Instead, it's a claim that things don't exist in the way we naturally believe they do. When we perceive any "thing", we instantly subconsciously label it, conceiving of it as an independent object that matches the identity we labeled it with.
 
@@ -176,7 +177,7 @@ In order to end suffering once and for all, drastic measures must be taken. Spec
 
 Sound a bit... bleak? Maybe this Buddha guy needed a good karaoke night. Or maybe he just _really_ wanted people to awaken at whatever the cost.
 
-There's a quote from him that goes:
+There's a quote from him that goes (roughly):
 
 "If you could make a deal, that every day for a hundred years, you would be stabbed with one hundred spears in the morning, stabbed again one hundred times at noon, and one hundred more times in the evening, but with a guarantee that at the end of those hundred years you’d gain full awakening, that would be a deal worth taking."
 
