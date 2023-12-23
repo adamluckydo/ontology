@@ -17,6 +17,9 @@ Valid ways of looking:
 - Existence is a cosmic joke; and you can be in on the joke if you just have fun
 
 
+https://hermesamara.org/resources/talk/2014-11-19-buddhism-beyond-modernism
+https://hermesamara.org/resources/all/retreat/November%20Solitary%202014
+
 ## Hourglass Analogy
 
 I think of spiritual development like an hourglass. There's only one shared basin, but it's labelled with three different sections: Perceiving, Relating, and Conceiving. Each section has its own hole where sand can be poured into and fall out of, and the depth of your current experience of each is represented by how much sand is in that section. The basin is filled every time you're mindful, speak truthfully, do good deeds (for yourself or others), or meditatate. The basin is emptied whenever your perceptions, conceptions, or relationship to them contracts back to a small self view. Naturally, the exit holes are massive, almost instantly emptying the basin any time it gets filled. But with practice the exits can be made smaller, and we can also more readily and less effortfully pour in new sand.

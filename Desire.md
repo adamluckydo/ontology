@@ -78,3 +78,9 @@ If you don't fall into any of these camps, then what?
 - Paying attention to where your attention is, and directing it towards the things you want to see more of
 
 ### What are the ingredients of success?
+
+
+### What other assumptions are buried under this mess?
+
+The absolute best response that I've heard to this whole deal comes from a talk by Rob Burbea from 2014: [Questioning Awakening](https://hermesamara.org/resources/talk/2014-11-12-questioning-awakening). If you have gripes with the way I've addressed (or not addressed) anything here, I can almost guarantee that that this talk will cover them.
+
