@@ -1,3 +1,3 @@
-# ontology
+# Ontology
 
-Argument maps and notes on life and reality
+Essays on life and reality

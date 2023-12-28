@@ -1,12 +1,21 @@
-# Ways of Looking
+# Sensing with Soul
 
-![Simple illustration of the relationship between conceiving and perceiving](Looking.png)
+At this point, the previous sections have given a general overview of Buddhism and some practical arguments for and against it. I personally had issues following the path as I understood it, but it could easily be argued that I simply didn't "fully" understand it. But if that's a possible (and extremely common) pitfall, perhaps there's a better way to reach the goal? And what _is_ the goal, anyway?
 
-- Desiring (self-preservation, self-gratification, self-love, love for other beings, love for all phenomena, love without object, nondual love, love for image)
-- Perceiving (phenomena only experienced as concepts, aware of sensations from the head, sensations aware of themselves, centerless awareness, Jhanas, cessation, imaginal sensations)
-- Conceiving (I/me/mine and world, stark nihilism/eternalism, in-between conceptions, five aggregates / three characteristics, emptiness/nonduality, soulmaking/imaginal)
+## The most important principles
 
-Desires fabricate Perceptions are understood by Conceptions which shape Desires which fabricate... etc.
+- Be your own researcher: "Right now, what is helpful?"
+- Extreme Ownership: If you feel badly, look for what you can do to handle the problem (even if it's not your fault).
+
+- I believe everything the Buddha realized and taught about experience was true, but I specifically want to divide the things he said into three categories:
+
+1. Conceptual Teachings
+2. Ways of Looking
+3. Personal Stances
+
+Where I went wrong in my practice was in believing
+
+### Ways of Looking
 
 Valid ways of looking:
 
@@ -16,15 +25,39 @@ Valid ways of looking:
 - Everything is just chaos and trying to explain it is futile
 - Existence is a cosmic joke; and you can be in on the joke if you just have fun
 
+## Attention, and how self-improvement _actually_ works
 
-https://hermesamara.org/resources/talk/2014-11-19-buddhism-beyond-modernism
-https://hermesamara.org/resources/all/retreat/November%20Solitary%202014
+Our experience is an ever-evolving process. In some ways this is obvious to us: Eating unhealthily will cause compounding health issues over time, working out consistently will make us more fit, and so on. But in many ways, particularly in reference to self-view and our view of others, we conceive of people as static entities. This person is X, they have Y personality, and my relationship with them is Z. This doesn't just apply to external things like people and objects, but to all phenomena. The concepts of Emptiness and Dependent Origination are actually extremely generalizable to our lives, even without hundreds or thousands of hours of meditation and spiritual inquiry.
 
-## Hourglass Analogy
+![Simple illustration of the relationship between intention, perception, and conception](Attention.png)
 
-I think of spiritual development like an hourglass. There's only one shared basin, but it's labelled with three different sections: Perceiving, Relating, and Conceiving. Each section has its own hole where sand can be poured into and fall out of, and the depth of your current experience of each is represented by how much sand is in that section. The basin is filled every time you're mindful, speak truthfully, do good deeds (for yourself or others), or meditatate. The basin is emptied whenever your perceptions, conceptions, or relationship to them contracts back to a small self view. Naturally, the exit holes are massive, almost instantly emptying the basin any time it gets filled. But with practice the exits can be made smaller, and we can also more readily and less effortfully pour in new sand.
+- Intention (self-preservation, self-gratification, self-love, love for other beings, love for all phenomena, love without object, nondual love, love for image)
+- Perception (phenomena only experienced as concepts, aware of sensations from the head, sensations aware of themselves, centerless awareness, Jhanas, cessation, imaginal sensations)
+- Conception (I/me/mine and world, stark nihilism/eternalism, in-between conceptions, five aggregates / three characteristics, emptiness/nonduality, soulmaking/imaginal)
 
-Since the three sections are undivided, as one section fills, it inevitably begins spilling into the others. Likewise, if one section is emptied, the other sections are pulled down with it. Through the course of our lives, sand will enter and exit the basin countless times. Our experience of life is not a static thing: we never reach a point and permanently settle there. That means that making progress at one time, and then at another being right back to square one, is not only expected, but inevitable. However, the more full the basin is, the more dynamic and joyful our experience and the experience of others will be. The less full, the less joyful. And that's a goal I consider worth striving for.
+## The Middle Way of Desire
+
+~ Neither what you "want" to do, nor what you "should" do
+
+## Rumi
+
+From _The Essential Rumi_, translated by Coleman Barks:
+
+### On Gambling
+
+_To a frog that's never left his pond the ocean seems like a gamble._
+_Look waht he's giving up: security, mastery of his world, recognition!_
+_The ocean frog just shakes his head. "I can't really explain waht it's like where I live, but someday I'll take you there."_
+
+If you want what visible reality can give, you're an employee
+
+If you want the unseen world, you're not living your truth.
+
+Both wishes are foolish, but you'll be forgiven for forgetting that what you really want is love's confusing joy.
+
+### Finding "Love's Confusing Joy"
+
+
 
 ## Two Kinds of Intelligence
 
@@ -153,4 +186,8 @@ People who renounce desires
 often turn, suddenly,
 into hypocrites!
 
-From the translations of Rumi by Coleman Barks
+## Where to now, St. Peter?
+
+Rob Burbea's final talk, given weeks before he died in 2020, is less than five minutes long. I listen to it as a yearly tradition on Christmas Eve.
+
+It speaks for itself: [Perfection and Christ's Blessing](https://hermesamara.org/resources/talk/2020-03-06-perfection-and-christs-blessing)

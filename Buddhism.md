@@ -1,48 +1,24 @@
-# The Descent into Buddhism
+# Buddhism
 
-## Who am I, what is this article
+This is the second section of a 4-part series. For context on why I'm writing this, check out [part one](Introduction.md).
 
-I always liked mazes as a kid. I particularly liked the challenge of not putting pen to paper until I had them solved. Although seeing how tall I could stack the incorrect paths in my head probably had unintended consequences, since my math teachers always complained that I never showed my work. But to me, what mattered wasn't _how_ I solved the problem, it was that I _did_ solve the problem, and maybe, just a bit, being the type of guy who _could_ solve the problem.
+I haven't yet come across an explanation of Buddhism that explains it in a digestible way for the average western layman. When I say "digestible", I mean a few things:
 
-But sometime around 2016, while in college (coincidentally around the time I was forced to start making my own life decisions), my mind decided to raise a problem of a much greater magnitude:
+- Only English: English-speaking people who don't know Sanskrit or Pali are not aided by the use of terms from those languages. If any term dosn't have a good English translation, I think it's better to describe it in English than to give up and continue using a non-English term that could be misused or misinterpreted.
 
-"What is the meaning of life?"
+- Conceptual Explanations: Buddhism, unlike other religions, does not depend on supernatural deities to fill in any blanks. Instead, the "religion" (which is really better described as a science or practice) is based on concepts that are able to be directly comprehended. I think explaining those concepts is key to painting an accurate picture of Buddhism as a whole.
 
-To ask that genuinely is almost laughable. But why? Its ubiquity? The unspoken agreement that it's unsolvable? An implicit assumption that meaning isn't real? The otherwise intolerable tension of existential dread? Or maybe because to even ask the question is to be unwell. For whatever reason, I had never taken the question seriously. Some part of my mind had considered it inoperable, off-limits from actual contemplation. But now, I reasoned:
+- Clarity on Practices & Goals: So many overviews of Buddhism never reveal how the Buddha taught people to practice, nor what the end goal of practice is. I'm going to err on the other side, since I think the goals of Buddhism are what differentiate it most from other practices andbelief systems.
 
-"If I have to start deciding how I want to live my life, I obviously have to make the right decisions. And if I don't know what's actually meaningful, how can I know which decisions are the right ones?"
+Before we begin, a disclaimer: I am not a Buddhist scholar, but I have done my best to emphasize only things the Buddha himself actually taught. I'm intentionally not going to go into arguments against any of his claims here, and I'm also not going to emphasize the nicer aspects of the Buddha's teachings (e.g. the Jhanas, cultivating love and generosity, etc.). I want the Buddha's implicit ontology to come through as clearly as possible, and I explicitly don't want to blunt that impact. Please, _PLEASE_ do not take any of this as meditation advice. Instead, stay tuned for the next parts `:)`
 
-The question pittered around in the back of my head for a couple of years, and I eventually settled on an answer that suited me just fine: "The meaning of life is to find a meaning in life". I didn't actually land on a specific meaning for myself at the time, but satisfaction at my own recursive prowess kept me placated.
+## The Buddha's Story
 
-Fast-forward to 2020: Covid hit, I was utterly isolated, and I experienced a freak injury that made sitting painful and prevented me from feeling anything from sex. Fortuitously, a friend had recently introduced me to the Waking Up app. And, being the goody two-shoes student I am, instead of drowning my pain in booze or treats, I turned to investigating the nature of my own experience.
+Date: 5th century BC (~2500 years ago)
 
-After all, if I was so smart, why wasn't I happy?
+Location: The Indo-Gangetic Plain (North India)
 
-Turns out, this rabbit hole was one I wasn't getting out of.
-
-___
-
-The Waking Up app was cool; for the first time ever I got to hear people who seemed similarly interested in peeking below the surface of life. The app showcased a wide variety of perspectives and teachings, but most fell short of what I was looking for. I wanted _answers_, damnit.
-
-After listening to the series on Stoicism, I had just about had it. I remember sharing my review with my sister: "Very solid coping mechanisms for nerds". I'm so glad that they have a way to cope with reality, but what actually _is_ reality?
-
-Finally, I stumbled upon a section of the app called "The Path of Insight"; a series of Buddha Dharma talks by Joseph Goldstein. At first, it sounded like a bunch of religious dogma: "Be kind to thy neighbor" and whatnot. But as I continued hitting play, I started realizing something: "Wait, this is actually a science? Of subjective experience? And not only is it a science, but it's a _solved_ science? The Buddha just _has_ the answers, and it turns out those answers solve suffering for good?!?" I was still suspicious, but Buddhism seemed to be on an entirely different level of insight, practicality, and scientific rigor from anything else on the app.
-
-Over the course of the next three years (we are now at the present date): I've read a scary number of opinions from meditators on Twitter, meditated a decent amount myself, taken some illicit substances, accidentally thrown my psyche into a state of immense suffering lasting for 3 months, discovered Rob Burbea (<3), recovered mentally, pieced together a coherent picture of the Buddha's teachings, and worked to reconcile them with my own life experience.
-
-Now I want to create the resources I wish I had had three years ago. Specifically: A straightforward explanation of Buddhism that captures the Buddha's ontology, a series of practical arguments for and against personally adopting the practice of Buddhism, and a presentation of ontology that neither accepts Buddhism as unquestionable fact nor disregards its findings.
-
-___
-
-So back to this article: It's actually going to be three:
-
-1. This one, in which I try to explain the Buddha's most central realizations and what they entail, succinctly but clearly, in fully English terms.
-2. An article where I address arguments for and against Buddhism in order to clear up common misconceptions and explain how I currently relate to it.
-3. An article where I outline my current beliefs, specifically relating to the importance of attention, intention, ontology, and desire.
-
-Before we begin, a disclaimer: I am not a Buddhist scholar, but I have done my best to emphasize only things the Buddha himself actually taught. I'm intentionally not going to go into arguments against any of his claims here, and I'm also not going to emphasize the nicer aspects of the Buddha's teachings (e.g. the Jhanas, cultivating love and generosity, etc.). I want the Buddha's implicit ontology to come through as clearly as possible, and I explicitly don't want to blunt that impact. Please, _PLEASE_ do not take any of this as meditation advice. Instead, stay tuned for the next articles `:)`
-
-## Who the Buddha was
+Dominant religion: Vedic Brahmanism (precursor to Hinduism)
 
 The Buddha (given name: Siddhartha Gautama) was born to royalty. The story goes: Siddhartha's parents sheltered him so he wouldn't be exposed to the painful aspects of life and could instead rule from a position of comfort. However, at the young age of 29, he finally left the palace and bore witness to the suffering of others. Specifically, he saw an elderly person, a diseased person, a corpse, and a wandering ascetic.
 Siddhartha realized:
@@ -98,19 +74,25 @@ So what is this "true" nature of reality that us plebians are blind to?
 
 The primary teaching Buddhism offers is the realization of Emptiness. Specifically, the emptiness of all phenomena.
 
-In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists (and despite the name it's also not endorsing nihilism, but we'll get to that later). Instead, it's a claim that things don't exist in the way we naturally believe they do. When we perceive any "thing", we instantly subconsciously label it, conceiving of it as an independent object that matches the identity we labeled it with.
+In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it claims that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. The Buddha actually _specifically_ condemned the stances of both nihilism and eternalism, teaching "The Middle Way" between existence and nonexistence. The Middle Way is directly related to Emptiness, because the concept of Emptiness itself implies the Middle Way.
+
+So what actually _is_ Emptiness, then?
+
+It's helpful to think of it as an adjective that applies to literally everything you can perceive: Your imagination, scientific facts, objects you can see and taste and touch, even consciousness itself. When something is "empty", it is empty of "inherent existence". For instance, imagine a can of soda. "Soda" is really just a label that we give to cans of carbonated water, sugar, and flavorings. And that carbonated water is just a label for a mixture of water and oxygen molecules, and those are just labels for groupings of atoms, and so on and so forth (there's a paradox here if you think about it, but I'll cover that in the next part of the series).
+
+So, according to Emptiness: "Things" are really just labels that point to groups of smaller things happening together (all of which are empty too). This differs from our natural method of interpreting phenomena, which is: Perceive "thing" -> instantly unconsciously label it -> conceive of "thing" as an inherently existing object that matches the identity we labeled it with.
 
 ![Chicken noodle soup](soup.png)
 
 Is it really soup?
 
-For example, when we have a bowl of hot broth with white meat and pasta in it, we think "this is chicken soup". And it is... right? And it's still soup when you spoon it into your mouth, but then maybe it's not quite soup because there's some saliva mixed in, and then when you swallow it the chicken isn't quite "in" the broth anymore, and everything is mashed up. So it's not soup anymore? And when it's in your stomach, when does it stop being "chicken" and when does it start being "you"? When you can't see it anymore?
+Emptiness also applies to the existence of "things" over time: Say we have a bowl of hot broth with white meat and pasta in it. We think "this is chicken soup". And it is... right? And it's still soup when you spoon it into your mouth, but then maybe it's not quite soup because there's some saliva mixed in, and then when you swallow it the chicken isn't quite "in" the broth anymore, and everything is mashed up. So it's not soup anymore? And when it's in your stomach, when does it stop being "chicken" and when does it start being "you"? When you can't see it anymore?
 
 It turns out our natural inclination to label things is a lot less about reality and a lot more about usefully categorizing things. If we want to understand reality beyond the labels, the Buddha is ready with an explanation.
 
 #### Because This Is, That Is
 
-The teaching of Dependent Origination states that all phenomena are interconnected, only arising dependent on an inconceivably complex web of prior causes and conditions. There is no "thing" that has the sort of inherent, independent, or permanent existence that we tend to subconsciously attribute to phenomena. Additionally, the concept of Interdependent Co-Arising states that not only are all things dependent on other things, but cause and effect necessarily arise together. The teaching of this concept generally goes as follows:
+The teaching of Dependent Origination states that all phenomena are interconnected, only arising dependent on an inconceivably complex web of prior causes and conditions. Therefore, all "things" are both empty (not inherent) and dependently originating (not independent). Additionally, the concept of Interdependent Co-Arising states that not only are all things dependent on other things, but cause and effect necessarily arise together. The teaching of this concept generally goes as follows:
 
 "With this as condition,
 That arises.
@@ -119,9 +101,9 @@ That does NOT arise."
 
 At first, these ideas may seem obvious, or at the very least unimportant. Of course things cause other things. But putting some pieces together, we realize a few things:
 
-1. Nothing in our experience is fundamental. Put another way, there is no root cause that is in itself not also an effect of some other cause. It's all interconnected and cyclic. Imagine an Ouroboros (a snake eating its own tail).
+1. Nothing in our experience is fundamental. Put another way, there is no root cause that isn't also an effect of some other cause. It's all interconnected and cyclic. Imagine experience as an Ouroboros (a snake eating its own tail). Suffering is like the point at which the snake is biting itself.
 
-2. Every phenomena has a specific set of causes that are conditions for it to arise. If we can remove even one of the causes, the effect will no longer arise.
+2. Every phenomena has a specific set of causes that are conditions for it to arise. If we can remove even one of the causes, the effect will no longer arise. In our Ouroboros analogy, if we can just figure out how to make the snake retract its fangs, suffering won't happen anymore.
 
 ![A snake eating itself](ouroboros.jpg)
 
@@ -129,13 +111,13 @@ At first, these ideas may seem obvious, or at the very least unimportant. Of cou
 
 At this point, we have enough context to describe enlightenment in the most bare-bones possible way. When the Buddha fully awakened, he:
 
-1. Fully realized the Dependent Origination of all phenomena (that things only exist if the cause for them exists)
+1. Fully realized the Dependent Origination of all phenomena (that things only exist if the cause for them exists, including suffering)
 
-2. Put together insights that make up the Four Noble Truths (what suffering is, what causes it, and that it can be be ended)
+2. Experienced the Emptiness of all phenomena directly (thus seeing the cause of suffering as empty and abandoning it)
 
-3. Experienced the Emptiness of all phenomena directly (thus seeing the cause of suffering as empty and abandoning it)
+3. At which point he became fully enlightened (liberated from suffering and all conditioned phenomena)
 
-4. At which point he became fully enlightened (liberated from suffering and all conditioned phenomena)
+4. Put together the Four Noble Truths (what suffering is, what causes it, that it can be ended, and how to end it)
 
 And that's great for him. But unless you suddenly awakened after reading that, conceptual understanding is clearly not enough to reach full enlightenment.
 
@@ -169,7 +151,7 @@ The five aggregates view is also depersonalizing: If things are just "aggregates
 
 #### The Three Characteristics
 
-In order to end suffering once and for all, drastic measures must be taken. Specifically, adopting lenses that cast experience in the worst possible light.
+In order to end suffering once and for all, drastic measures must be taken. Specifically, adopting lenses that cast experience in a less-than-appealing light. Or, the Buddha would argue, an accurate light:
 
 1. Impermanence: Everything changes, nothing lasts
 2. Unsatisfactory (highly contended translation): Phenomena is "a bummer", or "not quite it", or, if you're really hardcore, "suffering"
@@ -189,21 +171,23 @@ Damn. What is this awakening then, and how is it _that_ good?
 
 ### Awakening
 
-I am not yet an awakened being, so it would be a bit ridiculous of me to try to explain what awakening is like, especially given that even awakened people find it nigh impossible to clearly convey what it's like to people who don't already understand. However, I've read a _lot_ about it, and so I'll try to point to some resources that contour the lines around this very real and distinct phenomenon.
+I am not yet an awakened being, so it's a bit ridiculous of me to try to explain what awakening is like, especially given that even awakened people find it nigh impossible to clearly convey what it's like to people who don't already understand. However, I've read a _lot_ about it, so I'll try to contour the lines around this very real and distinct phenomenon, and point to some resources that can describe it even better.
 
 Technically, in Buddha Dharma, there are four stages of awakening, defined by ten fetters that must each be broken to reach full liberation, but for our purposes we'll just go with the first stage. This initial awakening, known as "stream entry", is what most people are referring to when you hear the word "enlightenment".
 
 #### Stream Entry
 
-Awakening, stream entry, nonduality, pure being. Many ways to put it, but it comes down to one key point:
+Awakening, stream entry, nonduality, pure being. There are many ways people describe it, but it comes down to one key point:
 
 You pay close enough attention to experience in a specific way, and suddenly you realize that there is no "self", and there never was one.
 
-And that's great, actually!
+And that's great, actually! Because it's not that the self is "lost", or "eradicated". Your personality and intelligence and everything about you is still fully intact; it's just that you realize you were adding some extra tension onto experience in the shape of a self-conception that didn't actually need to be there.
+
+If that still doesn't sound good: Welcome to why people generally don't introduce Buddhism by talking about its goals.
+
+How about an analogy from the Buddha himself? Here he explains stream entry to a monk named Magandiya:
 
 ___
-
-Here's an analogy from the Buddha, told to a monk named Magandiya:
 
 Magandiya, it is just as if there were a blind man who couldn’t see black objects, white objects, blue, yellow, red objects, the sun or the moon. Now, suppose that a certain man were to take a grimy, oil-stained rag and fool him, saying, “Here, my good man, is a white cloth – beautiful, spotless, and clean.” The blind man would take it and wear it.
 
@@ -217,11 +201,11 @@ ___
 
 And some external readings/listenings that I've found very illuminating:
 
-- [The best description I've seen of the mental processes that occur leading to stream entry, and the logic by which the brain processes awakening and updates its relationship with phenomena](https://www.lesswrong.com/posts/mELQFMi9egPn5EAjK/my-attempt-to-explain-looking-insight-meditation-and)
+- [The best explanation I've read of the mental processes that occur leading to stream entry, and the logic by which the brain processes awakening and updates its relationship with phenomena](https://www.lesswrong.com/posts/mELQFMi9egPn5EAjK/my-attempt-to-explain-looking-insight-meditation-and)
 
 - [My favorite descriptive account of the experience of awakening (four pages, navigate at the bottom)](https://www.simplytheseen.com/what-is-awakening.html)
 
-- [A Dharma talk by Rob Burbea on awakening and its place in our modern lives](https://hermesamara.org/resources/talk/2008-03-08-awakening)
+- [A Dharma talk by Rob Burbea from 2008 on awakening and its place in our modern lives](https://hermesamara.org/resources/talk/2008-03-08-awakening)
 
 After stream entry, assuming a practitioner continues practicing, the stages of awakening continue, freeing the being from more and more of the fetters that bind them to the cycle of existence and nonexistence. Eventually, what is reached is known as full enlightenment, "neither being nor nonbeing", also referred to as...
 
@@ -231,7 +215,8 @@ What lies at the end of existence?
 
 ...
 
-It is not of the five aggregates, and it is not a dependent origination.
+It is not empty, and it is not a dependent origination.
+It is not of the five aggregates, a
 It is not formed by causal conditions, and therefore never changes, nor ceases to exist.
 
 From the Buddha:

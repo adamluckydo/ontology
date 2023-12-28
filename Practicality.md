@@ -1,20 +1,28 @@
-## Buddhism Debate
+# Practical Practice
 
-Buddhism is heavy stuff.
+## What exactly _is_ the Buddhist Path?
+
+Here's an excerpt from one of the talks Rob Burbea gave at a [2008 retreat](https://hermesamara.org/resources/talk/2008-12-28-the-meaning-of-refuge):
+
+> One of my teachers, Ajaan Geoff, said the path is based on a sense of fear, which when I first heard it, I was like, "Wow, that's really odd." Actually to have a very alive sense of danger and fear, it's a requirement for refuge. So the Buddha would encourage these kind of reflections, reflections on ageing, reflections on the fact of sickness, reflections on death, reflections on loss, on the inevitable growing separate from what and who we love. This is the nature of things, and so he said one should reflect, "I am subject to ageing, subject to sickness, subject to death, subject to loss. I have not gone beyond ageing, sickness, death." To really reflect on this. And then to reflect further: "I am not the only one subject to ageing, sickness, death, etc. All beings are subject to ageing, have not gone beyond ageing, sickness, death, loss."
+
+Undeniably, Buddhism is heavy stuff.
 
 Not only is it complex, and incredibly far out of the realm of our normal conception of existence, but even just hearing about it can strike people in unexpected ways. Furthermore, attempting to follow its doctrines it in earnest can be mentally destabilizing (even when practice is going "well").
 
-### The Middle Way
+## Did the Buddha's teachings actually
 
-Emptiness: the word itself has immensely nihilistic connotations, but the Buddha explicitly condemned nihilism as a philosophical stance.
+"What am I becoming as the days and nights fly past?"[1]
 
-In a very real sense, the Buddhist path is based on a sense of fear.
+## Is Buddhism the Truth?
 
-### Is Buddhism the Truth?
+Is it possible for a human being to have _the_ Truth?
 
-Is it possible for a human being to have _the_ Truth? 
+### Paradoxes
 
-### Will awakening cause you to lose your personality?
+- Emptiness of all particles, what's fundamental? Time? Space?
+
+## Will awakening cause you to lose your personality?
 
 No, you will pretty much be unidentifiably different from before. I say this based on:
 
@@ -24,7 +32,7 @@ No, you will pretty much be unidentifiably different from before. I say this bas
 
 Nothing about meditation "removes" any part of your personality, but it may make you a bit more awkward if you spend all of your time meditating without socializing.
 
-### Is the work required to reach stream entry worth it?
+## Is the work required to reach stream entry worth it?
 
 Who do you believe? If you believe your unawakened self, then almost definitely no. But I'd advise you to consider Plato's [Allegory of the Cave](https://www.youtube.com/watch?v=69F7GhASOdM).
 
@@ -32,7 +40,7 @@ If you listen to any stream enterer, almost all will say that the shift that occ
 
 Whether you personally should make the effort can only be a personal decision. Do you desire to try? And speaking of desire...
 
-### Does the Buddha hate desire?
+## Does the Buddha hate desire?
 
 If you read the Four Noble Truths, it's pretty easy to draw the conclusion that desire is the root of all suffering. Therefore, the Buddha must think desire is bad.
 
@@ -49,7 +57,7 @@ So if you don't actually have the desire to follow the Buddha's path, you won't 
 
 This is why it's important to ask...
 
-### What is your actual desire?
+## What is your actual desire?
 
 If Buddhism appeals to you, I think it's important to deeply inquire into why. And that's not coming from a place of judgement, but a place of practicality. If you do not deeply desire the reason you're actually practicing, you not only won't likely get anywhere, but you may end up in a mental state far worse than you began with.
 
@@ -63,7 +71,7 @@ Here are some reasons I can think people would want to engage directly with Budd
 
 If you don't fall into any of these camps, then what?
 
-### What actually feels good?
+## What actually feels good?
 
 - Trying my absolute hardest
 - Believing in something
@@ -72,15 +80,14 @@ If you don't fall into any of these camps, then what?
 - Adrenaline rushes from running while listening to music
 - Working through a complex issue
 
-
-### What is most important?
+## What is most important?
 
 - Paying attention to where your attention is, and directing it towards the things you want to see more of
 
-### What are the ingredients of success?
+## What are the ingredients of success?
 
-
-### What other assumptions are buried under this mess?
+## What other assumptions are buried under this mess?
 
 The absolute best response that I've heard to this whole deal comes from a talk by Rob Burbea from 2014: [Questioning Awakening](https://hermesamara.org/resources/talk/2014-11-12-questioning-awakening). If you have gripes with the way I've addressed (or not addressed) anything here, I can almost guarantee that that this talk will cover them.
 
+[1] AN 10:48
