@@ -78,7 +78,7 @@ In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that no
 
 So what actually _is_ Emptiness, then?
 
-It's helpful to think of it as an adjective that applies to literally everything you can perceive: Your imagination, scientific facts, objects you can see and taste and touch, even consciousness itself. When something is "empty", it is empty of "inherent existence". For instance, imagine a can of soda. "Soda" is really just a label that we give to cans of carbonated water, sugar, and flavorings. And that carbonated water is just a label for a mixture of water and oxygen molecules, and those are just labels for groupings of atoms, and so on and so forth (there's a paradox here if you think about it, but I'll cover that in the next part of the series).
+Imagine it like the word "Insubstantial". It's helpful to think of it as an adjective that applies to literally everything you can perceive: Your imagination, scientific facts, objects you can see and taste and touch, even consciousness itself. When something is "empty", it is empty of "inherent existence". For instance, imagine a can of soda. "Soda" is really just a label that we give to cans of carbonated water, sugar, and flavorings. And that carbonated water is just a label for a mixture of water and oxygen molecules, and those are just labels for groupings of atoms, and so on and so forth.
 
 So, according to Emptiness: "Things" are really just labels that point to groups of smaller things happening together (all of which are empty too). This differs from our natural method of interpreting phenomena, which is: Perceive "thing" -> instantly unconsciously label it -> conceive of "thing" as an inherently existing object that matches the identity we labeled it with.
 
@@ -92,12 +92,14 @@ It turns out our natural inclination to label things is a lot less about reality
 
 #### Because This Is, That Is
 
-The teaching of Dependent Origination states that all phenomena are interconnected, only arising dependent on an inconceivably complex web of prior causes and conditions. Therefore, all "things" are both empty (not inherent) and dependently originating (not independent). Additionally, the concept of Interdependent Co-Arising states that not only are all things dependent on other things, but cause and effect necessarily arise together. The teaching of this concept generally goes as follows:
+The teaching of Dependent Origination states that all phenomena are interconnected, only arising dependent on an inconceivably complex web of prior causes and conditions. Therefore, all "things" are both empty (insubstantial) and dependently originating (caused by something else). Additionally, the concept of Interdependent Co-Arising states that not only are all things dependent on other things, but cause and effect necessarily arise together. The teaching of this concept generally goes as follows:
 
 "With this as condition,
 That arises.
 With this NOT as condition,
 That does NOT arise."
+
+___
 
 At first, these ideas may seem obvious, or at the very least unimportant. Of course things cause other things. But putting some pieces together, we realize a few things:
 
@@ -113,7 +115,7 @@ At this point, we have enough context to describe enlightenment in the most bare
 
 1. Fully realized the Dependent Origination of all phenomena (that things only exist if the cause for them exists, including suffering)
 
-2. Experienced the Emptiness of all phenomena directly (thus seeing the cause of suffering as empty and abandoning it)
+2. Experienced the Emptiness of all phenomena directly (thus removing the condition of ignorance which is necessary for suffering to occur)
 
 3. At which point he became fully enlightened (liberated from suffering and all conditioned phenomena)
 

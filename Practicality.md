@@ -6,11 +6,15 @@ Here's an excerpt from one of the talks Rob Burbea gave at a [2008 retreat](http
 
 > One of my teachers, Ajaan Geoff, said the path is based on a sense of fear, which when I first heard it, I was like, "Wow, that's really odd." Actually to have a very alive sense of danger and fear, it's a requirement for refuge. So the Buddha would encourage these kind of reflections, reflections on ageing, reflections on the fact of sickness, reflections on death, reflections on loss, on the inevitable growing separate from what and who we love. This is the nature of things, and so he said one should reflect, "I am subject to ageing, subject to sickness, subject to death, subject to loss. I have not gone beyond ageing, sickness, death." To really reflect on this. And then to reflect further: "I am not the only one subject to ageing, sickness, death, etc. All beings are subject to ageing, have not gone beyond ageing, sickness, death, loss."
 
-Undeniably, Buddhism is heavy stuff.
+Not only is Buddhism complex, heavy, and incredibly far out of the realm of our normal conception of existence, but even just hearing about it can strike people in unexpected ways. Furthermore, attempting to follow its doctrines it in earnest can be mentally destabilizing (even when practice is going "well"). At least, that's what happened to me.
 
-Not only is it complex, and incredibly far out of the realm of our normal conception of existence, but even just hearing about it can strike people in unexpected ways. Furthermore, attempting to follow its doctrines it in earnest can be mentally destabilizing (even when practice is going "well").
+Turns out, if you meditate a bunch and practice viewing all phenomena as suffering, it's possible to convince your brain that it is the truth. And the effects of doing that (at the very least with no preparation) are not good.
 
-## Did the Buddha's teachings actually
+Specifically, the way it registered for me was like a sudden jolt of realization that everything was a trick. All good things, all bad things, every thing that _has_ happened or _will_ happen was just fake, and caring about any of it could only lead to suffering. You know how your brain will drift off into daydreams as soon as you're not focusing on something? Well every time that happened, instead of random thoughts about myself or others or the future or the past, it was just "this is all suffering". And the only thing that helped was to clear my mind by meditating, but the thought of being alone with my own mind was too overwhelmingly terrifying to allow myself to do even that. For a few weeks after the initial shift, I could not go to sleep without a light on and some audio playing to try to distract my mind from "the truth".
+
+There were only two things that really pulled me out of it: Time, and Rob Burbea.
+
+## Who is Rob Burbea?
 
 "What am I becoming as the days and nights fly past?"[1]
 
