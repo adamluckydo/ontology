@@ -2,6 +2,17 @@
 
 At this point, the previous sections have given a general overview of Buddhism and some practical arguments for and against it. I personally had issues following the path as I understood it, but it could easily be argued that I simply didn't "fully" understand it. But if that's a possible (and extremely common) pitfall, perhaps there's a better way to reach the goal? And what _is_ the goal, anyway?
 
+## Brass Tacks
+
+Humans desire two things: Safety and love. Suffering happens when they don't feel like they have those.
+
+The Buddha realized: There is no way to _ever_ be safe, if "safety" means "not dying". Likewise, the need to be loved is infinitely expanding. The only way to resolve these needs for good would be to to remove the need for them in the first place.
+By modifying perception such that there _is_ no self that needs safety or love, those reason to even have those desires is extinguished. Ergo, no suffering.
+
+But what if we aren't there, or even going in that direction?
+
+Why not focus on fulfilling those needs directly?
+
 ## The most important principles
 
 - Beginner's Mind: If all else fails, foget everything you know and see where it takes you.
@@ -33,6 +44,10 @@ At this point, the previous sections have given a general overview of Buddhism a
   - Our minds naturally move towards what we know will bring us happiness: local maxima
   - It's also very likely that there is a greater happiness if we try new things: absolute maxima
   - One idea: enjoy the local maxima to the fullest (i.e. "make every moment count") but to not be afraid in our search for the absolute maximum (i.e. "follow your truth")
+- The way to hard things is through them
+  - Showing yourself that you can live through the hard things is what makes them disappear
+  - The fear of the thing is what's causing the problem, not the thing itself
+  - Everything that comes up needs to be understood, accepted, and loved, because it's all part of you
 - Again: Reality is something that can be shaped
 
 - I believe everything the Buddha realized and taught about experience was true, but I specifically want to divide the things he said into three categories:
@@ -62,8 +77,14 @@ Valid ways of looking:
 - Where to start: Move from self-preservation -> self-gratification -> self-love
   - Practice: Pay attention to what you're paying attention to (mindfulness) to notice where you're stuck in fear-based mindsets
   - Work: Spend time working towards the cool things you quietly dream of doing. Even if nothing comes of it, you're building an important sense of agency
-  - Figure out how to feel love: [This article](https://sashachapin.substack.com/p/how-i-attained-persistent-self-love) by Sasha Chapin is a great starting point, and he also offers a course specifically on self-acceptance
+    - How do you know if it's the right kind of work?
+      - Wrong: If it's mostly instrumental (e.g. money, status, even something as good as helping others)
+      - Right: If it's an art. Does it feel like you're actually expressing your gifts/feelings/truth?
+    - Self-belief: If you're rationalizing paranoia about the ways you could fail, you've already lost.
+      - Pay attention: Are other people as good at what you're doing as you are?
+      - If you work hard enough at anything, you _will_ get good at it. If it's something you actually care about, you will succeed.
   - Reconnect with your physical being: [The Somatic Resonance course](https://www.riverkenna.com/soma) by River Kenna is great (and he's doing great work so support him if you feel so inclined)
+  - Figure out how to feel love: [This article](https://sashachapin.substack.com/p/how-i-attained-persistent-self-love) by Sasha Chapin is a great starting point, and he also offers a course specifically on self-acceptance
 - How to grow: Curiosity, sensitivity, responsiveness, and experimentation
 
 ## Attention, and how self-improvement _actually_ works

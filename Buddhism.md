@@ -1,16 +1,20 @@
 # Buddhism
 
-This is the second section of a 4-part series. For context on why I'm writing this, check out [part one](Introduction.md).
+I don't like the way most people explain Buddhism. For a bunch of reasons, people tend to avoid explaining the main thrust of the Buddha's teachings all in one place. One reason is that Buddhism is complicated, so simplifying it as I'm doing will inevitably leave out some important details. But I think his teachings are fascinating and I want more people to understand and discuss them, so I'm going to try anyway.
 
-I haven't yet come across an explanation of Buddhism that explains it in a digestible way for the average western layman. When I say "digestible", I mean a few things:
+## Reasonings & Disclaimers
 
-- Only English: English-speaking people who don't know Sanskrit or Pali are not aided by the use of terms from those languages. If any term dosn't have a good English translation, I think it's better to describe it in English than to give up and continue using a non-English term that could be misused or misinterpreted.
+There are endless arguments about who/what/when/where/why/how the Buddha's teachings should be offered. I am not a Buddhist scholar, nor even an "awakened" being, but I have spent the past couple of years learning from books, dharma talks, and opinions of experienced meditators.
 
-- Conceptual Explanations: Buddhism, unlike other religions, does not depend on supernatural deities to fill in any blanks. Instead, the "religion" (which is really better described as a science or practice) is based on concepts that are able to be directly comprehended. I think explaining those concepts is key to painting an accurate picture of Buddhism as a whole.
+Based on my knowledge and my experience thus far, here's how I've decided to present things:
 
-- Clarity on Practices & Goals: So many overviews of Buddhism never reveal how the Buddha taught people to practice, nor what the end goal of practice is. I'm going to err on the other side, since I think the goals of Buddhism are what differentiate it most from other practices andbelief systems.
+1. English: Do you know Pali or Sanskrit? No? Then let's not add any more indirection into the mix for now.
 
-Before we begin, a disclaimer: I am not a Buddhist scholar, but I have done my best to emphasize only things the Buddha himself actually taught. I'm intentionally not going to go into arguments against any of his claims here, and I'm also not going to emphasize the nicer aspects of the Buddha's teachings (e.g. the Jhanas, cultivating love and generosity, etc.). I want the Buddha's implicit ontology to come through as clearly as possible, and I explicitly don't want to blunt that impact. Please, _PLEASE_ do not take any of this as meditation advice. Instead, stay tuned for the next parts `:)`
+2. Concept-based: Buddhism, unlike other religions, doesn't involve any supernatural deitites. Instead, the "religion" (which is really better described as a science or practice) is based on concepts that can be directly realized. Explaining those concepts at some level is key to painting an accurate picture of Buddhism as a whole.
+
+3. Goal-oriented: What did the Buddha specifically desire as the end result of practice? How did he teach people to get there?
+
+I have done my best to emphasize only things the Buddha himself actually taught. I'm intentionally not going to go into arguments against any of his claims here, and I'm also not going to emphasize the nicer aspects of the Buddha's teachings (e.g. the Jhanas, cultivating love and generosity, etc.). I want the Buddha's implicit beliefs to come through as clearly as possible, and I explicitly don't want to blunt that impact. Please, _PLEASE_ do not take any of this as meditation advice. Instead, stay tuned for the next parts `:)`
 
 ## The Buddha's Story
 
@@ -20,7 +24,9 @@ Location: The Indo-Gangetic Plain (North India)
 
 Dominant religion: Vedic Brahmanism (precursor to Hinduism)
 
-The Buddha (given name: Siddhartha Gautama) was born to royalty. The story goes: Siddhartha's parents sheltered him so he wouldn't be exposed to the painful aspects of life and could instead rule from a position of comfort. However, at the young age of 29, he finally left the palace and bore witness to the suffering of others. Specifically, he saw an elderly person, a diseased person, a corpse, and a wandering ascetic.
+![Statue of the Buddha](buddha.png)
+
+The Buddha (given name: Siddhartha Gautama) was born to royalty. The story goes: Siddhartha's parents sheltered him so he wouldn't be exposed to the painful aspects of life. He would rule having never experienced hardship. However, at the young age of 29, he finally left the palace and witnessed the suffering of the real world. Specifically, he saw an elderly person, a diseased person, a corpse, and a wandering ascetic.
 Siddhartha realized:
 
 “I am subject to aging, subject to sickness, subject to death, subject to loss. I have not gone beyond aging, sickness, and death."
@@ -52,9 +58,9 @@ If it's not clear already, the Buddha's view on life was not exactly happy-go-lu
 
 ### The Four Noble Truths
 
-You may have heard the Four Noble Truths before. They are the central teachings of Buddhism, and they go as follows:
+You may have heard the Four Noble Truths before. They are the core teachings of Buddhism, and they go as follows:
 
-1. Suffering is inherent in human life: Physical pain, emotional distress, existential dread, you name it.
+1. Suffering is inherent in human life: Physical pain, emotional distress, aging, and death are inevitable.
 
 2. Suffering has a cause. Namely: Craving and aversion, which arise due to ignorance of the true nature of reality.
 
@@ -66,40 +72,50 @@ So what is this "true" nature of reality that us plebians are blind to?
 
 ### Emptiness and Dependent Origination
 
+#### The Middle Way
+
+Buddhism's main thrust is explained via The Middle Way. The Middle Way is both a practice, avoiding both extremes of self-gratification and self-mortification, and also a resulting ontology, in which neither existence nor nonexistence is reified.
+
 ![XKCD: "Personally, I find athiests just as annoying as fundamentalist Christians." "Well, the important thing is that you've found a way to feel superior to both."](atheists.png)
 
 "Existence isn't real, but it isn't _not_ real either. 😏"
 
+The foundation for The Middle Way is the concept of Emptiness. Specifically, the emptiness of all phenomena.
+
+In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it claims that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. The Buddha actually _specifically_ condemns the stances of both nihilism and eternalism.
+
+So what actually _is_ Emptiness, then? And how is it related to The Middle Way?
+
+When something is "empty", it is empty of "inherent existence": It doesn't actually exist in any real, independent way. It's helpful to think of "empty" as an adjective. But in this case, an adjective that applies to literally everything that exists: Physical objects, thoughts, and even consciousness itself.
+
+For instance, imagine a can of soda. "Soda" is really just a label that we give to mixtures of carbonated water, sugar, and flavorings. So "soda" itself is empty. And that carbonated water is just a label for a mixture of water and oxygen molecules, so it's empty too! And molecules are just labels for groupings of atoms, and so on and so forth.
+
+So, according to Emptiness: "Things" are really just labels that point to groups of smaller things happening together (all of which are empty too). This differs from our natural method of interpreting phenomena, which is:
+
+1. Perception: Colors in visual field that take the shape of a can of fizzy drink, sweet smell, etc.
+2. Instant, pre-conscious label: "Soda"
+3. Conception: Inherently existing "soda" object matching our pre-conscious label
+
+So to refresh: The Middle Way says that neither existence nor noexistence is the "real" way things are. The concept of Emptiness shows that things don't actually have an inherent, independent existence. So Emptiness itself implies the Middle Way.
+
 #### "It" "Is" "Soup"
-
-The primary teaching Buddhism offers is the realization of Emptiness. Specifically, the emptiness of all phenomena.
-
-In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it claims that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. The Buddha actually _specifically_ condemned the stances of both nihilism and eternalism, teaching "The Middle Way" between existence and nonexistence. The Middle Way is directly related to Emptiness, because the concept of Emptiness itself implies the Middle Way.
-
-So what actually _is_ Emptiness, then?
-
-Imagine it like the word "Insubstantial". It's helpful to think of it as an adjective that applies to literally everything you can perceive: Your imagination, scientific facts, objects you can see and taste and touch, even consciousness itself. When something is "empty", it is empty of "inherent existence". For instance, imagine a can of soda. "Soda" is really just a label that we give to cans of carbonated water, sugar, and flavorings. And that carbonated water is just a label for a mixture of water and oxygen molecules, and those are just labels for groupings of atoms, and so on and so forth.
-
-So, according to Emptiness: "Things" are really just labels that point to groups of smaller things happening together (all of which are empty too). This differs from our natural method of interpreting phenomena, which is: Perceive "thing" -> instantly unconsciously label it -> conceive of "thing" as an inherently existing object that matches the identity we labeled it with.
 
 ![Chicken noodle soup](soup.png)
 
 Is it really soup?
 
-Emptiness also applies to the existence of "things" over time: Say we have a bowl of hot broth with white meat and pasta in it. We think "this is chicken soup". And it is... right? And it's still soup when you spoon it into your mouth, but then maybe it's not quite soup because there's some saliva mixed in, and then when you swallow it the chicken isn't quite "in" the broth anymore, and everything is mashed up. So it's not soup anymore? And when it's in your stomach, when does it stop being "chicken" and when does it start being "you"? When you can't see it anymore?
+Emptiness also applies to the existence of "things" over time: Say we have a bowl of hot broth with white meat and pasta in it. We think "this is chicken soup". And it's still soup when you spoon it into your mouth, but then maybe it's not quite soup because there's some saliva mixed in, and then when you swallow it the chicken isn't quite "in" the broth anymore, and everything is mashed up. So is it not soup anymore? And when it's in your stomach, when does the white meat stop being "chicken" and start being "you"? If you keep going deeper, the boundaries between independent "things" start to dissovle.
 
-It turns out our natural inclination to label things is a lot less about reality and a lot more about usefully categorizing things. If we want to understand reality beyond the labels, the Buddha is ready with an explanation.
+So it turns out that our natural inclination to label things is a lot less about reality, and a lot more about usefully categorizing things. If we want to understand reality beyond the labels, the Buddha is ready with an explanation.
 
 #### Because This Is, That Is
 
-The teaching of Dependent Origination states that all phenomena are interconnected, only arising dependent on an inconceivably complex web of prior causes and conditions. Therefore, all "things" are both empty (insubstantial) and dependently originating (caused by something else). Additionally, the concept of Interdependent Co-Arising states that not only are all things dependent on other things, but cause and effect necessarily arise together. The teaching of this concept generally goes as follows:
+The teaching of Dependent Origination states that all phenomena are interconnected, only arising dependent on an inconceivably complex web of prior causes and conditions. Therefore, all "things" are both empty (non-inherent) and dependently originating (caused by something else). Additionally, the concept of Interdependent Co-Arising states that not only are all things dependent upon other things, but cause and effect necessarily arise together. The teaching of this concept generally goes as follows:
 
 "With this as condition,
 That arises.
 With this NOT as condition,
 That does NOT arise."
-
-___
 
 At first, these ideas may seem obvious, or at the very least unimportant. Of course things cause other things. But putting some pieces together, we realize a few things:
 
@@ -111,15 +127,13 @@ At first, these ideas may seem obvious, or at the very least unimportant. Of cou
 
 ### SparkNotes: Enlightenment
 
-At this point, we have enough context to describe enlightenment in the most bare-bones possible way. When the Buddha fully awakened, he:
+At this point, we have enough context to describe what enlightenment is. When the Buddha fully awakened, he:
 
 1. Fully realized the Dependent Origination of all phenomena (that things only exist if the cause for them exists, including suffering)
 
-2. Experienced the Emptiness of all phenomena directly (thus removing the condition of ignorance which is necessary for suffering to occur)
+2. Directly experienced the Emptiness of all phenomena (thus removing the condition of ignorance which is necessary for suffering to occur)
 
-3. At which point he became fully enlightened (liberated from suffering and all conditioned phenomena)
-
-4. Put together the Four Noble Truths (what suffering is, what causes it, that it can be ended, and how to end it)
+3. With the removal of ignorance, he became established in the ontology of The Middle Way (that reality neither exists nor doesn't exist)
 
 And that's great for him. But unless you suddenly awakened after reading that, conceptual understanding is clearly not enough to reach full enlightenment.
 
@@ -183,7 +197,7 @@ Awakening, stream entry, nonduality, pure being. There are many ways people desc
 
 You pay close enough attention to experience in a specific way, and suddenly you realize that there is no "self", and there never was one.
 
-And that's great, actually! Because it's not that the self is "lost", or "eradicated". Your personality and intelligence and everything about you is still fully intact; it's just that you realize you were adding some extra tension onto experience in the shape of a self-conception that didn't actually need to be there.
+And it's not that the self is "lost", or "eradicated". Your personality and intelligence and everything about you is still fully intact; it's just that you realize you were adding extra tension onto experience in the shape of a self-conception that didn't actually need to be there. It was empty, just like everything else.
 
 If that still doesn't sound good: Welcome to why people generally don't introduce Buddhism by talking about its goals.
 
@@ -205,7 +219,7 @@ And some external readings/listenings that I've found very illuminating:
 
 - [The best explanation I've read of the mental processes that occur leading to stream entry, and the logic by which the brain processes awakening and updates its relationship with phenomena](https://www.lesswrong.com/posts/mELQFMi9egPn5EAjK/my-attempt-to-explain-looking-insight-meditation-and)
 
-- [My favorite descriptive account of the experience of awakening (four pages, navigate at the bottom)](https://www.simplytheseen.com/what-is-awakening.html)
+- [My favorite descriptive account of the experience of awakening](https://www.simplytheseen.com/what-is-awakening.html) (four pages, navigate at the bottom)
 
 - [A Dharma talk by Rob Burbea from 2008 on awakening and its place in our modern lives](https://hermesamara.org/resources/talk/2008-03-08-awakening)
 
@@ -218,7 +232,9 @@ What lies at the end of existence?
 ...
 
 It is not empty, and it is not a dependent origination.
-It is not of the five aggregates, a
+
+It is not of the five aggregates, and it doesn't bear the three characteristics.
+
 It is not formed by causal conditions, and therefore never changes, nor ceases to exist.
 
 From the Buddha:
