@@ -1,4 +1,6 @@
-# Buddhism
+# Buddhism: A Primer
+
+This is the second section of a 4-part series. For context on why I'm writing this, check out [part one](Introduction.md).
 
 I don't like the way most people explain Buddhism. For a bunch of reasons, people tend to avoid explaining the main thrust of the Buddha's teachings all in one place. One reason is that Buddhism is complicated, so simplifying it as I'm doing will inevitably leave out some important details. But I think his teachings are fascinating and I want more people to understand and discuss them, so I'm going to try anyway.
 
@@ -8,7 +10,7 @@ There are endless arguments about who/what/when/where/why/how the Buddha's teach
 
 Based on my knowledge and my experience thus far, here's how I've decided to present things:
 
-1. English: Do you know Pali or Sanskrit? No? Then let's not add any more indirection into the mix for now.
+1. English: Do you know Pali or Sanskrit? No? Then let's not add any more indirection into the mix. (If you do know Pali or Sanskrit, you probably know more than what I'm covering anyway)
 
 2. Concept-based: Buddhism, unlike other religions, doesn't involve any supernatural deitites. Instead, the "religion" (which is really better described as a science or practice) is based on concepts that can be directly realized. Explaining those concepts at some level is key to painting an accurate picture of Buddhism as a whole.
 
@@ -74,7 +76,7 @@ So what is this "true" nature of reality that us plebians are blind to?
 
 #### The Middle Way
 
-Buddhism's main thrust is explained via The Middle Way. The Middle Way is both a practice, avoiding both extremes of self-gratification and self-mortification, and also a resulting ontology, in which neither existence nor nonexistence is reified.
+Buddhism is most simply explained by The Middle Way. The Middle Way is both a practice, avoiding both extremes of self-gratification and self-mortification, and also a resulting ontology, in which neither existence nor nonexistence is reified.
 
 ![XKCD: "Personally, I find athiests just as annoying as fundamentalist Christians." "Well, the important thing is that you've found a way to feel superior to both."](atheists.png)
 
@@ -82,21 +84,19 @@ Buddhism's main thrust is explained via The Middle Way. The Middle Way is both a
 
 The foundation for The Middle Way is the concept of Emptiness. Specifically, the emptiness of all phenomena.
 
-In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it claims that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. The Buddha actually _specifically_ condemns the stances of both nihilism and eternalism.
+In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it's claiming that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. The Buddha actually _specifically_ condemned the stances of both nihilism and eternalism.
 
-So what actually _is_ Emptiness, then? And how is it related to The Middle Way?
+##### So what actually _is_ Emptiness, then?
 
 When something is "empty", it is empty of "inherent existence": It doesn't actually exist in any real, independent way. It's helpful to think of "empty" as an adjective. But in this case, an adjective that applies to literally everything that exists: Physical objects, thoughts, and even consciousness itself.
 
 For instance, imagine a can of soda. "Soda" is really just a label that we give to mixtures of carbonated water, sugar, and flavorings. So "soda" itself is empty. And that carbonated water is just a label for a mixture of water and oxygen molecules, so it's empty too! And molecules are just labels for groupings of atoms, and so on and so forth.
 
-So, according to Emptiness: "Things" are really just labels that point to groups of smaller things happening together (all of which are empty too). This differs from our natural method of interpreting phenomena, which is:
+So, according to Emptiness: "Things" are really just labels that point to groups of smaller things happening together (all of which are empty too). This differs from our natural method of interpreting phenomena, in which we perceive phenomena, instantly unconsciously label it, and conceive of that label as an inherently existing "thing".
 
-1. Perception: Colors in visual field that take the shape of a can of fizzy drink, sweet smell, etc.
-2. Instant, pre-conscious label: "Soda"
-3. Conception: Inherently existing "soda" object matching our pre-conscious label
+##### How does this all relate to The Middle Way?
 
-So to refresh: The Middle Way says that neither existence nor noexistence is the "real" way things are. The concept of Emptiness shows that things don't actually have an inherent, independent existence. So Emptiness itself implies the Middle Way.
+The Middle Way states that reality neither exists nor doesn't exist, and Emptiness shows that things don't inherently exist. So Emptiness itself implies the Middle Way.
 
 #### "It" "Is" "Soup"
 
@@ -121,7 +121,7 @@ At first, these ideas may seem obvious, or at the very least unimportant. Of cou
 
 1. Nothing in our experience is fundamental. Put another way, there is no root cause that isn't also an effect of some other cause. It's all interconnected and cyclic. Imagine experience as an Ouroboros (a snake eating its own tail). Suffering is like the point at which the snake is biting itself.
 
-2. Every phenomena has a specific set of causes that are conditions for it to arise. If we can remove even one of the causes, the effect will no longer arise. In our Ouroboros analogy, if we can just figure out how to make the snake retract its fangs, suffering won't happen anymore.
+2. Every phenomenon has a specific set of causes that are conditions for it to arise. If we can remove even one of the causes, the effect will no longer arise. In our Ouroboros analogy, if we can just figure out how to make the snake retract its fangs, suffering won't happen anymore.
 
 ![A snake eating itself](ouroboros.jpg)
 
@@ -133,7 +133,7 @@ At this point, we have enough context to describe what enlightenment is. When th
 
 2. Directly experienced the Emptiness of all phenomena (thus removing the condition of ignorance which is necessary for suffering to occur)
 
-3. With the removal of ignorance, he became established in the ontology of The Middle Way (that reality neither exists nor doesn't exist)
+3. With the removal of ignorance, he was unshakably established in the ontology of The Middle Way (that reality neither exists nor doesn't exist)
 
 And that's great for him. But unless you suddenly awakened after reading that, conceptual understanding is clearly not enough to reach full enlightenment.
 
@@ -153,29 +153,29 @@ The Buddha encouraged practitioners to view all of experience as a combination o
 4. Mental Formations: Thoughts, emotions, beliefs, stories
 5. Consciousness: Awareness, presence
 
-By dividing experience into buckets, it's easier to see that every possible "thing" you can recognize falls into one of those buckets. This makes staying "awake" to phenomena simpler.
+By dividing experience into buckets, it's easier to see that every possible "thing" you can recognize falls into one of those buckets. This makes staying "awake" to phenomena (via meditation) simpler.
 
 For example, if you feel a pain in your knee, you would normally be likely to immediately feel the unpleasantness of it, subsonsciously label it as "knee pain", and immediately be pulled into a story: Maybe about how you got the injury, how long it will take to heal, or how it's otherwise impacting your life.
 
 ![The Hero's Journey diagram](heros_journey.jpg)
 
-"I just wanted to grab a snack..."
+"I just wanted to go on a walk..."
 
-Looking in terms of the five aggregates is a strategy to break that automatic cycle. When you feel that pain, you notice the sensation as "Form", the unpleasantness as "Feeling", and so on.
+Looking in terms of the five aggregates is a strategy to break that automatic narrative cycle. When you feel that pain, you notice the sensation as "Form", the unpleasantness as "Feeling", and so on.
 
 The five aggregates view is also depersonalizing: If things are just "aggregates", there's not much reason to care about them. Likewise, all of the aggregates are impermanent, unable to permanently satisfy us in a way we'd like, and can't be inherently identified as "me" or "mine". The Buddha heavily emphasized these three aspects of phenomena in his teachings, going so far as to proclaim them as...
 
 #### The Three Characteristics
 
-In order to end suffering once and for all, drastic measures must be taken. Specifically, adopting lenses that cast experience in a less-than-appealing light. Or, the Buddha would argue, an accurate light:
+In order to end suffering once and for all, drastic measures must be taken. Specifically, adopting lenses that cast experience in a less-than-appealing light. Or, the Buddha would argue, an accurate light. These lenses are:
 
 1. Impermanence: Everything changes, nothing lasts
-2. Unsatisfactory (highly contended translation): Phenomena is "a bummer", or "not quite it", or, if you're really hardcore, "suffering"
+2. Unsatisfactoriness (highly contended translation): Phenomena is "a bummer", or "not quite it", or, if you're really hardcore, "suffering"
 3. Non-self: No phenomena is "I" or "me" or "mine". That is, there is no agent owning, controlling, or even witnessing phenomena. There is just experience.
 
 Sound a bit... bleak? Maybe this Buddha guy needed a good karaoke night. Or maybe he just _really_ wanted people to awaken at whatever the cost.
 
-There's a quote from him that goes (roughly):
+There's a quote from him that goes (roughly, paraphrased from Rob Burbea[1]):
 
 "If you could make a deal, that every day for a hundred years, you would be stabbed with one hundred spears in the morning, stabbed again one hundred times at noon, and one hundred more times in the evening, but with a guarantee that at the end of those hundred years you’d gain full awakening, that would be a deal worth taking."
 
@@ -187,7 +187,7 @@ Damn. What is this awakening then, and how is it _that_ good?
 
 ### Awakening
 
-I am not yet an awakened being, so it's a bit ridiculous of me to try to explain what awakening is like, especially given that even awakened people find it nigh impossible to clearly convey what it's like to people who don't already understand. However, I've read a _lot_ about it, so I'll try to contour the lines around this very real and distinct phenomenon, and point to some resources that can describe it even better.
+It's nigh impossible to convey the phenomenology of "awakening" to people who don't already understand it. Yet it is a very real and distinct phenomenon, so I'll try to contour some lines around it here, and point to some external resources that describe it in even more detail.
 
 Technically, in Buddha Dharma, there are four stages of awakening, defined by ten fetters that must each be broken to reach full liberation, but for our purposes we'll just go with the first stage. This initial awakening, known as "stream entry", is what most people are referring to when you hear the word "enlightenment".
 
@@ -197,11 +197,19 @@ Awakening, stream entry, nonduality, pure being. There are many ways people desc
 
 You pay close enough attention to experience in a specific way, and suddenly you realize that there is no "self", and there never was one.
 
-And it's not that the self is "lost", or "eradicated". Your personality and intelligence and everything about you is still fully intact; it's just that you realize you were adding extra tension onto experience in the shape of a self-conception that didn't actually need to be there. It was empty, just like everything else.
+And it's not that the self is "lost", or "eradicated". Your personality and intelligence and everything about you is still fully intact; it's just that you realize you were adding extra tension onto experience in the shape of a self-conception that didn't actually inherently exist. It was empty, just like everything else.
+
+[Rival Voices on non-self](https://x.com/nosilverv/status/1741895350078607422?s=20)
+
+After seeing that the self is no more than a fictional narrative, "you" no longer experience craving or aversion, since there's no "you" to be helped or harmed by any outcome. Suffering: Ended.
+
+But wait, wouldn't that just turn you into an apathetic lump?
+
+Maybe surprisingly, no. Your mind already has existing beliefs and habits in place, so if you have no desire for any specific outcome, you'll act exactly as you always have! Experience looks and feels identical after awakening, but with the added bonus of a deep okayness with whatever happens.
 
 If that still doesn't sound good: Welcome to why people generally don't introduce Buddhism by talking about its goals.
 
-How about an analogy from the Buddha himself? Here he explains stream entry to a monk named Magandiya:
+How about an analogy from the Buddha himself? Here he explains stream entry to a monk named Magandiya (paraphrased by Rob Burbea[1]):
 
 ___
 
@@ -215,13 +223,13 @@ And it would occur to you, “My gosh, how long have I been fooled, cheated, and
 
 ___
 
-And some external readings/listenings that I've found very illuminating:
+If you're curious to learn more about what awakening entails, here are some external readings/listenings that I've found illuminating:
 
-- [The best explanation I've read of the mental processes that occur leading to stream entry, and the logic by which the brain processes awakening and updates its relationship with phenomena](https://www.lesswrong.com/posts/mELQFMi9egPn5EAjK/my-attempt-to-explain-looking-insight-meditation-and)
+- [The best explanation I've read](https://www.lesswrong.com/posts/mELQFMi9egPn5EAjK/my-attempt-to-explain-looking-insight-meditation-and) of the mental processes that occur leading to stream entry and why/how things are different afterwards.
 
-- [My favorite descriptive account of the experience of awakening](https://www.simplytheseen.com/what-is-awakening.html) (four pages, navigate at the bottom)
+- [My favorite descriptive account](https://www.simplytheseen.com/what-is-awakening.html) of the experience of awakening (four pages, navigate at the bottom).
 
-- [A Dharma talk by Rob Burbea from 2008 on awakening and its place in our modern lives](https://hermesamara.org/resources/talk/2008-03-08-awakening)
+- [1]: [A Dharma talk by Rob Burbea](https://hermesamara.org/resources/talk/2008-03-08-awakening) from 2008 on awakening and its place in our modern lives.
 
 After stream entry, assuming a practitioner continues practicing, the stages of awakening continue, freeing the being from more and more of the fetters that bind them to the cycle of existence and nonexistence. Eventually, what is reached is known as full enlightenment, "neither being nor nonbeing", also referred to as...
 
@@ -231,9 +239,7 @@ What lies at the end of existence?
 
 ...
 
-It is not empty, and it is not a dependent origination.
-
-It is not of the five aggregates, and it doesn't bear the three characteristics.
+It is not a dependent origination, and it is not of the five aggregates.
 
 It is not formed by causal conditions, and therefore never changes, nor ceases to exist.
 

@@ -4,7 +4,7 @@ At this point, the previous sections have given a general overview of Buddhism a
 
 ## Brass Tacks
 
-Humans desire two things: Safety and love. Suffering happens when they don't feel like they have those.
+Humans suffer when they lack two things: Safety and love. Suffering happens when they don't feel like they have those.
 
 The Buddha realized: There is no way to _ever_ be safe, if "safety" means "not dying". Likewise, the need to be loved is infinitely expanding. The only way to resolve these needs for good would be to to remove the need for them in the first place.
 By modifying perception such that there _is_ no self that needs safety or love, those reason to even have those desires is extinguished. Ergo, no suffering.
@@ -12,6 +12,8 @@ By modifying perception such that there _is_ no self that needs safety or love, 
 But what if we aren't there, or even going in that direction?
 
 Why not focus on fulfilling those needs directly?
+
+[Carmen on spiritual hygeine](https://x.com/carmenleelau/status/1737631408045408313?s=20)
 
 ## The most important principles
 
@@ -36,9 +38,8 @@ Why not focus on fulfilling those needs directly?
   - Everything is always shaping your perceptions, conceptions, and intentions, and those are all shaping each other
 - How to know what to move towards?
   - "Sensing with soul" is a skill that can be developed
-    - Take your whole being into account: Logic (Logos), Desires (Eros), and Spirit/Will to Excel (Thumos)
-  - Middle way of desire: Neither what you "want" to do, nor what you "should" do
-    - Similar to the Buddha's Middle Way: Neither self-gratification nor self-mortification
+    - Takes your whole being into account: Combination of thinking, feeling, and gut instinct
+    - Middle way of desire: Neither what you "want" to do, nor what you "should" do
   - If you don't know what is helpful, you have no option but to try new things
 - Trying new things is a balancing act
   - Our minds naturally move towards what we know will bring us happiness: local maxima
@@ -61,6 +62,8 @@ Why not focus on fulfilling those needs directly?
 - Personal Stances are just that: entirely personal. They have no bearing on "objective" reality, nor should they be used as a teaching mechanism to influence what people believe or practice. The Buddha, after the experience of his entire life (and lives before that if you believe in reincarnation), decided that the ultimate goal was to reduce suffering, and he found that going beyond existence and nonexistence was the best way to do that. His goals are not your goals. If any person looks deep inside and determines that reducing suffering is the _most_ important thing to them, they may have the same goal. But almost every human is unique, so their personal stances, and therefore their goals, will all be unique.
 
 ### Ways of Looking
+
+[Aaron Nesmith-Beck on Burbea](https://x.com/anesmithbeck/status/1728204114528698845?s=20)
 
 Valid ways of looking:
 
@@ -126,6 +129,10 @@ through conduits of plumbing-learning.
 
 This second knowing is a fountainhead
 from within you, moving out.
+
+[River Kenna on the two modes of being](https://x.com/the_wilderless/status/1736468475625783606?s=20)
+
+[Vivid Void on the void](https://x.com/VividVoid_/status/1730709020741386708?s=20)
 
 ## Two Ways of Running
 

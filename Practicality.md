@@ -26,6 +26,14 @@ Is it possible for a human being to have _the_ Truth?
 
 - Emptiness of all particles, what's fundamental? Time? Space?
 
+### Provisional Truths
+
+Einstein didn’t disprove Newtonian mechanics so much as identify it as a special case in a more general framework. Whatever future physics is, its first step will be to recreate the predictive power of the Standard Model
+
+Einstein: “while general relativity might one day be superseded, the statistical theory of atoms will never be overthrown.”
+
+[Romeo Stevens on Christianity vs. Buddhism](https://x.com/RomeoStevens76/status/1739807369171972588?s=20)
+
 ## Will awakening cause you to lose your personality?
 
 No, you will pretty much be unidentifiably different from before. I say this based on:

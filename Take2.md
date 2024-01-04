@@ -1,4 +1,4 @@
-# Possibilities
+# The Nihilism Express
 
 Most people know they can improve their lives by making healthier choices, being honest with themselves and others, and spending time doing things they care about. In terms of happiness, I think if any human can more or less consistently do those three things, they'll probably live a pretty good life. But obviously, it's not so easy.
 
@@ -46,3 +46,5 @@ The direct path:
 How can anything be real when we don't have access to reality?
 
 "Real" is a category error just like "Truth" is. It's not something that even exists in our experience.
+
+[Nick Cammarata: "ah ok I'll save the world, that's special right!"](https://x.com/nickcammarata/status/1741561355264745778?s=20)
