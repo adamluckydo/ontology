@@ -14,13 +14,25 @@ Specifically, the way it registered for me was like a sudden jolt of realization
 
 There were only two things that really pulled me out of it: Time, and Rob Burbea.
 
+## Is the Buddha actually Anti-Life?
+
+A lot of popular Buddhist teachings gently skip over the fact that the Buddha _despised_ phenomena. He frequently described the Five Aggregates as “inconstant, dukkha, a disease, a boil, an arrow, misery, an affliction, alien, a disintegration, empty, not-self” (e.g. 9:36 of the Numbered Discourses). The Buddha was not "against life" per se, but he was against suffering. Since life was composed of phenomena that are not free of suffering, that was that.
+
 ## Who is Rob Burbea?
 
 "What am I becoming as the days and nights fly past?"[1]
 
+## If everything is empty, how _isn't_ that Nihilism?
+
+While all phenomena (including suffering) may be empty, the Buddha cared very much about the beings who were experiencing it. So for him, "meaning" was never a concern. Liberating all beings from suffering is a meaningful cause while still attached to a non-empty conception of meaning, and after enlightenment, "meaning" lost all meaning.
+
 ## Is Buddhism the Truth?
 
 Is it possible for a human being to have _the_ Truth?
+
+How can anything be real when we don't have access to reality?
+
+"Real" is a category error just like "Truth" is. It's not something that even exists in our experience.
 
 ### Paradoxes
 
@@ -34,6 +46,14 @@ Einstein: “while general relativity might one day be superseded, the statistic
 
 [Romeo Stevens on Christianity vs. Buddhism](https://x.com/RomeoStevens76/status/1739807369171972588?s=20)
 
+### FPS, no grabby-grab
+
+Due to the way suffering works, much of our daily suffering can be directly reduced through meditation. Meditative practice
+
+### The Most Practical Route to Emptiness?
+
+[Rob Burbea on approaching Emptiness](https://hermesamara.org/resources/talk/2011-12-31-this-matter-of-emptiness).
+
 ## Will awakening cause you to lose your personality?
 
 No, you will pretty much be unidentifiably different from before. I say this based on:
@@ -45,6 +65,8 @@ No, you will pretty much be unidentifiably different from before. I say this bas
 Nothing about meditation "removes" any part of your personality, but it may make you a bit more awkward if you spend all of your time meditating without socializing.
 
 ## Is the work required to reach stream entry worth it?
+
+[RivalVoices on ending suffering via Buddhism](https://x.com/nosilverv/status/1742311850836951201?s=20)
 
 Who do you believe? If you believe your unawakened self, then almost definitely no. But I'd advise you to consider Plato's [Allegory of the Cave](https://www.youtube.com/watch?v=69F7GhASOdM).
 

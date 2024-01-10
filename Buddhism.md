@@ -66,7 +66,7 @@ You may have heard the Four Noble Truths before. They are the core teachings of 
 
 2. Suffering has a cause. Namely: Craving and aversion, which arise due to ignorance of the true nature of reality.
 
-3. It is possible to reach the end suffering: Craving and aversion can be abandoned through a deep understanding of reality.
+3. It is possible to reach the end of suffering: Craving and aversion can be abandoned through a deep understanding of reality.
 
 4. The path to ending suffering is the Noble Eightfold Path: Right understanding, intention, speech, action, livelihood, effort, mindfulness, and concentration.
 
@@ -84,7 +84,7 @@ Buddhism is most simply explained by The Middle Way. The Middle Way is both a pr
 
 The foundation for The Middle Way is the concept of Emptiness. Specifically, the emptiness of all phenomena.
 
-In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it's claiming that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. The Buddha actually _specifically_ condemned the stances of both nihilism and eternalism.
+In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it's claiming that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. The Buddha actually _specifically_ condemned the stances of both nihilism and eternalism (that things are either totally meaningless, or totally meaningful, respectively).
 
 ##### So what actually _is_ Emptiness, then?
 
@@ -125,19 +125,41 @@ At first, these ideas may seem obvious, or at the very least unimportant. Of cou
 
 ![A snake eating itself](ouroboros.jpg)
 
-### SparkNotes: Enlightenment
+### Specifically, What is Suffering?
 
-At this point, we have enough context to describe what enlightenment is. When the Buddha fully awakened, he:
+The Four Noble Truths state that suffering is caused by "craving and aversion", but it may not be immediately clear how or why that's the case.
 
-1. Fully realized the Dependent Origination of all phenomena (that things only exist if the cause for them exists, including suffering)
+The first (and most important) piece of the puzzle comes from the phenomenology of suffering. What _is_ suffering made of?
 
-2. Directly experienced the Emptiness of all phenomena (thus removing the condition of ignorance which is necessary for suffering to occur)
+The Buddha realized that most suffering is actually the mental motion of "clinging". Our innate tendency to desire good feelings (craving) and avoid bad ones (aversion) manifests as a sub-second contraction in our minds with the texture of suffering. This "clinging" contraction happens near-instantaneously after good or bad feelings, but is distinctly a separate phenomenon.
 
-3. With the removal of ignorance, he was unshakably established in the ontology of The Middle Way (that reality neither exists nor doesn't exist)
+The Buddha used an analogy of "two arrows" to describe suffering. The first arrow is the initial phenomenon: The one you're shot with out of your control. The second arrow is the reactivity _to_ the phenomenon: The one you jam into yourself without even realizing you're doing it. And as it turns out, the emotion and story and discursive thought of the second arrow causes _way_ more suffering than the initial arrow. This makes sense if you imagine something like working out -- The pain you feel after an intense workout would have you calling the emergency room if it happened while you were sitting quietly at home, but in the context of a workout it feels totally fine, even satisfying.
 
-And that's great for him. But unless you suddenly awakened after reading that, conceptual understanding is clearly not enough to reach full enlightenment.
+So on one level, suffering is just that clinging in response to phenomena. The Buddha says that if we clear up our ignorance about the reality of phenomena, we won't cling at all (because why would you cling to something you know isn't really real)?
 
-Awakening is a directly experienced realization. And just our luck: The Buddha devised some strategies to help people reach that direct experience.
+On another, even deeper level, the Buddha believed that _all_ phenomena have suffering in them (first arrow). Thus, the only way to truly be free of suffering would be to prevent phenomena from arising at all. And here's where everything comes together nicely: It turns out that clinging is _also_ the weakest link in the dependently originating cycle of arisings and passings away. Meaning: If you are able to relax your clinging to phenomena enough, they no longer arise at all.
+
+### The Theory of Enlightenment
+
+At this point, we have enough context to describe what "enlightenment" is. I put it in quotes because the term is overloaded with a billion definitions and connations, but since it's such common vernacular I'm using it anyway.
+
+I think it's useful to describe enlightenment as an operating system update for the mind. The mind, while awareness is still running, "resets". By witnessing how it builds experience from the ground up, the mind finally understands itself, and is thus able to operate more efficiently in the future.
+
+So step by step:
+
+1. You cease all clinging (if only for a moment). This breaks the cycle of Dependent Origination, causing the mind to "reset".
+
+2. By witnessing Dependent Origination "turn off" and "turn on" directly, your mind sees how phenomena are fabricated, thereby understanding their Emptiness.
+
+3. By understanding the Emptiness of all phenomena, you know that they are neither real nor not real, resulting in an ontology of The Middle Way.
+
+4. Once your mind's Dependent Origination system resumes normal function, you'll still experience the first arrows of phenomena arising, but not the second arrows of reactivity. Hooray!
+
+Sounds easy enough. Why don't you try it now? Go ahead, just cease all clinging.
+
+...
+
+What's that? It didn't work? Well, I suppose that's the end of that. Unless... Just our luck: The Buddha also devised some practical strategies to help people stop that tiresome clinging.
 
 ### The Five Aggregates and The Three Characteristics
 
@@ -175,7 +197,7 @@ In order to end suffering once and for all, drastic measures must be taken. Spec
 
 Sound a bit... bleak? Maybe this Buddha guy needed a good karaoke night. Or maybe he just _really_ wanted people to awaken at whatever the cost.
 
-There's a quote from him that goes (roughly, paraphrased from Rob Burbea[1]):
+There's a quote from him that goes (roughly, paraphrased from Rob Burbea):
 
 "If you could make a deal, that every day for a hundred years, you would be stabbed with one hundred spears in the morning, stabbed again one hundred times at noon, and one hundred more times in the evening, but with a guarantee that at the end of those hundred years you’d gain full awakening, that would be a deal worth taking."
 
@@ -185,7 +207,7 @@ And not only that, but:
 
 Damn. What is this awakening then, and how is it _that_ good?
 
-### Awakening
+### The Actuality of Awakening
 
 It's nigh impossible to convey the phenomenology of "awakening" to people who don't already understand it. Yet it is a very real and distinct phenomenon, so I'll try to contour some lines around it here, and point to some external resources that describe it in even more detail.
 
@@ -205,11 +227,11 @@ After seeing that the self is no more than a fictional narrative, "you" no longe
 
 But wait, wouldn't that just turn you into an apathetic lump?
 
-Maybe surprisingly, no. Your mind already has existing beliefs and habits in place, so if you have no desire for any specific outcome, you'll act exactly as you always have! Experience looks and feels identical after awakening, but with the added bonus of a deep okayness with whatever happens.
+Maybe surprisingly, no. Your mind already has existing beliefs and habits in place, so if you have no desire for any specific outcome, you'll act exactly as you always have! Experience looks and feels identical after awakening, but with the added bonus of having a deep okayness with whatever happens.
 
 If that still doesn't sound good: Welcome to why people generally don't introduce Buddhism by talking about its goals.
 
-How about an analogy from the Buddha himself? Here he explains stream entry to a monk named Magandiya (paraphrased by Rob Burbea[1]):
+How about an analogy from the Buddha himself? Here he explains stream entry to a monk named Magandiya (paraphrased by Rob Burbea):
 
 ___
 
@@ -229,7 +251,7 @@ If you're curious to learn more about what awakening entails, here are some exte
 
 - [My favorite descriptive account](https://www.simplytheseen.com/what-is-awakening.html) of the experience of awakening (four pages, navigate at the bottom).
 
-- [1]: [A Dharma talk by Rob Burbea](https://hermesamara.org/resources/talk/2008-03-08-awakening) from 2008 on awakening and its place in our modern lives.
+- [A Dharma talk by Rob Burbea](https://hermesamara.org/resources/talk/2008-03-08-awakening) from 2008 on awakening and its place in our modern lives.
 
 After stream entry, assuming a practitioner continues practicing, the stages of awakening continue, freeing the being from more and more of the fetters that bind them to the cycle of existence and nonexistence. Eventually, what is reached is known as full enlightenment, "neither being nor nonbeing", also referred to as...
 

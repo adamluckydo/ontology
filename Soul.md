@@ -15,6 +15,38 @@ Why not focus on fulfilling those needs directly?
 
 [Carmen on spiritual hygeine](https://x.com/carmenleelau/status/1737631408045408313?s=20)
 
+## The Middle Way of Desire
+
+With desire inherently comes clinging. If you have a preference of something, _anything_, you will suffer. Consider these two cases: If you don't have your preference, you will suffer until you get it, and if you _do_ have it, you will suffer in fear of losing it (since all things are impermanent).
+
+If you truly want 0 suffering, the Buddha laid out a very effective path to extinguishing desire.
+
+However, if the meaning inherent in desire is important to you, there's an orientation you can take that minimizes unnecessary suffering (from desires that aren't actually your most important ones).
+
+### Start with Okayness
+
+- Three arrows going up: Need, Want, Should
+- Horizontal line of "Okayness" above where the need/should lines curve
+- Need: Arrow curves to the left
+  - "Things will only be ok if this happens"
+- Should: Arrow curves to the right
+  - "Things will not be ok unless this happens"
+- Want: Arrow going straight up
+  - "Things are okay regardless of if this happens, but I am intentionally signing the yearning waiver"
+    - BY CHOOSING THIS DESIRE, YOU AGREE TO THE TERMS OF FEELING BOTH SUFFERING AND MEANING
+
+But what if things _aren't_ ok?
+
+### Get over yourself
+
+Literally. This is the "hard" step. There's no way to move from "not okay" to "okay" without a volitional action,and this is the most direct possible way to do it. There's only one step:
+
+Don't take your own side.
+
+Stop caring about what you have to say about why things aren't okay. If you can do this, things will be okay. If you can't do this, things won't be okay.
+
+This can also be looked at as a selflessness instruction. If you get past the idea of your "self" being a real thing that needs catering to, everything is already okay.
+
 ## The most important principles
 
 - Beginner's Mind: If all else fails, foget everything you know and see where it takes you.
@@ -28,6 +60,7 @@ Why not focus on fulfilling those needs directly?
 - All beliefs are empty & dependently originating
   - The only time to interpret a belief or story is in the present moment
   - Any given narrative doesn't have a real existence, so check whether your narratives are actually helpful
+  - Another way of putting it: We are not inherently "some way". Our minds are just simulation/projection machines built on tautologies. If you act differently than the way "you are", you are now "that way"
 - You have the power to shape the reality you want to live in
   - Extreme Ownership: If you feel badly, look for what you can do to handle the problem (even if it's not your fault).
   - Be your own researcher: "Right now, what is helpful?"
@@ -75,6 +108,27 @@ Valid ways of looking:
 
 ### Another Way of Looking: Soulmaking
 
+(Just one more framework bro.jpg)
+(XKCD competing frameworks)
+
+You don't need a framework, the answer is literally right in front of your nose.
+
+The direct path:
+
+- Everything on this list applies specifically in the moment, not looking back or predicting how things _will_ be
+- #1 priority: Be mindful of your revealed intentions (not the ones you tell yourself)
+  - Desire, intention, and action, are all actually the same thing. You always act according to your _actual_ desires/intentions, so paying attention to how you're acting reveals your actual underlying intentions
+  - How to align stated intentions with revealed intentions? Helpful to think in terms of parts (IFS, MMM). One part of you might say you want something, but another part is resistant.
+    - Your parts probably want to protect you from painful feelings/thoughts/memories
+    - Having a deep reservoir of love and safety to give to these parts is what will actually allow them to release their protective barriers
+- If you feel "wrong", that's where to make changes
+  - "Wrong" is specifically _not_ "bad", like pain or grief or anger. Emotions are right, dissonance is not
+  - What feels the most scary is usually the thing you need to do.
+- How to know what feels "right"
+  - Are you able to get into flow state?
+  - If you're honest with yourself, does it feel like you're using your gifts well?
+
+
 - If all ways of looking are empty, why not pick one up that aligns with your deepest goals and values?
 - General direction: Movement towards more attention on love / less on safety
 - Where to start: Move from self-preservation -> self-gratification -> self-love
@@ -93,8 +147,6 @@ Valid ways of looking:
 ## Attention, and how self-improvement _actually_ works
 
 Our experience is an ever-evolving process. In some ways this is obvious to us: Eating unhealthily will cause compounding health issues over time, working out consistently will make us more fit, and so on. But in many ways, particularly in reference to self-view and our view of others, we conceive of people as static entities. This person is X, they have Y personality, and my relationship with them is Z. This doesn't just apply to external things like people and objects, but to all phenomena. The concepts of Emptiness and Dependent Origination are actually extremely generalizable to our lives, even without hundreds or thousands of hours of meditation and spiritual inquiry.
-
-![Simple illustration of the relationship between intention, perception, and conception](Attention.png)
 
 - Intention (self-preservation, self-gratification, self-love, love for other beings, love for all phenomena, love without object, nondual love, love for image)
 - Perception (phenomena only experienced as concepts, aware of sensations from the head, sensations aware of themselves, centerless awareness, Jhanas, cessation, imaginal sensations)
@@ -240,3 +292,7 @@ into hypocrites!
 Rob Burbea's final talk, given weeks before he died in 2020, is less than five minutes long. I listen to it as a yearly tradition on Christmas Eve.
 
 It speaks for itself: [Perfection and Christ's Blessing](https://hermesamara.org/resources/talk/2020-03-06-perfection-and-christs-blessing)
+
+And a quote from Nietzsche to end:
+
+"Courage, however, is the best slayer, courage which attacketh: it slayeth even death itself; for it saith: 'Was that life? Well! Once more!'"

@@ -19,32 +19,3 @@ Yet, when I went in for a reality checkup, it turned to me and said, "Sorry mate
 ##### Cognitive dissonance, cannot compute
 
 But the answer is obvious, right? I must just be missing some more conditions! And so, as any smart person would do, I tottered off to the self-help section to find someone who had the secret missing ingredient.
-
-(Just one more framework bro.jpg)
-(XKCD competing frameworks)
-
-You don't need a framework, the answer is literally right in front of your nose.
-
-It is so easy to talk the talk, and it is so goddamn hard to walk the walk.
-
-The direct path:
-
-- Everything on this list applies specifically in the moment, not looking back or predicting how things _will_ be
-- #1 priority: Be mindful of your revealed intentions (not the ones you tell yourself)
-  - Desire, intention, and action, are all actually the same thing. You always act according to your _actual_ desires/intentions, so paying attention to how you're acting reveals your actual underlying intentions
-  - How to align stated intentions with revealed intentions? Helpful to think in terms of parts (IFS, MMM). One part of you might say you want something, but another part is resistant.
-    - Your parts probably want to protect you from painful feelings/thoughts/memories
-    - Having a deep reservoir of love and safety to give to these parts is what will actually allow them to release their protective barriers
-- If you feel "wrong", that's where to make changes
-  - "Wrong" is specifically _not_ "bad", like pain or grief or anger. Emotions are right, dissonance is not
-  - What feels the most scary is usually the thing you need to do.
-- How to know what feels "right"
-  - Are you able to get into flow state?
-  - If you're honest with yourself, does it feel like you're using your gifts well?
-
-
-How can anything be real when we don't have access to reality?
-
-"Real" is a category error just like "Truth" is. It's not something that even exists in our experience.
-
-[Nick Cammarata: "ah ok I'll save the world, that's special right!"](https://x.com/nickcammarata/status/1741561355264745778?s=20)
