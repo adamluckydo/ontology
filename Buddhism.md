@@ -70,21 +70,39 @@ You may have heard the Four Noble Truths before. They are the core teachings of 
 
 4. The path to ending suffering is the Noble Eightfold Path: Right understanding, intention, speech, action, livelihood, effort, mindfulness, and concentration.
 
-So what is this "true" nature of reality that us plebians are blind to?
+Before we go any further, let's get one thing straight:
 
-### Emptiness and Dependent Origination
+### Specifically, What is Suffering?
+
+The Four Noble Truths state that suffering is caused by "craving and aversion", but it may not be immediately clear how or why that's the case.
+
+The first (and most important) piece of the puzzle comes from the phenomenology of suffering. What _is_ suffering made of?
+
+The Buddha realized that the feeling of suffering is the mental motion of "clinging". Our innate tendency to desire good feelings (craving) and avoid bad ones (aversion) manifests as a sub-second contraction in our minds that has the texture of suffering. This "clinging" contraction happens near-instantaneously after good or bad feelings, but is actually a separate phenomenon.
+
+The Buddha describes this pattern with an analogy of "two arrows". The first arrow is the initial appearance of the good or bad thing: Being struck by it is out of your control. The second arrow is the reactivity _to_ the phenomenon: The one you jam into yourself without even realizing you're doing it. And as it turns out, the emotion and story of the second arrow causes _way_ more suffering than the initial strike. This makes sense if you imagine something like working out -- The pain you feel during an intense workout would have you calling the emergency room if it happened while you were sitting quietly at home, but in the context of a workout it feels totally fine, even satisfying. Reacting according to the situation is expected (and usually a good thing), but the point remains that the first arrow doesn't necessitate the second.
+
+So to put it simply: Suffering is just clinging in response to phenomena. And the Buddha says that if we clear up our ignorance about the reality of phenomena, we won't cling at all.
+
+Now that leaves us with the question: What is this "true" nature of reality that us plebians are blind to?
+
+### Concept Time: The Theory of Buddhism
 
 #### The Middle Way
 
-Buddhism is most simply explained by The Middle Way. The Middle Way is both a practice, avoiding both extremes of self-gratification and self-mortification, and also a resulting ontology, in which neither existence nor nonexistence is reified.
+In Buddhism, the nature of reality is explained by The Middle Way. The Middle Way is both a way of living (avoiding extremes of self-gratification and self-mortification) and a way of looking (seeing neither existence nor nonexistence as real).
 
-![XKCD: "Personally, I find athiests just as annoying as fundamentalist Christians." "Well, the important thing is that you've found a way to feel superior to both."](atheists.png)
+How does The Middle Way result in the end of clinging? Imagine this: You're walking, and suddenly you see a snake two feet in front of you. You startle because you think it's real, but it turns out it was actually just the end of a hose. Whew, what a relief. The Middle Way is basically that, but for _everything_. And with the right practice, seeing this not-quite-reality of things isn't just faith-based, it's experiential. So basically, through Buddhism, you gain the power to turn snakes into hoses. Exciting.
+
+![XKCD: "Personally, I find atheists just as annoying as fundamentalist Christians." "Well, the important thing is that you've found a way to feel superior to both."](atheists.png)
 
 "Existence isn't real, but it isn't _not_ real either. 😏"
 
-The foundation for The Middle Way is the concept of Emptiness. Specifically, the emptiness of all phenomena.
+##### What is this Middle Way even based on?
 
-In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it's claiming that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. The Buddha actually _specifically_ condemned the stances of both nihilism and eternalism (that things are either totally meaningless, or totally meaningful, respectively).
+The Middle Way is justified by the concept of Emptiness. Specifically, the emptiness of all phenomena.
+
+In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it's claiming that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. Along with disavowing both existence and nonexistence, the Buddha _specifically_ condemned the stances of both nihilism and eternalism (that things are either totally meaningless, or totally meaningful, respectively).
 
 ##### So what actually _is_ Emptiness, then?
 
@@ -98,13 +116,13 @@ So, according to Emptiness: "Things" are really just labels that point to groups
 
 The Middle Way states that reality neither exists nor doesn't exist, and Emptiness shows that things don't inherently exist. So Emptiness itself implies the Middle Way.
 
-#### "It" "Is" "Soup"
+##### "It" "Is" "Soup"
 
 ![Chicken noodle soup](soup.png)
 
 Is it really soup?
 
-Emptiness also applies to the existence of "things" over time: Say we have a bowl of hot broth with white meat and pasta in it. We think "this is chicken soup". And it's still soup when you spoon it into your mouth, but then maybe it's not quite soup because there's some saliva mixed in, and then when you swallow it the chicken isn't quite "in" the broth anymore, and everything is mashed up. So is it not soup anymore? And when it's in your stomach, when does the white meat stop being "chicken" and start being "you"? If you keep going deeper, the boundaries between independent "things" start to dissovle.
+Emptiness also applies to the existence of "things" over time: Say we have a bowl of hot broth with white meat and pasta in it. We think "this is chicken soup". And it's still soup when you spoon it into your mouth, but then maybe it's not quite soup because there's some saliva mixed in, and then when you swallow it the chicken isn't quite "in" the broth anymore, and everything is mashed up. So is it not soup anymore? And when it's in your stomach, when does the white meat stop being "chicken" and start being "you"? If you keep going deeper, the boundaries between independent "things" start to dissolve.
 
 So it turns out that our natural inclination to label things is a lot less about reality, and a lot more about usefully categorizing things. If we want to understand reality beyond the labels, the Buddha is ready with an explanation.
 
@@ -117,31 +135,21 @@ That arises.
 With this NOT as condition,
 That does NOT arise."
 
-At first, these ideas may seem obvious, or at the very least unimportant. Of course things cause other things. But putting some pieces together, we realize a few things:
-
-1. Nothing in our experience is fundamental. Put another way, there is no root cause that isn't also an effect of some other cause. It's all interconnected and cyclic. Imagine experience as an Ouroboros (a snake eating its own tail). Suffering is like the point at which the snake is biting itself.
-
-2. Every phenomenon has a specific set of causes that are conditions for it to arise. If we can remove even one of the causes, the effect will no longer arise. In our Ouroboros analogy, if we can just figure out how to make the snake retract its fangs, suffering won't happen anymore.
+At first, these ideas may seem obvious, or at the very least unimportant. Of course things cause other things. But let's put some pieces together:
 
 ![A snake eating itself](ouroboros.jpg)
 
-### Specifically, What is Suffering?
+1. Nothing in our experience is fundamental. Put another way, there is no root cause that isn't also an effect of some other cause. It's all interconnected and cyclic. Imagine experience as an Ouroboros (a snake eating its own tail). Experience is digesting itself because there's nothing but itself to subsist on. This act feels both good (tasty tail) and bad (ouch my tail).
 
-The Four Noble Truths state that suffering is caused by "craving and aversion", but it may not be immediately clear how or why that's the case.
+2. Earlier, I mentioned that suffering is just clinging in response to phenomena. But that's only the second arrow. On a deeper level, the Buddha believed that _all_ phenomena lead to suffering. The Ouroboros analogy explains it well: Good things aren't good in a vacuum; eventually the digester will become the digested. Thus, the only way to truly be free of suffering is to prevent phenomena from arising at all.
 
-The first (and most important) piece of the puzzle comes from the phenomenology of suffering. What _is_ suffering made of?
+3. Every phenomenon has a specific set of causes that are conditions for it to arise. If we can remove even one of the causes, the effect will no longer arise. In our Ouroboros analogy, if we can take the tail out of the snake's mouth, it'll stop eating itself. And this is where everything comes together nicely: It turns out that clinging is _also_ the weakest link in the dependently originating cycle of arisings and passings away. Meaning: If you are able to relax your clinging to phenomena enough, they no longer arise at all.
 
-The Buddha realized that most suffering is actually the mental motion of "clinging". Our innate tendency to desire good feelings (craving) and avoid bad ones (aversion) manifests as a sub-second contraction in our minds with the texture of suffering. This "clinging" contraction happens near-instantaneously after good or bad feelings, but is distinctly a separate phenomenon.
+### Enlightenment: OS Update of the Mind
 
-The Buddha used an analogy of "two arrows" to describe suffering. The first arrow is the initial phenomenon: The one you're shot with out of your control. The second arrow is the reactivity _to_ the phenomenon: The one you jam into yourself without even realizing you're doing it. And as it turns out, the emotion and story and discursive thought of the second arrow causes _way_ more suffering than the initial arrow. This makes sense if you imagine something like working out -- The pain you feel after an intense workout would have you calling the emergency room if it happened while you were sitting quietly at home, but in the context of a workout it feels totally fine, even satisfying.
+![Mind OS](mind_os.png)
 
-So on one level, suffering is just that clinging in response to phenomena. The Buddha says that if we clear up our ignorance about the reality of phenomena, we won't cling at all (because why would you cling to something you know isn't really real)?
-
-On another, even deeper level, the Buddha believed that _all_ phenomena have suffering in them (first arrow). Thus, the only way to truly be free of suffering would be to prevent phenomena from arising at all. And here's where everything comes together nicely: It turns out that clinging is _also_ the weakest link in the dependently originating cycle of arisings and passings away. Meaning: If you are able to relax your clinging to phenomena enough, they no longer arise at all.
-
-### The Theory of Enlightenment
-
-At this point, we have enough context to describe what "enlightenment" is. I put it in quotes because the term is overloaded with a billion definitions and connations, but since it's such common vernacular I'm using it anyway.
+At this point, we have enough context to roughly describe "enlightenment". I put it in quotes because the term is overloaded with a billion definitions and connotations, but since it's such common vernacular I'm using it anyway.
 
 I think it's useful to describe enlightenment as an operating system update for the mind. The mind, while awareness is still running, "resets". By witnessing how it builds experience from the ground up, the mind finally understands itself, and is thus able to operate more efficiently in the future.
 
@@ -149,7 +157,7 @@ So step by step:
 
 1. You cease all clinging (if only for a moment). This breaks the cycle of Dependent Origination, causing the mind to "reset".
 
-2. By witnessing Dependent Origination "turn off" and "turn on" directly, your mind sees how phenomena are fabricated, thereby understanding their Emptiness.
+2. By witnessing Dependent Origination "shut down" and "power on" again directly, your mind sees how phenomena are created, thereby understanding their Emptiness.
 
 3. By understanding the Emptiness of all phenomena, you know that they are neither real nor not real, resulting in an ontology of The Middle Way.
 
@@ -159,9 +167,45 @@ Sounds easy enough. Why don't you try it now? Go ahead, just cease all clinging.
 
 ...
 
-What's that? It didn't work? Well, I suppose that's the end of that. Unless... Just our luck: The Buddha also devised some practical strategies to help people stop that tiresome clinging.
+Didn't work? Well, just our luck: The Buddha also devised some practical strategies to help people stop that tiresome clinging.
 
-### The Five Aggregates and The Three Characteristics
+### A Path of Practice
+
+The Buddha understood that humans don't naturally have the capacity to instantaneously let go of their attachments to literally everything. There were two main issues:
+
+1. People don't feel comfortable letting go. They fear that they won't be safe or happy without their normal attachments.
+2. People don't even know _how_ they're clinging. Their unconcsious attachments are so strong and consistent that they don't even realize they're there.
+
+And so, the Buddha developed practices to help with both of these issues.
+
+#### Becoming Wholesome
+
+The Buddha put an incredible amount of emphasis on the importance of cultivating wholesome qualities. The Noble Eightfold path (the last of the Four Noble Truths) is more or less just a guide for acting ethically and becoming more loving. He even outlines four specific types of love:
+
+1. Kindness: Love towards all beings
+2. Joy: Happiness about the good parts of life
+3. Compassion: Care directed towards suffering
+4. Equanimity: Peace in the face of everything
+
+In day-to-day life, the Buddha recommends generosity as a pratice. Unsurprising, since it's literally the act of letting go (of time, money, emotions, etc.) in a loving way.
+
+And in meditation, the Buddha discovered eight states of mental collectedness and bliss he called the "Jhanas". There are four "form" Jhanas, in which you can still sense your body, but the entire felt sense of the body becomes unified. In that unified sensation, each Jhana has a prominent factor:
+
+1. 1st Jhana: Pleasure
+2. 2nd Jhana: Happiness
+3. 3rd Jhana: Contentment
+4. 4th Jhana: Peace
+
+The last four Jhanas are the "formless" Jhanas, in which the sense of the body disappears. They are:
+
+1. 5th Jhana: The realm of infinite space
+2. 6th Jhana: The realm of infinite consciousness
+3. 7th Jhana: The realm of nothingness
+4. 8th Jhana: The realm of neither perception nor non-perception
+
+By spending a lot of time working with the Jhanas, meditators can learn how to access abundant bliss independently of their external conditions. To people who aren't familiar with these states, even the possibility of their existence may sound crazy, but so is the Buddha's second thrust of practice, which is characterized by...
+
+#### The Five Aggregates and The Three Characteristics
 
 Seems like the Buddha really liked listicles. That, _or_ maybe it was just easier to remember teachings this way back before everything was recorded or written down. In any case, The Buddha defined these two groups as ways of looking at experience that would lead to the realization of emptiness (AKA un-inherentness).
 
@@ -177,7 +221,7 @@ The Buddha encouraged practitioners to view all of experience as a combination o
 
 By dividing experience into buckets, it's easier to see that every possible "thing" you can recognize falls into one of those buckets. This makes staying "awake" to phenomena (via meditation) simpler.
 
-For example, if you feel a pain in your knee, you would normally be likely to immediately feel the unpleasantness of it, subsonsciously label it as "knee pain", and immediately be pulled into a story: Maybe about how you got the injury, how long it will take to heal, or how it's otherwise impacting your life.
+For example, if you feel a pain in your knee, you would normally be likely to immediately feel the unpleasantness of it, subconsciously label it as "knee pain", and immediately be pulled into a story: Maybe about how you got the injury, how long it will take to heal, or how it's otherwise impacting your life.
 
 ![The Hero's Journey diagram](heros_journey.jpg)
 
@@ -229,7 +273,7 @@ But wait, wouldn't that just turn you into an apathetic lump?
 
 Maybe surprisingly, no. Your mind already has existing beliefs and habits in place, so if you have no desire for any specific outcome, you'll act exactly as you always have! Experience looks and feels identical after awakening, but with the added bonus of having a deep okayness with whatever happens.
 
-If that still doesn't sound good: Welcome to why people generally don't introduce Buddhism by talking about its goals.
+If that still doesn't sound good: Welcome to why people generally don't introduce Buddhism by talking about its practical goals.
 
 How about an analogy from the Buddha himself? Here he explains stream entry to a monk named Magandiya (paraphrased by Rob Burbea):
 
