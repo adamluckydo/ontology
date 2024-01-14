@@ -2,11 +2,13 @@
 
 This is the second section of a 4-part series. For context on why I'm writing this, check out [part one](Introduction.md).
 
-I don't like the way most people explain Buddhism. For a bunch of reasons, people tend to avoid explaining the main thrust of the Buddha's teachings all in one place. One reason is that Buddhism is complicated, so simplifying it as I'm doing will inevitably leave out some important details. But I think his teachings are fascinating and I want more people to understand and discuss them, so I'm going to try anyway.
+I don't like the way most people explain Buddhism. For a bunch of reasons, people tend to avoid explaining the core aspects of the Buddha's teachings all in one place. One reason is that Buddhism is complicated, so simplifying it as I'm doing will inevitably leave out some important details. But another reason is that his teachings can feel like a punch to the gut, and most people who take the time to understand them don't want to instantly turn to their friends and family and punch their guts as well.
+
+But I think his teachings are fascinating, and I want more people to understand and discuss them. So if you don't feel like getting punched in the existential gut, take this as a warning, because I'm winding up a real haymaker.
 
 ## Reasonings & Disclaimers
 
-There are endless arguments about who/what/when/where/why/how the Buddha's teachings should be offered. I am not a Buddhist scholar, nor even an "awakened" being, but I have spent the past couple of years learning from books, dharma talks, and opinions of experienced meditators.
+There are endless arguments about who/what/when/where/why/how the Buddha's teachings should be offered. I am not a Buddhist scholar, nor even an "awakened" being, but I _have_ spent the past couple of years learning from books, dharma talks, and opinions of experienced meditators.
 
 Based on my knowledge and my experience thus far, here's how I've decided to present things:
 
@@ -14,9 +16,9 @@ Based on my knowledge and my experience thus far, here's how I've decided to pre
 
 2. Concept-based: Buddhism, unlike other religions, doesn't involve any supernatural deitites. Instead, the "religion" (which is really better described as a science or practice) is based on concepts that can be directly realized. Explaining those concepts at some level is key to painting an accurate picture of Buddhism as a whole.
 
-3. Goal-oriented: What did the Buddha specifically desire as the end result of practice? How did he teach people to get there?
+3. Goal-oriented: What exactly did the Buddha desire as the end result of practice? How did he teach people to get there?
 
-I have done my best to emphasize only things the Buddha himself actually taught. I'm intentionally not going to go into arguments against any of his claims here, and I'm also not going to emphasize the nicer aspects of the Buddha's teachings (e.g. the Jhanas, cultivating love and generosity, etc.). I want the Buddha's implicit beliefs to come through as clearly as possible, and I explicitly don't want to blunt that impact. Please, _PLEASE_ do not take any of this as meditation advice. Instead, stay tuned for the next parts `:)`
+I have done my best to emphasize only things the Buddha himself actually taught. I'm also intentionally not going to go into arguments against any of his claims here. I want the Buddha's implicit beliefs to come through as clearly as possible, and I explicitly don't want to blunt that impact. Please, _PLEASE_ do not take any of this as meditation advice. Instead, stay tuned for the next parts `:)`
 
 ## The Buddha's Story
 
@@ -28,10 +30,10 @@ Dominant religion: Vedic Brahmanism (precursor to Hinduism)
 
 ![Statue of the Buddha](buddha.png)
 
-The Buddha (given name: Siddhartha Gautama) was born to royalty. The story goes: Siddhartha's parents sheltered him so he wouldn't be exposed to the painful aspects of life. He would rule having never experienced hardship. However, at the young age of 29, he finally left the palace and witnessed the suffering of the real world. Specifically, he saw an elderly person, a diseased person, a corpse, and a wandering ascetic.
-Siddhartha realized:
+The Buddha (given name: Siddhartha Gautama) was born to royalty. The story goes: Siddhartha's parents sheltered him so he wouldn't be exposed to the painful aspects of life. He would rule having never experienced hardship. However, at the young age of 29, Siddhartha finally left the palace and witnessed the suffering of the real world. Specifically, he saw an elderly person, a diseased person, a corpse, and a wandering ascetic.
+He realized:
 
-“I am subject to aging, subject to sickness, subject to death, subject to loss. I have not gone beyond aging, sickness, and death."
+“I am subject to aging, subject to sickness, subject to death, subject to loss. I have not gone beyond aging, sickness, and death." (AN 5.57)
 
 So, understanding his predicament and hoping to find a spiritual path that would allow him to transcend the suffering of his impermanent existence, Siddhartha followed the lead of the wandering ascetic and left his palace for good. He was an extremely precocious student, quickly mastering the teachings of many spiritual traditions, but found that none of them actually provided a refuge from his suffering. He then decided to take matters into his own hands, investigating the nature of his own experience directly to find a way to eliminate suffering for good.
 
@@ -46,15 +48,15 @@ You shall not build a house again for me.
 All your beams are broken,
 the ridgepole is shattered.
 The mind has become freed from conditioning:
-the end of craving has been reached.”
+the end of craving has been reached.” (Dhp 153-154)
 
 And if you're curious, these were his last words:
 
-"Behold, O monks, this is my advice to you. All component things in the world are changeable. They are not lasting. Work hard to gain your own salvation."
+"Behold, O monks, this is my advice to you. All conditions are impermanent. Work hard to gain salvation." (DN 16 6.7.1)
 
 If it's not clear already, the Buddha's view on life was not exactly happy-go-lucky. From the get-go, he was dead-set on his vision, and he never deviated from it. The Buddha was known to say:
 
-“I teach one thing and one thing only: Suffering and the end of suffering.”
+“All I teach is suffering and the end of suffering." (SN 22.86)
 
 ## Buddhism in a nutshell
 
@@ -88,6 +90,8 @@ Now that leaves us with the question: What is this "true" nature of reality that
 
 ### Concept Time: The Theory of Buddhism
 
+Buddhism is a pretty intellectual endeavor; it really can't be avoided. I've tried my best to explain it below with plenty of analogies, but if abstract concepts aren't to your taste, feel free to skip ahead.
+
 #### The Middle Way
 
 In Buddhism, the nature of reality is explained by The Middle Way. The Middle Way is both a way of living (avoiding extremes of self-gratification and self-mortification) and a way of looking (seeing neither existence nor nonexistence as real).
@@ -102,7 +106,7 @@ How does The Middle Way result in the end of clinging? Imagine this: You're walk
 
 The Middle Way is justified by the concept of Emptiness. Specifically, the emptiness of all phenomena.
 
-In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it's claiming that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. Along with disavowing both existence and nonexistence, the Buddha _specifically_ condemned the stances of both nihilism and eternalism (that things are either totally meaningless, or totally meaningful, respectively).
+In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it's claiming that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. In addition to disavowing both existence and nonexistence, the Buddha condemned the stances of both nihilism and eternalism (that things are either totally meaningless, or totally meaningful, respectively).
 
 ##### So what actually _is_ Emptiness, then?
 
@@ -133,7 +137,7 @@ The teaching of Dependent Origination states that all phenomena are interconnect
 "With this as condition,
 That arises.
 With this NOT as condition,
-That does NOT arise."
+That does NOT arise." (SN 12.61 5.1)
 
 At first, these ideas may seem obvious, or at the very least unimportant. Of course things cause other things. But let's put some pieces together:
 
@@ -141,11 +145,11 @@ At first, these ideas may seem obvious, or at the very least unimportant. Of cou
 
 1. Nothing in our experience is fundamental. Put another way, there is no root cause that isn't also an effect of some other cause. It's all interconnected and cyclic. Imagine experience as an Ouroboros (a snake eating its own tail). Experience is digesting itself because there's nothing but itself to subsist on. This act feels both good (tasty tail) and bad (ouch my tail).
 
-2. Earlier, I mentioned that suffering is just clinging in response to phenomena. But that's only the second arrow. On a deeper level, the Buddha believed that _all_ phenomena lead to suffering. The Ouroboros analogy explains it well: Good things aren't good in a vacuum; eventually the digester will become the digested. Thus, the only way to truly be free of suffering is to prevent phenomena from arising at all.
+2. Earlier, I mentioned that suffering is just clinging in response to phenomena, but actually that's only the second arrow. On a deeper level, the Buddha believed that _all_ phenomena lead to suffering. The Ouroboros analogy explains it well: Good things aren't good in a vacuum; eventually the digester will become the digested. Thus, the only way to truly be free of suffering is to prevent phenomena from arising at all.
 
 3. Every phenomenon has a specific set of causes that are conditions for it to arise. If we can remove even one of the causes, the effect will no longer arise. In our Ouroboros analogy, if we can take the tail out of the snake's mouth, it'll stop eating itself. And this is where everything comes together nicely: It turns out that clinging is _also_ the weakest link in the dependently originating cycle of arisings and passings away. Meaning: If you are able to relax your clinging to phenomena enough, they no longer arise at all.
 
-### Enlightenment: OS Update of the Mind
+### Enlightenment
 
 ![Mind OS](mind_os.png)
 
@@ -167,51 +171,55 @@ Sounds easy enough. Why don't you try it now? Go ahead, just cease all clinging.
 
 ...
 
-Didn't work? Well, just our luck: The Buddha also devised some practical strategies to help people stop that tiresome clinging.
+Didn't work? Well, just our luck: The Buddha also devised some practical strategies to help people with their tiresome clinging.
 
 ### A Path of Practice
 
-The Buddha understood that humans don't naturally have the capacity to instantaneously let go of their attachments to literally everything. There were two main issues:
+The Buddha understood that humans don't naturally have the capacity to instantaneously let go of their attachments to literally everything. People have two main roadblocks:
 
 1. People don't feel comfortable letting go. They fear that they won't be safe or happy without their normal attachments.
-2. People don't even know _how_ they're clinging. Their unconcsious attachments are so strong and consistent that they don't even realize they're there.
+2. People don't even know _how_ they're clinging. Their unconcsious attachments are so strong and habitual that they don't even realize they're there.
 
-And so, the Buddha developed practices to help with both of these issues.
+As usual, the studious Buddha came up with solutions for both of these issues.
 
 #### Becoming Wholesome
 
-The Buddha put an incredible amount of emphasis on the importance of cultivating wholesome qualities. The Noble Eightfold path (the last of the Four Noble Truths) is more or less just a guide for acting ethically and becoming more loving. He even outlines four specific types of love:
+The Buddha put an incredible amount of emphasis on the importance of cultivating wholesome qualities. The Noble Eightfold path (the last of the Four Noble Truths) is more or less just a guide for acting ethically and becoming more loving. He specifically focused on four types of love:
 
-1. Kindness: Love towards all beings
-2. Joy: Happiness about the good parts of life
-3. Compassion: Care directed towards suffering
-4. Equanimity: Peace in the face of everything
+- Kindness: Love for all beings
+- Joy: Happiness at the existence of good things
+- Compassion: Care directed towards suffering
+- Equanimity: Peace in the face of everything
 
-In day-to-day life, the Buddha recommends generosity as a pratice. Unsurprising, since it's literally the act of letting go (of time, money, emotions, etc.) in a loving way.
+In day-to-day life, the Buddha recommended practicing generosity at every opportunity. In a sense, generosity is the essence of the whole path, since it's literally the act of letting go (of time, money, emotions, etc.) with loving intent.
 
-And in meditation, the Buddha discovered eight states of mental collectedness and bliss he called the "Jhanas". There are four "form" Jhanas, in which you can still sense your body, but the entire felt sense of the body becomes unified. In that unified sensation, each Jhana has a prominent factor:
+![The Buddha preaching generosity while living off of alms](generosity.png)
 
-1. 1st Jhana: Pleasure
-2. 2nd Jhana: Happiness
-3. 3rd Jhana: Contentment
-4. 4th Jhana: Peace
+It _is_ a bit funny (but not contradictory) how the Buddha preached generosity while living on alms.
 
-The last four Jhanas are the "formless" Jhanas, in which the sense of the body disappears. They are:
+And in meditation, the Buddha discovered eight states of collectedness and bliss he called the "Jhanas". There are four "form" Jhanas, in which you can still sense your body, but in which the entire felt sense of the body becomes unified. In that unified sensation, each Jhana has a prominent factor:
 
-1. 5th Jhana: The realm of infinite space
-2. 6th Jhana: The realm of infinite consciousness
-3. 7th Jhana: The realm of nothingness
-4. 8th Jhana: The realm of neither perception nor non-perception
+- 1st Jhana: Pleasure
+- 2nd Jhana: Happiness
+- 3rd Jhana: Contentment
+- 4th Jhana: Peace
 
-By spending a lot of time working with the Jhanas, meditators can learn how to access abundant bliss independently of their external conditions. To people who aren't familiar with these states, even the possibility of their existence may sound crazy, but so is the Buddha's second thrust of practice, which is characterized by...
+The last four Jhanas are the "formless" Jhanas, in which the sense of the body disappears. They are typically described as "realms" or "dimensions" of being. They are:
+
+- 5th Jhana: The realm of infinite space
+- 6th Jhana: The realm of infinite consciousness
+- 7th Jhana: The realm of nothingness
+- 8th Jhana: The realm of neither perception nor non-perception
+
+By spending a lot of time working with the Jhanas, meditators can learn how to access abundant bliss independently of their external conditions. To people who aren't familiar with these states, even the possibility of their existence may sound crazy, but equally so is the Buddha's second thrust of practice, which is characterized by...
 
 #### The Five Aggregates and The Three Characteristics
 
-Seems like the Buddha really liked listicles. That, _or_ maybe it was just easier to remember teachings this way back before everything was recorded or written down. In any case, The Buddha defined these two groups as ways of looking at experience that would lead to the realization of emptiness (AKA un-inherentness).
+Seems like the Buddha really liked listicles. That, _or_ maybe it was just easier to remember teachings this way back before everything was recorded or written down. In any case, this next set of groups aren't teachings so much as they are ways of looking at experience. These ways of looking are intentionally designed to undermine our habitual tendencies of clinging, and so lead to awakening.
 
-#### The Five Aggregates
+##### The Five Aggregates
 
-The Buddha encouraged practitioners to view all of experience as a combination of five "aggregates", or "types" of phenomena.
+The Buddha encouraged practitioners to view all of experience as a combination of five "aggregates" (types) of phenomena.
 
 1. Form: Physical sensations; the 5 senses
 2. Feeling: The "tone" of sensation; whether something is pleasant or unpleasant
@@ -231,7 +239,7 @@ Looking in terms of the five aggregates is a strategy to break that automatic na
 
 The five aggregates view is also depersonalizing: If things are just "aggregates", there's not much reason to care about them. Likewise, all of the aggregates are impermanent, unable to permanently satisfy us in a way we'd like, and can't be inherently identified as "me" or "mine". The Buddha heavily emphasized these three aspects of phenomena in his teachings, going so far as to proclaim them as...
 
-#### The Three Characteristics
+##### The Three Characteristics
 
 In order to end suffering once and for all, drastic measures must be taken. Specifically, adopting lenses that cast experience in a less-than-appealing light. Or, the Buddha would argue, an accurate light. These lenses are:
 
@@ -241,31 +249,37 @@ In order to end suffering once and for all, drastic measures must be taken. Spec
 
 Sound a bit... bleak? Maybe this Buddha guy needed a good karaoke night. Or maybe he just _really_ wanted people to awaken at whatever the cost.
 
-There's a quote from him that goes (roughly, paraphrased from Rob Burbea):
+![The Buddha singing karaoke](karaoke_buddha.png)
 
-"If you could make a deal, that every day for a hundred years, you would be stabbed with one hundred spears in the morning, stabbed again one hundred times at noon, and one hundred more times in the evening, but with a guarantee that at the end of those hundred years you’d gain full awakening, that would be a deal worth taking."
+(I couldn't not)
 
-And not only that, but:
+There's a quote from him that goes:
 
-“You wouldn’t feel, at the end of those hundred years, that it had been gained with difficulty relative to what had been gained.”
+"Monks, suppose there was a man whose life span was 100 years, who would live to 100. Someone would say to him, ‘Look here, fellow. They will stab you at dawn with 100 spears, at noon with 100 spears, & again at evening with 100 spears. You, thus stabbed day after day with 300 spears, will have a lifespan of 100 years, will live to be 100, and at the end of 100 years you will realize the four noble truths that you have never realized before.’
+
+"Monks, a person who desired his own true benefit would do well to take up [the offer]... if this were to occur, I tell you that the realization of the four noble truths would not be accompanied by pain & distress. Instead, I tell you, the realization of the four noble truths would be accompanied by pleasure & happiness." (SN 56:35)
 
 Damn. What is this awakening then, and how is it _that_ good?
 
-### The Actuality of Awakening
+### The Fruit of Practice
 
-It's nigh impossible to convey the phenomenology of "awakening" to people who don't already understand it. Yet it is a very real and distinct phenomenon, so I'll try to contour some lines around it here, and point to some external resources that describe it in even more detail.
+It's nigh impossible to convey the phenomenology of "awakening" accurately with words. Yet it is a very real and distinct phenomenon, so I'll try to contour some lines around it here, and point to some external resources that describe it in even more detail.
 
 Technically, in Buddha Dharma, there are four stages of awakening, defined by ten fetters that must each be broken to reach full liberation, but for our purposes we'll just go with the first stage. This initial awakening, known as "stream entry", is what most people are referring to when you hear the word "enlightenment".
 
 #### Stream Entry
 
+"Sole dominion over the earth, going to heaven, lordship over all worlds: the fruit of stream-entry excels them." (Dhp 178)
+
+![Abstract art of the self looking in a mirror](stream_entry.png)
+
 Awakening, stream entry, nonduality, pure being. There are many ways people describe it, but it comes down to one key point:
 
-You pay close enough attention to experience in a specific way, and suddenly you realize that there is no "self", and there never was one.
+You pay close enough attention to experience in a specific way, and suddenly you see that there is no "self", and there never was one.
 
-And it's not that the self is "lost", or "eradicated". Your personality and intelligence and everything about you is still fully intact; it's just that you realize you were adding extra tension onto experience in the shape of a self-conception that didn't actually inherently exist. It was empty, just like everything else.
+And it's not that the self is "lost", or "eradicated". Your personality and intelligence and everything about you is still fully intact; it's just that you realize you were adding extra tension onto experience in the shape of a self-conception that didn't actually inherently exist. It was empty, and dependently originated within your own mind, just like everything else.
 
-[Rival Voices on non-self](https://x.com/nosilverv/status/1741895350078607422?s=20)
+![Rival Voices on non-self](no_self.png)
 
 After seeing that the self is no more than a fictional narrative, "you" no longer experience craving or aversion, since there's no "you" to be helped or harmed by any outcome. Suffering: Ended.
 
@@ -275,7 +289,7 @@ Maybe surprisingly, no. Your mind already has existing beliefs and habits in pla
 
 If that still doesn't sound good: Welcome to why people generally don't introduce Buddhism by talking about its practical goals.
 
-How about an analogy from the Buddha himself? Here he explains stream entry to a monk named Magandiya (paraphrased by Rob Burbea):
+How about an analogy from the Buddha himself? Here he explains stream entry to a monk named Magandiya (MN 75):
 
 ___
 
@@ -285,7 +299,7 @@ Then suppose his friends, companions, and relatives took him to a doctor, and th
 
 “My gosh, how long have I been fooled, cheated, and deceived by that man and his grimy, oil-stained rag. ‘Here, my good man, is a white cloth, beautiful, spotless and clean.’” In the same way, Magandiya, if I were to teach you the Dharma, this freedom from dis-ease, this unbinding, and you on your part were to understand that freedom from dis-ease and see that unbinding, then together with the arising of your eyesight, you would abandon whatever passion and delight you felt with regard for the five aggregates for sustenance.
 
-And it would occur to you, “My gosh, how long have I been fooled, cheated, and deceived by this mind, for in clinging it was just form, it was just body that I was clinging to. It was just feeling, just perception, just mental processes, mental formations, just consciousness that I was clinging to. With my clinging as condition, there is becoming, birth, and then ageing and death, sorrow, lamentation, pains, distresses and despairs, all come into play, and thus is the origination of this entire mass of stress.
+And it would occur to you, “My gosh, how long have I been fooled, cheated, and deceived by this mind, for in clinging it was just form, it was just body that I was clinging to. It was just feeling, just perception, just mental processes, mental formations, just consciousness that I was clinging to. With my clinging as condition, there is becoming, birth, and then aging and death, sorrow, lamentation, pains, distresses and despairs, all come into play, and thus is the origination of this entire mass of stress.
 
 ___
 
@@ -311,8 +325,9 @@ It is not formed by causal conditions, and therefore never changes, nor ceases t
 
 From the Buddha:
 
-“And now, monks, I thought: ‘This truth that I have realized is profound, hard to see, hard to understand, pure, peaceful, sublime, beyond the realm of reasoning, subtle, and only the wise can experience it’”
+“Deep is this Dharma, hard to see, hard to realize, peaceful and refined, beyond the scope of conjecture, subtle, to be experienced by the wise. For those with other views, other practices, other satisfactions, other aims, other teachers, it
+is difficult to know.” (MN 72 18.1)
 
-"There is that dimension, monks, where there is neither earth, nor water, nor fire, nor wind; neither dimension of the infinitude of space, nor dimension of the infinitude of consciousness, nor dimension of nothingness, nor dimension of neither perception nor non-perception; neither this world, nor the next world, nor sun, nor moon. And there, I say, there is neither coming, nor going, nor staying; neither passing away nor arising. It is without foundation. It continues not. This, just this, is the end of suffering."
+"There is that dimension, monks, where there is neither earth, nor water, nor fire, nor wind; neither dimension of the infinitude of space, nor dimension of the infinitude of consciousness, nor dimension of nothingness, nor dimension of neither perception nor non-perception; neither this world, nor the next world, nor sun, nor moon. And there, I say, there is neither coming, nor going, nor staying; neither passing away nor arising. It is without foundation. It continues not. This, just this, is the end of suffering." (UD 8.1)
 
-“Where all phenomena cease, there all ways of speaking cease.”
+“Where all phenomena cease, there all ways of speaking cease.” (SN 5.6)
