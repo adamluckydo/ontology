@@ -5,7 +5,7 @@
 
 When I was younger, I always liked mazes. I particularly liked the challenge of not drawing any lines until I had them completely solved. Now, I'm slowly realizing that solving everything in my head probably had some unintended consequences _beyond_ just math teachers complaining that I never showed my work.
 
-Looking back, thinking has always been my happy place. School quickly installed me with the "intelligence = self-worth" wiring, and at the same time, I started realizing that sharing feelings was dangerous: Uncurated thoughts could make people react poorly, and being the one responsible for making someone else feel bad was inconceivable. Clearly it was much better to just think of the optimal response and say that.
+Looking back, thinking has always been my happy place. School quickly installed me with the "intelligence = self-worth" wiring, and at the same time, I realized that sharing feelings was dangerous: Uncurated thoughts could make people react poorly, and being the one responsible for making someone else feel bad was inconceivable. Clearly it was much better to just think of the optimal response and say that.
 
 So it didn't really matter that I never got close with anyone new in middle school, and that I never went out of my way to spend time with new people in high school... or in college. I still saw my old friends, and anyway, getting a good job was priority #1. In the meantime, digging into a creative problem was like cocaine for my little nerd brain. Every solution was a fresh hit: "YES. I'm smart. This is what it's all about."
 
@@ -13,7 +13,7 @@ But sometime around 2016, during college (coincidentally around the time I was f
 
 "What is the meaning of life?"
 
-The question itself is almost laughable. But why? Its ubiquity? The unspoken agreement that it's unsolvable? The implicit assumption that meaning isn't real? The otherwise intolerable tension of existential dread? Or maybe... because of all of those reasons and more, to even ask the question is to be unwell.
+The question itself is almost laughable. But why? Its ubiquity? The unspoken agreement that it's unsolvable? The implicit assumption that meaning isn't real? The otherwise intolerable tension of existential dread? Or maybe... because of all of those reasons and more, even asking the question is admitting that you're unwell.
 
 At the time, I didn't give a second thought as to why I had the question, or if it even had a definitive answer. To me, if it had a question mark, it was solvable. And I was a guy who could solve things. I had never been concerned about meaning or existence before, but now I suddenly was. However, my brain rationalized it nicely:
 
@@ -41,13 +41,13 @@ Waiting...
 
 Losing hope,
 
-Running out of reasons to live.
+Losing reasons to live.
 
 Neither my abilities nor the abilities of the specialists I went to were up to the task. And so, the great question of the the condition of my existence again reared its head: this time with extra nihilism.
 
 Finding some transient meaning wasn't enough now. What was _actually_ real? What could I rely upon when both my physical and cognitive abilities were failing in the present, and the future of my current trajectory was no better?
 
-Coincidentally, a friend had recently introduced me to Waking Up: A meditation app advertising a deeper examination of life. And so, once again I found my refuge in thinking: this time by investigating the nature of my own experience.
+Coincidentally, a friend had recently introduced me to Waking Up: A meditation app that advertised a deeper examination of life. And so, once again I found my refuge in thinking: this time by investigating the nature of my own experience.
 
 After all, I was a guy who could solve things. Why not reality itself?
 
@@ -63,7 +63,7 @@ Finally, I stumbled upon a section of the app called "The Path of Insight"; a se
 
 Buddhism is complex, heavy, and in a lot of ways, opposite of most people's conceptions of existence. Just hearing about it can strike people in unexpected ways. So consider this a disclaimer: **Buddhism warning: Potentially distressing ontology ahead.**
 
-There's a phenomenon that sometimes occurs when somebody's closest loved ones pass away. For a few weeks or months, they suddenly get interested in Buddhism, and as the pain fades, so too does the interest. In the face of inconsolable grief, people are forced to face their suffering directly, for a time, their perspective on life matches the Buddha's.
+There's a phenomenon that sometimes occurs when somebody's closest loved ones pass away. For a few weeks or months, they suddenly get interested in Buddhism, and as the pain fades, so too does the interest. In the face of inconsolable grief, people are forced to face their suffering directly, and for a time, their perspective on life matches the Buddha's.
 
 If you aren't familiar with Buddhism already, it's basically this: Life inherently has suffering in it, being free from suffering is _the_ most important possible thing (implicit), therefore we should transcend life. By investigating your own experience, you can see exactly how suffering originates and cut it off at its root.
 
@@ -77,7 +77,7 @@ Turns out, if you practice viewing all phenomena as suffering while under parano
 
 Specifically, what happened for me was a sudden jolt of realization that everything was a trick. All good things, all bad things, every thing that _has_ happened or _will_ happen was just fake, and caring about any of it could only lead to suffering. You know how your brain will drift off into daydreams as soon as you're not focusing on something? Well every time that happened, instead of random thoughts about myself or others or the future or the past, it was just "this is all suffering". The only thing that helped was to clear my mind by meditating, but usually the thought of being alone with my own mind was too overwhelmingly terrifying to allow myself to do even that. For a few weeks after my initial jolt, I could not go to sleep without a light on and some audio playing to try to distract my mind from "The Truth".
 
-One of the worst parts of my mental shift had been that it felt dangerous to even talk to other people about it: If I had gotten myself into this state, I had to avoid getting anyone else into it at all costs. The second worst part was that Buddhism is unfalsifiable. So any thoughts along the lines of "just believe something different" didn't penetrate my self-imposed sphere of suffering.
+One of the worst parts of this mental shift was that it felt dangerous to even talk to other people about it. My paranoid logic told me that if I had gotten myself into this state, it was possible to get other people into this state, and I had to avoid that at all costs. The second worst part was that Buddhism is unfalsifiable. So any thoughts along the lines of "just believe something different" didn't penetrate my self-imposed sphere of suffering.
 
 There were only two things that really pulled me out of it: Time, and Rob Burbea.
 
@@ -97,35 +97,28 @@ But to get a feel for the type of person Rob was, these two quotes (pulled from 
 >
 > Some of those I am or have been in my life conventionally. Some conventionally. All of them mythically. None of them really."
 
-Rob brought a sense of magic to life that, combined with his intellectual rigor and deep dedication to action, introduced many people (myself included) to an entirely different way of seeing and living life.
+Rob brought a sense of magic that, combined with his intellectual rigor and deep dedication to action, introduced many people (myself included) to an entirely different way of seeing and living life.
 
-At the time of my crisis, Rob's talks were like a lifeline thrown to a man drowning at sea: He had seen Buddhism, walked the path himself, and gone beyond it. And things were okay.
+At the time of my crisis, listening to Rob's talks was like clinging to a lifeline as I drowned at sea: He had seen Buddhism, walked the path himself, and gone beyond it. And things were okay.
 
-## m
+## Present Day, Present Time
 
+My return to baseline okayness took about 3 months. As my self-induced paranoia faded, it was replaced by a hardening resolve to finally face my external fears and fight them head-on.
 
-But Rob . Freedom from suffering was possible, and it didn't necessitate giving up our 
+"Never again", I said, and my life hasn't stopped improving since.
 
+It's hard to point at one individual thing that has made the biggest impact on my sense of well-being. But if I had to choose, I'd say that being opened to the possibility that things could be better was key.
 
-Over the course of the last year, I've made _massive_ strides in my baseline happiness. There was no _one_ thing that 
+**Our experience of reality is identical to what we believe it is**. And conversely, our beliefs circumscribe what is possible in our lives. If I had to pick _the_ most important fact, the one that has made the most impact over the course of my entire life, it would be that.
 
-___
+For example, take my whole saga above. When I legitimately believed that life was suffering, my experience of life inevitably reflected that.
 
+Or, if you believe that life is inherently meaningless, your experience of life will inevitably reflect _that_, no matter how hard you try to find meaning.
 
+On the contrary, if you actually believe that you have the ability to achieve your deepest desires, and your life will be filled with joy... it may still not happen. Sorry to burst your bubble. But! _While_ you believe those things, your experience of life will reflect that.
 
+Life _is_ not this way or that way. There is no "objective" subjective experience. When you're experiencing life, you are always looking at it in a certain way, and that way of looking changes the actual perception of life itself.
 
+So what do you actually believe? And is it possible to _change_ those beliefs?
 
-"War and courage have done more great things than charity. Not your sympathy, but your bravery hath hitherto saved the victims." - Friedrich Nietzsche, _Thus Spoke Zarathustra_ [1]
-
-
-Nietzsche[2]:
-
-The higher it’s type, always the seldomer doth a thing succeed. Ye higher men here, have ye not all - been failures? Be of good cheer; what doth it matter? How much is still possible! Learn to laugh at yourselves, as ye ought to laugh!
-
-What wonder even that ye have failed and only half-succeeded, ye half-shattered ones! Doth not - man’s future strive and struggle in you? Man’s furthest, profoundest, star- highest issues, his prodigious powers - do not all these foam through one another in your vessel? What wonder that many a vessel shattereth! Learn to laugh at yourselves, as ye ought to laugh! Ye higher men, oh, how much is still possible! 
-
-And verily, how much hath already succeeded! How rich is this earth in small, good, perfect things, in well-constituted things! Set around you small, good, perfect things, ye higher men. Their golden maturity healeth the heart. The perfect teacheth one to hope. 
-
-References:
-[1]: _Thus Spoke Zarathustra_, X. War and Warriors.
-[2]: _Thus Spoke Zarathustra_, LXXIII. The Higher Man; 15.
+Only one way to find out.

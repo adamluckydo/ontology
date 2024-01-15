@@ -15,6 +15,20 @@ Why not focus on fulfilling those needs directly?
 
 [Carmen on spiritual hygeine](https://x.com/carmenleelau/status/1737631408045408313?s=20)
 
+"War and courage have done more great things than charity. Not your sympathy, but your bravery hath hitherto saved the victims." - Friedrich Nietzsche, _Thus Spoke Zarathustra_ [1]
+
+Nietzsche[2]:
+
+The higher it’s type, always the seldomer doth a thing succeed. Ye higher men here, have ye not all - been failures? Be of good cheer; what doth it matter? How much is still possible! Learn to laugh at yourselves, as ye ought to laugh!
+
+What wonder even that ye have failed and only half-succeeded, ye half-shattered ones! Doth not - man’s future strive and struggle in you? Man’s furthest, profoundest, star- highest issues, his prodigious powers - do not all these foam through one another in your vessel? What wonder that many a vessel shattereth! Learn to laugh at yourselves, as ye ought to laugh! Ye higher men, oh, how much is still possible! 
+
+And verily, how much hath already succeeded! How rich is this earth in small, good, perfect things, in well-constituted things! Set around you small, good, perfect things, ye higher men. Their golden maturity healeth the heart. The perfect teacheth one to hope. 
+
+References:
+[1]: _Thus Spoke Zarathustra_, X. War and Warriors.
+[2]: _Thus Spoke Zarathustra_, LXXIII. The Higher Man; 15.
+
 ## The Middle Way of Desire
 
 With desire inherently comes clinging. If you have a preference of something, _anything_, you will suffer. Consider these two cases: If you don't have your preference, you will suffer until you get it, and if you _do_ have it, you will suffer in fear of losing it (since all things are impermanent).
@@ -155,32 +169,6 @@ Our experience is an ever-evolving process. In some ways this is obvious to us: 
 ## Rumi
 
 From _The Essential Rumi_, translated by Coleman Barks:
-
-## Two Kinds of Intelligence
-
-There are two kinds of intelligence: one acquired,
-as a child in school memorizes facts and concepts
-from books and from what the teacher says,
-collecting information from the traditional sciences
-as well as from the new sciences.
-
-With such intelligence you rise in the world.
-You get ranked ahead or behind others
-in regard to your competence in retaining
-information. You stroll with this intelligence
-in and out of fields of knowledge, getting always more
-marks on your preserving tablets.
-
-There is another kind of tablet, one
-already completed and preserved inside you.
-A spring overflowing its springbox. A freshness
-in the center of the chest. This other intelligence
-does not turn yellow or stagnate. It's fluid,
-and it doesn't move from outside to inside
-through conduits of plumbing-learning.
-
-This second knowing is a fountainhead
-from within you, moving out.
 
 [River Kenna on the two modes of being](https://x.com/the_wilderless/status/1736468475625783606?s=20)
 

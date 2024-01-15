@@ -1,10 +1,8 @@
-# Buddhism: A Primer
-
-This is the second section of a 4-part series. For context on why I'm writing this, check out [part one](Introduction.md).
+# Buddhism in a Nutshell
 
 I don't like the way most people explain Buddhism. For a bunch of reasons, people tend to avoid explaining the core aspects of the Buddha's teachings all in one place. One reason is that Buddhism is complicated, so simplifying it as I'm doing will inevitably leave out some important details. But another reason is that his teachings can feel like a punch to the gut, and most people who take the time to understand them don't want to instantly turn to their friends and family and punch their guts as well.
 
-But I think his teachings are fascinating, and I want more people to understand and discuss them. So if you don't feel like getting punched in the existential gut, take this as a warning, because I'm winding up a real haymaker.
+But I think his teachings are important, and I want more people to understand and discuss them. So if you don't feel like getting punched in the existential gut, take this as a warning, because I'm winding up a real haymaker.
 
 ## Reasonings & Disclaimers
 
@@ -58,9 +56,7 @@ If it's not clear already, the Buddha's view on life was not exactly happy-go-lu
 
 “All I teach is suffering and the end of suffering." (SN 22.86)
 
-## Buddhism in a nutshell
-
-### The Four Noble Truths
+## The Four Noble Truths
 
 You may have heard the Four Noble Truths before. They are the core teachings of Buddhism, and they go as follows:
 
@@ -74,7 +70,7 @@ You may have heard the Four Noble Truths before. They are the core teachings of 
 
 Before we go any further, let's get one thing straight:
 
-### Specifically, What is Suffering?
+## Specifically, What is Suffering?
 
 The Four Noble Truths state that suffering is caused by "craving and aversion", but it may not be immediately clear how or why that's the case.
 
@@ -88,11 +84,11 @@ So to put it simply: Suffering is just clinging in response to phenomena. And th
 
 Now that leaves us with the question: What is this "true" nature of reality that us plebians are blind to?
 
-### Concept Time: The Theory of Buddhism
+## Concept Time: The Theory of Buddhism
 
 Buddhism is a pretty intellectual endeavor; it really can't be avoided. I've tried my best to explain it below with plenty of analogies, but if abstract concepts aren't to your taste, feel free to skip ahead.
 
-#### The Middle Way
+### The Middle Way
 
 In Buddhism, the nature of reality is explained by The Middle Way. The Middle Way is both a way of living (avoiding extremes of self-gratification and self-mortification) and a way of looking (seeing neither existence nor nonexistence as real).
 
@@ -102,13 +98,13 @@ How does The Middle Way result in the end of clinging? Imagine this: You're walk
 
 "Existence isn't real, but it isn't _not_ real either. 😏"
 
-##### What is this Middle Way even based on?
+#### What is this Middle Way even based on?
 
 The Middle Way is justified by the concept of Emptiness. Specifically, the emptiness of all phenomena.
 
 In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it's claiming that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. In addition to disavowing both existence and nonexistence, the Buddha condemned the stances of both nihilism and eternalism (that things are either totally meaningless, or totally meaningful, respectively).
 
-##### So what actually _is_ Emptiness, then?
+#### So what actually _is_ Emptiness, then?
 
 When something is "empty", it is empty of "inherent existence": It doesn't actually exist in any real, independent way. It's helpful to think of "empty" as an adjective. But in this case, an adjective that applies to literally everything that exists: Physical objects, thoughts, and even consciousness itself.
 
@@ -116,11 +112,11 @@ For instance, imagine a can of soda. "Soda" is really just a label that we give 
 
 So, according to Emptiness: "Things" are really just labels that point to groups of smaller things happening together (all of which are empty too). This differs from our natural method of interpreting phenomena, in which we perceive phenomena, instantly unconsciously label it, and conceive of that label as an inherently existing "thing".
 
-##### How does this all relate to The Middle Way?
+#### How does this all relate to The Middle Way?
 
 The Middle Way states that reality neither exists nor doesn't exist, and Emptiness shows that things don't inherently exist. So Emptiness itself implies the Middle Way.
 
-##### "It" "Is" "Soup"
+#### "It" "Is" "Soup"
 
 ![Chicken noodle soup](soup.png)
 
@@ -130,7 +126,7 @@ Emptiness also applies to the existence of "things" over time: Say we have a bow
 
 So it turns out that our natural inclination to label things is a lot less about reality, and a lot more about usefully categorizing things. If we want to understand reality beyond the labels, the Buddha is ready with an explanation.
 
-#### Because This Is, That Is
+### Because This Is, That Is
 
 The teaching of Dependent Origination states that all phenomena are interconnected, only arising dependent on an inconceivably complex web of prior causes and conditions. Therefore, all "things" are both empty (non-inherent) and dependently originating (caused by something else). Additionally, the concept of Interdependent Co-Arising states that not only are all things dependent upon other things, but cause and effect necessarily arise together. The teaching of this concept generally goes as follows:
 
@@ -173,7 +169,7 @@ Sounds easy enough. Why don't you try it now? Go ahead, just cease all clinging.
 
 Didn't work? Well, just our luck: The Buddha also devised some practical strategies to help people with their tiresome clinging.
 
-### A Path of Practice
+## A Path of Practice
 
 The Buddha understood that humans don't naturally have the capacity to instantaneously let go of their attachments to literally everything. People have two main roadblocks:
 
@@ -182,7 +178,7 @@ The Buddha understood that humans don't naturally have the capacity to instantan
 
 As usual, the studious Buddha came up with solutions for both of these issues.
 
-#### Becoming Wholesome
+### Becoming Wholesome
 
 The Buddha put an incredible amount of emphasis on the importance of cultivating wholesome qualities. The Noble Eightfold path (the last of the Four Noble Truths) is more or less just a guide for acting ethically and becoming more loving. He specifically focused on four types of love:
 
@@ -213,11 +209,11 @@ The last four Jhanas are the "formless" Jhanas, in which the sense of the body d
 
 By spending a lot of time working with the Jhanas, meditators can learn how to access abundant bliss independently of their external conditions. To people who aren't familiar with these states, even the possibility of their existence may sound crazy, but equally so is the Buddha's second thrust of practice, which is characterized by...
 
-#### The Five Aggregates and The Three Characteristics
+### The Five Aggregates and The Three Characteristics
 
 Seems like the Buddha really liked listicles. That, _or_ maybe it was just easier to remember teachings this way back before everything was recorded or written down. In any case, this next set of groups aren't teachings so much as they are ways of looking at experience. These ways of looking are intentionally designed to undermine our habitual tendencies of clinging, and so lead to awakening.
 
-##### The Five Aggregates
+#### The Five Aggregates
 
 The Buddha encouraged practitioners to view all of experience as a combination of five "aggregates" (types) of phenomena.
 
@@ -239,7 +235,7 @@ Looking in terms of the five aggregates is a strategy to break that automatic na
 
 The five aggregates view is also depersonalizing: If things are just "aggregates", there's not much reason to care about them. Likewise, all of the aggregates are impermanent, unable to permanently satisfy us in a way we'd like, and can't be inherently identified as "me" or "mine". The Buddha heavily emphasized these three aspects of phenomena in his teachings, going so far as to proclaim them as...
 
-##### The Three Characteristics
+#### The Three Characteristics
 
 In order to end suffering once and for all, drastic measures must be taken. Specifically, adopting lenses that cast experience in a less-than-appealing light. Or, the Buddha would argue, an accurate light. These lenses are:
 
@@ -247,11 +243,11 @@ In order to end suffering once and for all, drastic measures must be taken. Spec
 2. Unsatisfactoriness (highly contended translation): Phenomena is "a bummer", or "not quite it", or, if you're really hardcore, "suffering"
 3. Non-self: No phenomena is "I" or "me" or "mine". That is, there is no agent owning, controlling, or even witnessing phenomena. There is just experience.
 
-Sound a bit... bleak? Maybe this Buddha guy needed a good karaoke night. Or maybe he just _really_ wanted people to awaken at whatever the cost.
+Sound a bit... bleak? Maybe this Buddha guy needed a good karaoke night.
 
 ![The Buddha singing karaoke](karaoke_buddha.png)
 
-(I couldn't not)
+Or... maybe he just _really_ wanted people to awaken, at whatever the cost.
 
 There's a quote from him that goes:
 
@@ -261,13 +257,13 @@ There's a quote from him that goes:
 
 Damn. What is this awakening then, and how is it _that_ good?
 
-### The Fruit of Practice
+## The Fruit of Practice
 
 It's nigh impossible to convey the phenomenology of "awakening" accurately with words. Yet it is a very real and distinct phenomenon, so I'll try to contour some lines around it here, and point to some external resources that describe it in even more detail.
 
-Technically, in Buddha Dharma, there are four stages of awakening, defined by ten fetters that must each be broken to reach full liberation, but for our purposes we'll just go with the first stage. This initial awakening, known as "stream entry", is what most people are referring to when you hear the word "enlightenment".
+Technically, in Buddha Dharma, there are four stages of awakening, defined by ten fetters that must each be broken to reach full liberation. The initial awakening, known as "stream entry", is what most people are referring to when you hear the word "enlightenment".
 
-#### Stream Entry
+### Stream Entry
 
 "Sole dominion over the earth, going to heaven, lordship over all worlds: the fruit of stream-entry excels them." (Dhp 178)
 
