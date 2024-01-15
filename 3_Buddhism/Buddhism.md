@@ -279,8 +279,6 @@ You pay close enough attention to experience in a specific way, and suddenly you
 
 And it's not that the self is "lost", or "eradicated". Your personality and intelligence and everything about you is still fully intact; it's just that you realize you were adding extra tension onto experience in the shape of a self-conception that didn't actually inherently exist. It was empty, and dependently originated within your own mind, just like everything else.
 
-![Rival Voices on non-self](no_self.png)
-
 After seeing that the self is no more than a fictional narrative, "you" no longer experience craving or aversion, since there's no "you" to be helped or harmed by any outcome. Suffering: Ended.
 
 But wait, wouldn't that just turn you into an apathetic lump?

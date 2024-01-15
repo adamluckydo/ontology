@@ -1,4 +1,4 @@
-# Practical Practice
+# Battle of the Ontologies
 
 ## What exactly _is_ the Buddhist Path?
 
@@ -17,6 +17,8 @@ There were only two things that really pulled me out of it: Time, and Rob Burbea
 ## Is the Buddha actually Anti-Life?
 
 A lot of popular Buddhist teachings gently skip over the fact that the Buddha _despised_ phenomena. He frequently described the Five Aggregates as “inconstant, dukkha, a disease, a boil, an arrow, misery, an affliction, alien, a disintegration, empty, not-self” (e.g. 9:36 of the Numbered Discourses). The Buddha was not "against life" per se, but he was against suffering. Since life was composed of phenomena that are not free of suffering, that was that.
+
+![Rival Voices on non-self](no_self.png)
 
 ## Who is Rob Burbea?
 
@@ -92,6 +94,8 @@ So if you don't actually have the desire to follow the Buddha's path, you won't 
 This is why it's important to ask...
 
 ## What is your actual desire?
+
+[Nick Cammarata: "ah ok I'll save the world, that's special right!"](https://x.com/nickcammarata/status/1741561355264745778?s=20)
 
 If Buddhism appeals to you, I think it's important to deeply inquire into why. And that's not coming from a place of judgement, but a place of practicality. If you do not deeply desire the reason you're actually practicing, you not only won't likely get anywhere, but you may end up in a mental state far worse than you began with.
 
