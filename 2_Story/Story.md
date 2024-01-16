@@ -7,15 +7,15 @@ When I was younger, I always liked mazes. I particularly liked the challenge of 
 
 Looking back, thinking has always been my happy place. School quickly installed me with the "intelligence = self-worth" wiring, and at the same time, I realized that sharing feelings was dangerous: Uncurated thoughts could make people react poorly, and being the one responsible for making someone else feel bad was inconceivable. Clearly it was much better to just think of the optimal response and say that.
 
-So it didn't really matter that I never got close with anyone new in middle school, and that I never went out of my way to spend time with new people in high school... or in college. I still saw my old friends, and anyway, getting a good job was priority #1. In the meantime, digging into a creative problem was like cocaine for my little nerd brain. Every solution was a fresh hit: "YES. I'm smart. This is what it's all about."
+So it didn't really matter that I never got close with anyone new in middle school, and that I never went out of my way to spend time with new people in high school... or in college. I still saw my old friends, and anyway, getting a good job was priority #1. In the meantime, digging into a creative problem was like cocaine for my brain. Every solution a fresh hit: "YES. I'm smart. This is what it's all about."
 
 But sometime around 2016, during college (coincidentally around the time I was forced to start making my own life decisions), my mind raised a problem of a new kind:
 
 "What is the meaning of life?"
 
-The question itself is almost laughable. But why? Its ubiquity? The unspoken agreement that it's unsolvable? The implicit assumption that meaning isn't real? The otherwise intolerable tension of existential dread? Or maybe... because of all of those reasons and more, even asking the question is admitting that you're unwell.
+The question itself is kind of laughable. But why? Its ubiquity? The unspoken agreement that it's unsolvable? The implicit assumption that meaning isn't real? The otherwise intolerable tension of existential dread? Or maybe... because of all of those reasons and more, to even ask the question is to admit that you're unwell.
 
-At the time, I didn't give a second thought as to why I had the question, or if it even had a definitive answer. To me, if it had a question mark, it was solvable. And I was a guy who could solve things. I had never been concerned about meaning or existence before, but now I suddenly was. However, my brain rationalized it nicely:
+At the time, I didn't give a second thought as to why I had that question, or if it even had a definitive answer. To me, if it had a question mark, it was solvable. And I was a guy who could solve things. I had never been concerned about meaning or existence before, but now I suddenly was. However, my brain rationalized it nicely:
 
 "If I have to start deciding how I want to live my life, I obviously have to make the right decisions. And if I don't know what's actually meaningful, how can I know which decisions are the right ones?"
 
@@ -27,7 +27,9 @@ Thinking wins again.
 
 2020 arrived. I had landed a good software engineering job, and things were going pretty alright. I wasn't seeing my friends as often as I had in college, but at least I was seeing coworkers at the office and regulars at the gym. Then Covid hit.
 
-Suddenly, I was utterly isolated: Working from home, exercising alone at my apartment's gym, and filling in any free time with video games. Sensing the interpersonal void growing inside, I resorted to the dating apps. As usual, and without awareness of what I was doing, I applied my normal strategy: Be myself, but only on the condition that speaking honest feelings is not allowed. After about 6 months of continuous isolation and self-sabotage, I happened to flex my psoas (AKA the "fear" muscle) in a way it really didn't enjoy. Suddenly I couldn't feeling anything from sex.
+Suddenly, I was utterly isolated: Working from home, exercising alone at my apartment's gym, and filling in any free time with video games. Sensing the interpersonal void growing inside, I resorted to "the apps" (dating). As usual, and without any awareness of what I was doing, I applied my normal strategy: Be myself, but only on the condition that speaking honest feelings was not allowed.
+
+On one fateful afternoon, after about 6 months of continuous isolation and self-sabotage, I happened to flex my psoas (AKA the "fear" muscle) in a way it really, _really_ didn't enjoy. Suddenly I had chronic back pain and couldn't feeling anything from sex.
 
 As any 20-something male would do, I tried to fix the problem by any means necessary:
 
@@ -43,19 +45,19 @@ Losing hope,
 
 Losing reasons to live.
 
-Neither my abilities nor the abilities of the specialists I went to were up to the task. And so, the great question of the the condition of my existence again reared its head: this time with extra nihilism.
+Neither myself nor the specialists I went to were up to the task. And so, the great question of the the condition of my existence again reared its head: this time with extra nihilism.
 
 Finding some transient meaning wasn't enough now. What was _actually_ real? What could I rely upon when both my physical and cognitive abilities were failing in the present, and the future of my current trajectory was no better?
 
-Coincidentally, a friend had recently introduced me to Waking Up: A meditation app that advertised a deeper examination of life. And so, once again I found my refuge in thinking: this time by investigating the nature of my own experience.
+Coincidentally, a friend had recently introduced me to Waking Up, a sort of new-agey meditation app focused on self-investigation. And so, once again I found my refuge in thinking: this time by investigating the nature of my own experience.
 
-After all, I was a guy who could solve things. Why not reality itself?
+After all, I was a guy who could solve things. Why not life itself?
 
 ## Solutionville?
 
-The Waking Up app was cool; for the first time ever I got to hear people who seemed similarly interested in peeking below the surface of life. It was a whole new world for me, but even then, most of the app fell short of exactly what I was looking for. Practices and pointers were great, but I wanted _answers_, damnit.
+The Waking Up app was cool; for the first time ever I got to hear people who seemed similarly interested in really deeply questioning their own lives. It was a whole new world for me, but even then, most of the app fell short of exactly what I was looking for. Practices and pointers were great, but I wanted _answers_, damnit.
 
-After listening to the series on Stoicism, I had just about had it. I wrote down my review at the time: "Very solid coping mechanisms for nerds". I was so glad that the stoics had a way to cope with reality, but what actually _was_ reality?
+After listening to the series on Stoicism, I remember telling my sister my review: "Very solid coping mechanisms for nerds". I was so glad that the stoics had a way to cope with reality, but what actually _was_ reality?
 
 Finally, I stumbled upon a section of the app called "The Path of Insight"; a series of Buddha Dharma talks by Joseph Goldstein. At first, it sounded like a bunch of religious dogma: "Be kind to thy neighbor" and whatnot. But as I continued hitting play, I started realizing something: "Wait, this is actually a science? Of subjective experience? And not only is it a science, but it's a _solved_ science? The Buddha just _has_ the answers, and it turns out those answers solve suffering for good?!?" I was still skeptical, but Buddhism seemed to be on an entirely different level of insight, practicality, and scientific rigor from anything else on the app.
 
@@ -63,11 +65,13 @@ Finally, I stumbled upon a section of the app called "The Path of Insight"; a se
 
 Buddhism is complex, heavy, and in a lot of ways, opposite of most people's conceptions of existence. Just hearing about it can strike people in unexpected ways. So consider this a disclaimer: **Buddhism warning: Potentially distressing ontology ahead.**
 
-There's a phenomenon that sometimes occurs when somebody's closest loved ones pass away. For a few weeks or months, they suddenly get interested in Buddhism, and as the pain fades, so too does the interest. In the face of inconsolable grief, people are forced to face their suffering directly, and for a time, their perspective on life matches the Buddha's.
+___
 
-If you aren't familiar with Buddhism already, it's basically this: Life inherently has suffering in it, being free from suffering is _the_ most important possible thing (implicit), therefore we should transcend life. By investigating your own experience, you can see exactly how suffering originates and cut it off at its root.
+There's a phenomenon that's known to happen when somebody's closest loved ones pass away. For a few weeks or months, they suddenly get interested in Buddhism, and as the pain fades, so too does the interest. In the face of inconsolable grief, people are forced to face their suffering directly, and for a time, their perspective on life matches the Buddha's.
 
-For me, I was already quite interested in understanding reality (for reasons mentioned above). I was already on the path to finding Buddhism, so all I needed was a little boost of suffering to push me off the diving board and into the deep end.
+If you aren't familiar with Buddhism already, it's basically this: Life inherently has suffering in it, being free from suffering is _the_ most important possible thing (implicit), and therefore we should transcend life. By investigating your own experience, you can see exactly how suffering originates and cut it off at its root.
+
+At this point, I was already quite interested in understanding reality (for reasons mentioned above). Since I was already on the path to finding Buddhism, all I needed was a little boost of suffering to push me off the diving board and into the deep end.
 
 ## 123 Problem Street, Problem Town, USA
 
@@ -77,9 +81,9 @@ Turns out, if you practice viewing all phenomena as suffering while your brain i
 
 Specifically, what happened for me was a sudden jolt of realization that everything was a trick. All good things, all bad things, every thing that _has_ happened or _will_ happen was just fake, and caring about any of it could only lead to suffering. You know how your brain will drift off into daydreams as soon as you're not focusing on something? Well every time that happened, instead of random thoughts about myself or others or the future or the past, it was just "this is all suffering". The only thing that helped was to clear my mind by meditating, but usually the thought of being alone with my own mind was too overwhelmingly terrifying to allow myself to do even that. For a few weeks after my initial jolt, I could not go to sleep without a light on and some audio playing to try to distract my mind from "The Truth".
 
-Another debilitating part of this mental shift was that it felt dangerous to even talk to other people about it. My paranoid logic told me that if I had gotten myself into this state, it was possible to get other people into this state by just telling them about it, and I had to avoid that at all costs. And I had no way to talk _myself_ out of it because Buddhism is unfalsifiable. So any thoughts along the lines of "just believe something different" didn't penetrate my self-imposed sphere of suffering.
+Another debilitating part of this mental shift was that it felt dangerous to even talk to other people about it. My paranoid logic told me that if I had gotten myself into this state, it was possible to get other people into this state by just telling them about it, and I had to avoid that at all costs. And just to pour some more salt in the wound: I had no way to talk _myself_ out of it because Buddhism is unfalsifiable. So any thoughts along the lines of "just believe something different" didn't penetrate my self-imposed sphere of suffering.
 
-There were only two things that really pulled me out of it: Time, and Rob Burbea.
+There were only two things that really pulled me out of my state: Time, and Rob Burbea.
 
 ## Rob Burbea
 
@@ -99,21 +103,25 @@ But to get a feel for the type of person Rob was, these two quotes (pulled from 
 
 Rob brought a sense of magic that, combined with his intellectual rigor and deep dedication to action, introduced many people (myself included) to entirely new ways of seeing and living life.
 
-At the time of my crisis, listening to Rob's talks was like clinging to a lifeline as I drowned at sea: He had seen Buddhism, walked the path himself, and gone beyond it. And things were okay.
+At the time of my crisis, listening to Rob's talks was like clinging to a lifeline as I drowned at sea: He had seen Buddhism, walked the path himself, and gone beyond it. Maybe "The Truth" wasn't as real or horrible as I had thought. Maybe even, "The Truth" was just a lego I had stepped on in the living room of life.
 
-## Present Day, Present Time
-
-My return to baseline okayness took about 3 months. As my self-induced paranoia faded, it was replaced by a hardening resolve to finally face my external fears and fight them head-on.
-
-"Never again", I said to the paranoia. To Buddhism: "... I'll be back."
-
-And my life hasn't stopped improving since.
+But most importantly, things started to feel okay again.
 
 ___
 
-It's hard to pick one individual thing that has made the biggest impact on my sense of well-being. But if I had to choose, I'd say that opening to the possibility that things could be better has been key.
+My return to baseline okayness took about 3 months. As my self-induced paranoia faded, I decided it was time to finally face my external fears. And not because I had become better or more powerful or anything; I just _really_ didn't want to be that miserable again, and I knew I'd feel better if I did the hard stuff I'd been avoiding.
 
-**Our experience of reality is identical to what we believe reality is**. And conversely, our beliefs circumscribe what is possible in our lives. If I had to pick _the_ most important fact, the one that has had the biggest impact over the course of my entire life, it would be that.
+I knew I wasn't done with Buddhism. It had won this battle, but I knew I'd be back. Reality wasn't going to solve itself, after all.
+
+## Present Day, Present Time
+
+It's been about a year since _the incident_, and my life is better in a lot of ways. And frankly, it's mostly just because I'm doing things that force me to talk to people more often.
+
+But as for how I managed to make that happen... It was really just opening to the possibility that things could be better. I think listening to enough Rob Burbea will do that to you.
+
+In my next posts I'll be going over all sorts of conceptual stuff and lots of fun conjecture will be had, but at the present, If I had to pick the _one_ thing that's made the biggest practical difference in my life, and the _one_ thing I'd like anyone reading my story to take away from it, it's this:
+
+**Our experience of reality is identical to what we believe reality is**. And conversely, our beliefs circumscribe what is possible in our lives.
 
 For example, take my whole saga above. When I legitimately believed that life was suffering, my experience of life reflected that.
 
@@ -123,6 +131,6 @@ On the contrary, if you believe that your existence is meaningful, your deepest 
 
 Life _is_ not this way or that way. There is no "objective" subjective experience. When you're experiencing life, you are always looking at it in a certain way, and that way of looking changes the actual experience of life itself.
 
-So what do you actually believe? And is it possible to _change_ those beliefs?
+Even just knowing that fact has been powerful for me, but... I'm insatiable. If I can understand the meta-level of _why_ my experience is malleable, and how it can be shaped, I can essentially become a god of my own subjective experience.
 
-Only one way to find out.
+... That came out sounding a little bit foreboding. Which sets the tone perfectly for my next post: Buddhism in a nutshell.

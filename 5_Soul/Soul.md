@@ -34,6 +34,17 @@ References:
 [1]: _Thus Spoke Zarathustra_, X. War and Warriors.
 [2]: _Thus Spoke Zarathustra_, LXXIII. The Higher Man; 15.
 
+## Commmon Threads
+
+Goals:
+- Moving away from concepts
+- Moving closer to experience: Physical body & emotions
+
+
+How to get there:
+- Direct path
+
+
 ## The Middle Way of Desire
 
 With desire inherently comes clinging. If you have a preference of something, _anything_, you will suffer. Consider these two cases: If you don't have your preference, you will suffer until you get it, and if you _do_ have it, you will suffer in fear of losing it (since all things are impermanent).
