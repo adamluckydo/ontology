@@ -24,7 +24,7 @@ Date: 5th century BC (~2500 years ago)
 
 Location: The Indo-Gangetic Plain (North India)
 
-Dominant religion: Vedic Brahmanism (precursor to Hinduism)
+Dominant religion: Vedic Brahmanism (precursor to Hinduism). Belief in an individual immortal soul, which is reincarnated continuously until a being releases all of their karma, thus attaining liberation from the cycle and eternal unity with the divine.
 
 ![Statue of the Buddha](buddha.png)
 
@@ -90,13 +90,13 @@ Buddhism is a pretty intellectual endeavor; it really can't be avoided. I've tri
 
 ### The Middle Way
 
-In Buddhism, the nature of reality is explained by The Middle Way. The Middle Way is both a way of living (avoiding extremes of self-gratification and self-mortification) and a way of looking (seeing neither existence nor nonexistence as real).
-
-How does The Middle Way result in the end of clinging? Imagine this: You're walking, and suddenly you see a snake two feet in front of you. You startle because you think it's real, but it turns out it was actually just the end of a hose. Whew, what a relief. The Middle Way is basically that, but for _everything_. And with the right practice, seeing this not-quite-reality of things isn't just faith-based, it's experiential. So basically, through Buddhism, you gain the power to turn snakes into hoses. Exciting.
-
 ![XKCD: "Personally, I find atheists just as annoying as fundamentalist Christians." "Well, the important thing is that you've found a way to feel superior to both."](atheists.png)
 
 "Existence isn't real, but it isn't _not_ real either. 😏"
+
+In Buddhism, the nature of reality is explained by The Middle Way. The Middle Way is both a way of living (avoiding extremes of self-gratification and self-mortification) and a way of looking (seeing neither existence nor nonexistence as real).
+
+How does The Middle Way result in the end of clinging? Imagine this: You're walking, and suddenly you see a snake two feet in front of you. You startle because you think it's real, but it turns out it was actually just the end of a hose. Whew, what a relief. The Middle Way is basically that, but for _everything_. And with the right practice, seeing this not-quite-reality of things isn't just faith-based, it's experiential. So basically, through Buddhism, you gain the power to turn snakes into hoses. Exciting.
 
 #### What is this Middle Way even based on?
 
@@ -128,6 +128,8 @@ So it turns out that our natural inclination to label things is a lot less about
 
 ### Because This Is, That Is
 
+![A snake eating itself](ouroboros.jpg)
+
 The teaching of Dependent Origination states that all phenomena are interconnected, only arising dependent on an inconceivably complex web of prior causes and conditions. Therefore, all "things" are both empty (non-inherent) and dependently originating (caused by something else). Additionally, the concept of Interdependent Co-Arising states that not only are all things dependent upon other things, but cause and effect necessarily arise together. The teaching of this concept generally goes as follows:
 
 "With this as condition,
@@ -137,31 +139,29 @@ That does NOT arise." (SN 12.61 5.1)
 
 At first, these ideas may seem obvious, or at the very least unimportant. Of course things cause other things. But let's put some pieces together:
 
-![A snake eating itself](ouroboros.jpg)
-
 1. Nothing in our experience is fundamental. Put another way, there is no root cause that isn't also an effect of some other cause. It's all interconnected and cyclic. Imagine experience as an Ouroboros (a snake eating its own tail). Experience is digesting itself because there's nothing but itself to subsist on. This act feels both good (tasty tail) and bad (ouch my tail).
 
 2. Earlier, I mentioned that suffering is just clinging in response to phenomena, but actually that's only the second arrow. On a deeper level, the Buddha believed that _all_ phenomena lead to suffering. The Ouroboros analogy explains it well: Good things aren't good in a vacuum; eventually the digester will become the digested. Thus, the only way to truly be free of suffering is to prevent phenomena from arising at all.
 
 3. Every phenomenon has a specific set of causes that are conditions for it to arise. If we can remove even one of the causes, the effect will no longer arise. In our Ouroboros analogy, if we can take the tail out of the snake's mouth, it'll stop eating itself. And this is where everything comes together nicely: It turns out that clinging is _also_ the weakest link in the dependently originating cycle of arisings and passings away. Meaning: If you are able to relax your clinging to phenomena enough, they no longer arise at all.
 
-### Enlightenment
+### Cessation
 
 ![Mind OS](mind_os.png)
 
-At this point, we have enough context to roughly describe "enlightenment". I put it in quotes because the term is overloaded with a billion definitions and connotations, but since it's such common vernacular I'm using it anyway.
+At this point, we have enough context to describe how a person would experientially reach an understanding of the Buddha's teachings. And that experience is, paradoxically, the cessation of experience.
 
-I think it's useful to describe enlightenment as an operating system update for the mind. The mind, while awareness is still running, "resets". By witnessing how it builds experience from the ground up, the mind finally understands itself, and is thus able to operate more efficiently in the future.
+I think it's useful to describe cessation as an operating system update for the mind. The mind, while awareness is still running, "resets". By witnessing how it builds experience from the ground up, the mind finally understands itself, and is thus able to operate more efficiently in the future.
 
 So step by step:
 
 1. You cease all clinging (if only for a moment). This breaks the cycle of Dependent Origination, causing the mind to "reset".
 
-2. By witnessing Dependent Origination "shut down" and "power on" again directly, your mind sees how phenomena are created, thereby understanding their Emptiness.
+2. By maintaining awareness while Dependent Origination "shuts down" and "powers on" again, you witness the fabrication of phenomena in real time, thereby understanding their Emptiness.
 
 3. By understanding the Emptiness of all phenomena, you know that they are neither real nor not real, resulting in an ontology of The Middle Way.
 
-4. Once your mind's Dependent Origination system resumes normal function, you'll still experience the first arrows of phenomena arising, but not the second arrows of reactivity. Hooray!
+4. Snakes are now hoses (see the last paragraph of [The Middle Way](#the-middle-way) for context). Hooray!
 
 Sounds easy enough. Why don't you try it now? Go ahead, just cease all clinging.
 
@@ -193,7 +193,7 @@ In day-to-day life, the Buddha recommended practicing generosity at every opport
 
 It _is_ a bit funny (but not contradictory) how the Buddha preached generosity while living on alms.
 
-And in meditation, the Buddha discovered eight states of collectedness and bliss he called the "Jhanas". There are four "form" Jhanas, in which you can still sense your body, but in which the entire felt sense of the body becomes unified. In that unified sensation, each Jhana has a prominent factor:
+And in meditation, the Buddha discovered eight states of meditative collectedness and bliss he called the "Jhanas". There are four "form" Jhanas, in which you can still sense your body, but in which the entire felt sense of the body becomes unified. In that unified sensation, each Jhana has a prominent factor:
 
 - 1st Jhana: Pleasure
 - 2nd Jhana: Happiness
@@ -261,7 +261,7 @@ Damn. What is this awakening then, and how is it _that_ good?
 
 It's nigh impossible to convey the phenomenology of "awakening" accurately with words. Yet it is a very real and distinct phenomenon, so I'll try to contour some lines around it here, and point to some external resources that describe it in even more detail.
 
-Technically, in Buddha Dharma, there are four stages of awakening, defined by ten fetters that must each be broken to reach full liberation. The initial awakening, known as "stream entry", is what most people are referring to when you hear the word "enlightenment".
+Technically, in Buddha Dharma, there are four stages of awakening, defined by ten fetters that must each be broken to reach full liberation. The initial stage, known as "stream entry", is what most people are referring to when you hear the word "enlightenment" (which is different than "full enlightenment", which is one of many reasons why "enlightenment" is a dumb term).
 
 ### Stream Entry
 
@@ -271,11 +271,13 @@ Technically, in Buddha Dharma, there are four stages of awakening, defined by te
 
 Awakening, stream entry, nonduality, pure being. There are many ways people describe it, but it comes down to one key point:
 
-You pay close enough attention to experience in a specific way, and suddenly you see that there is no "self", and there never was one.
+After lots of practice paying close attention to experience in specific ways, suddenly you see, beyond a shadow of a doubt, that there is no "self", and there never was one.
 
 And it's not that the self is "lost", or "eradicated". Your personality and intelligence and everything about you is still fully intact; it's just that you realize you were adding extra tension onto experience in the shape of a self-conception that didn't actually inherently exist. It was empty, and dependently originated within your own mind, just like everything else.
 
-After seeing that the self is no more than a fictional narrative, "you" no longer experience craving or aversion, since there's no "you" to be helped or harmed by any outcome. Suffering: Ended.
+After releasing the vicegrip of a self that controls and receives experience, reality becomes an unlimited expanse of awareness without a subjective reference point, which is actually exactly how it's always been.
+
+And in knowing that the self is no more than a fictional narrative, "you" no longer experience craving or aversion, since there's no "you" to be helped or harmed by any outcome. Suffering: Ended.
 
 But wait, wouldn't that just turn you into an apathetic lump?
 
@@ -305,7 +307,7 @@ If you're curious to learn more about what awakening entails, here are some exte
 
 - [A Dharma talk by Rob Burbea](https://hermesamara.org/resources/talk/2008-03-08-awakening) from 2008 on awakening and its place in our modern lives.
 
-After stream entry, assuming a practitioner continues practicing, the stages of awakening continue, freeing the being from more and more of the fetters that bind them to the cycle of existence and nonexistence. Eventually, what is reached is known as full enlightenment, "neither being nor nonbeing", also referred to as...
+After stream entry, assuming a practitioner continues practicing, the stages of awakening continue, freeing the being from more and more of the fetters that bind them to the cycle of existence and nonexistence. Eventually, what is reached is known as "full enlightenment", "neither being nor nonbeing", also referred to as...
 
 ### The Unborn, The Deathless, Nirvana
 
@@ -319,8 +321,7 @@ It is not formed by causal conditions, and therefore never changes, nor ceases t
 
 From the Buddha:
 
-“Deep is this Dharma, hard to see, hard to realize, peaceful and refined, beyond the scope of conjecture, subtle, to be experienced by the wise. For those with other views, other practices, other satisfactions, other aims, other teachers, it
-is difficult to know.” (MN 72 18.1)
+“Deep is this Dharma, hard to see, hard to realize, peaceful and refined, beyond the scope of conjecture, subtle, to be experienced by the wise. For those with other views, other practices, other satisfactions, other aims, other teachers, it is difficult to know.” (MN 72 18.1)
 
 "There is that dimension, monks, where there is neither earth, nor water, nor fire, nor wind; neither dimension of the infinitude of space, nor dimension of the infinitude of consciousness, nor dimension of nothingness, nor dimension of neither perception nor non-perception; neither this world, nor the next world, nor sun, nor moon. And there, I say, there is neither coming, nor going, nor staying; neither passing away nor arising. It is without foundation. It continues not. This, just this, is the end of suffering." (UD 8.1)
 

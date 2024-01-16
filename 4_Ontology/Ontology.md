@@ -1,5 +1,31 @@
 # Battle of the Ontologies
 
+A lot of people _hate_ Buddhism. I know I have at some points. In essence, it's "abandon everything because it's all suffering".
+
+In a world where beliefs are so powerful... Why would anyone pick Buddhism? If you don't believe in scientific materialism, why not find a belief system that _supports_ human desire, or at least supports _anything_? And frankly, how does one even _find_ Buddhism? If you don't like Christianity, why not pick any other random eastern religion? And finally: What are the practical implications of practicing Buddhism? Is it just fancy dissociation? Are its goals realistically attainable?
+
+All of these (and more) will be answered in this post.
+
+## To do your duty as a human
+
+Here's an excerpt from [one of Rob Burbea's talks](https://hermesamara.org/resources/talk/2011-12-31-this-matter-of-emptiness):
+
+___
+
+So the most fundamental fact about anything at all, and the most fundamentally important fact about anything at all, any experience at all, is that it is dependent on how I'm looking, how I'm aware of it. And as I said, that means it's empty. And that's the most fundamental and fundamentally important fact about anything. So we talk, I and all the teachers, we talk about 'what is,' and 'being with what is,' and 'opening to what is,' and all that. But is what is, what is? What? [laughter] There is no objective reality that we arrive at. And if you know anything about, for instance, quantum physics, and the discoveries of the last century and ongoing, very similar discoveries. The way we look conjures what we see, at the most basic level of reality.
+
+Imagine going into a room. There's a person in the room, and they've got their back on the wall in a lot of fear. You just enter this room, and this person is stuck there with fear. And you think, "What on earth's going on?" And they say, "There's a wolf in the room." And you look -- I don't think this is going to work! You look at the wall, and you see -- can we have a little technical special effects? [laughter] No? Okay, leave it.
+
+Yogi: Turn the lights down!
+
+Rob: Just try the bottom ones at first, Annie, if you would, please. The bottom ones, yeah, thanks. Okay, let's try this. Aahhhh, it's a wolf! [laughter] Okay, and this person is terrified of the wolf. Can everyone see this scary wolf? [laughter] And you say, "Well, what's going on?" They say, "There's a wolf, but I'm being with the wolf. I'm being with the wolf, and I'm being with my fear, and I'm practising mindfulness, and I'm being with it." And you say, "... Okay." [laughter] And they're not seeing their other hand [creating the shadow of the wolf]. They're not seeing their other hand. They're stuck looking at the wolf. It's a silhouette, the hand shadow. If you're listening to this on tape, I was playing with a light and a hand shadow, and a terrifyingly realistic impression of a wolf. [laughter] They don't see their other hand. They don't see the fabrication that's going on, because I'm stuck looking at the wolf.
+
+Maybe 'being with' this wolf and being with my process with the wolf, maybe equanimity comes, and maybe patience comes. But ultimately the suffering won't be undermined. It won't be cut at the deepest level. Maybe I'm with the wolf and the wolf disappears. And maybe -- could we have the lights again? [laughter] Sorry, Annie. It's a busy night for you! Okay, the wolf disappears, and then a bunny rabbit comes! [laughter] Nice bunny rabbit. There we go. [laughter, applause] Thank you. And then bunny rabbit, aahhhh, huge relief. It's a bunny rabbit. How lovely! And basically what happens is phew, relief.
+
+But something has not been learnt. I haven't learnt anything. Just the next experience comes, without asking: how is it that the wolf appeared? How is it that the wolf disappeared? How is it that the bunny rabbit appeared and the bunny rabbit disappeared? And me, or you, as a person walking into that room, what's the most compassionate response? What's the most compassionate thing to say to this person? "Keep being with it"? Or "It's impermanent"? Or kind of, you know, "Maybe it's something releasing"?
+
+And this is where we go back to this thing about appropriateness. Don't forget what I said about that. But ultimately speaking, what's the most compassionate thing? We can learn to see the concocting, and that is the main purpose of meditation practice. The main, if we talk about the deeper thrust, it's to learn to see this concocting. If we do that, I don't know if some of you maybe had the thought, "Oh, that means it's my fault, because I'm projecting this and I'm doing that." And then there can come some judgment: "Oh, you're saying suffering is my fault." No, because not only is the self not real enough to be found fault with, but also this process of concoction is just what consciousness does. It's what consciousness does. It's the way it works. Please remember as I say all this, there's something about timing. When is the right time to tell this person? When is the appropriate time to share with this person and point out to them, "Can you see your other hand? Can you see the process that's going on?"
+
 ## What exactly _is_ the Buddhist Path?
 
 Here's an excerpt from one of the talks Rob Burbea gave at a [2008 retreat](https://hermesamara.org/resources/talk/2008-12-28-the-meaning-of-refuge):
@@ -14,6 +40,8 @@ Specifically, the way it registered for me was like a sudden jolt of realization
 
 There were only two things that really pulled me out of it: Time, and Rob Burbea.
 
+## Is the end of suffering the most important thing?
+
 ## Is the Buddha actually Anti-Life?
 
 A lot of popular Buddhist teachings gently skip over the fact that the Buddha _despised_ phenomena. He frequently described the Five Aggregates as “inconstant, dukkha, a disease, a boil, an arrow, misery, an affliction, alien, a disintegration, empty, not-self” (e.g. 9:36 of the Numbered Discourses). The Buddha was not "against life" per se, but he was against suffering. Since life was composed of phenomena that are not free of suffering, that was that.
@@ -22,7 +50,7 @@ A lot of popular Buddhist teachings gently skip over the fact that the Buddha _d
 
 ## Who is Rob Burbea?
 
-"What am I becoming as the days and nights fly past?"[1]
+
 
 ## If everything is empty, how _isn't_ that Nihilism?
 
@@ -51,6 +79,16 @@ Einstein: “while general relativity might one day be superseded, the statistic
 ### FPS, no grabby-grab
 
 Due to the way suffering works, much of our daily suffering can be directly reduced through meditation. Meditative practice
+
+### Benefits of Buddhism
+
+- Never lonely
+- Always feel okay
+- Better at modeling other people
+- Easy to just do stuff
+- Way less fear of death
+- Can update your beliefs instantly if you want to
+- Never bored
 
 ### The Most Practical Route to Emptiness?
 
@@ -124,8 +162,30 @@ If you don't fall into any of these camps, then what?
 
 ## What are the ingredients of success?
 
+## Is "Nirvana" actually an "end goal"?
+
+The second-most famous Buddhist teacher, Nagarjuna, became famous due to his expansions on the teachings of emptiness. A couple of quotes:
+
+"There exists no distinction at all between samsara and nirvana." (MMK 25:19)
+
+"Those who do not see reality conceive samsara and nirvana; those who see reality conceive neither samsara and nirvana." (Yuktisastika)
+
+The Buddha tended to speak of nirvana as an "ultimate goal"; an end to the cycle of rebirth. But... to speak of nirvana as a real goal, one that can be attained, is to reify it. Nagarjuna states that, if emptiness is _actually_ observed, even nirvana (permanent cessation) will be seen as just as empty as the world of appearances (samsara). So where does that leave us?
+
+"Because everything is unconditioned, unproduced, and non-existent... all [phenomena] are the same as enlightenment." (Saptaśatikā Prajñāpāramitā Sūtra)
+
+If everything is empty, then _any_ view is empty, even the view of emptiness.
+
+So if it's all empty, what's the point of even doing _any_ of this investigation and practice in the first place?
+
+I think Rob Burbea puts it well in the last words of his book, _Seeing that Frees_:
+
+"When there is insight, we know that how and what we see are not simply givens, but are the colourable and malleable, magical, material of empty appearances.
+
+There is space here, and space for reference and devotion. When we see the void -- the open and groundless nature of all things, the inseparability of appearances and emptiness -- we recognize anyway just how profound is our participation in this magic of appearances. Then whether fabrication, which is empty, is consciously intended in a certain direction or not, the heart bows to the fathomless wonder and beauty of it all. It can be touched by an inexhaustible amazement, touched again and again by blessedness and relief. In knowing fully the thorough voidness of this and that, of then and now, of there and here, this heart opens, over and over in joy, in awe and release. Free itself, it knows the essential freedom in everything."
+
 ## What other assumptions are buried under this mess?
 
 The absolute best response that I've heard to this whole deal comes from a talk by Rob Burbea from 2014: [Questioning Awakening](https://hermesamara.org/resources/talk/2014-11-12-questioning-awakening). If you have gripes with the way I've addressed (or not addressed) anything here, I can almost guarantee that that this talk will cover them.
 
-[1] AN 10:48
+"What am I becoming as the days and nights fly past?" (AN 10:48)

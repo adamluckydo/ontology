@@ -71,13 +71,13 @@ For me, I was already quite interested in understanding reality (for reasons men
 
 ## 123 Problem Street, Problem Town, USA
 
-One of the characteristics of existence (according to the Buddha) is "dukkha", which more or less means "suffering". In any moment of perception, the Buddha says that there is some amount of suffering, and the way to get clear on that is to meditate on it.
+According to the Buddha, one of the characteristics of existence is "dukkha", which more or less means "suffering". In any moment of perception, the Buddha says that there is some amount of suffering, and the way to get clear on that is to meditate on it.
 
-Turns out, if you practice viewing all phenomena as suffering while under paranoia-inducing substances, it's possible to convince your brain that it is "The Truth" (superseding all other truths). And from firsthand experience, I can tell you that the effects of that (with 0 other preparation) are not good. The last few months of 2022 were by far the most miserable I've had in my entire life.
+Turns out, if you practice viewing all phenomena as suffering while your brain is in a... suggestible state, it's possible to convince your brain that that is "The Truth" (superseding all other truths). And from firsthand experience, I can tell you that the effects of that are not good. The last few months of 2022 were by far the most miserable I've had in my entire life.
 
 Specifically, what happened for me was a sudden jolt of realization that everything was a trick. All good things, all bad things, every thing that _has_ happened or _will_ happen was just fake, and caring about any of it could only lead to suffering. You know how your brain will drift off into daydreams as soon as you're not focusing on something? Well every time that happened, instead of random thoughts about myself or others or the future or the past, it was just "this is all suffering". The only thing that helped was to clear my mind by meditating, but usually the thought of being alone with my own mind was too overwhelmingly terrifying to allow myself to do even that. For a few weeks after my initial jolt, I could not go to sleep without a light on and some audio playing to try to distract my mind from "The Truth".
 
-One of the worst parts of this mental shift was that it felt dangerous to even talk to other people about it. My paranoid logic told me that if I had gotten myself into this state, it was possible to get other people into this state, and I had to avoid that at all costs. The second worst part was that Buddhism is unfalsifiable. So any thoughts along the lines of "just believe something different" didn't penetrate my self-imposed sphere of suffering.
+Another debilitating part of this mental shift was that it felt dangerous to even talk to other people about it. My paranoid logic told me that if I had gotten myself into this state, it was possible to get other people into this state by just telling them about it, and I had to avoid that at all costs. And I had no way to talk _myself_ out of it because Buddhism is unfalsifiable. So any thoughts along the lines of "just believe something different" didn't penetrate my self-imposed sphere of suffering.
 
 There were only two things that really pulled me out of it: Time, and Rob Burbea.
 
@@ -85,9 +85,9 @@ There were only two things that really pulled me out of it: Time, and Rob Burbea
 
 I don't think I can possibly introduce Rob Burbea in a way that does him justice. He's just the man.
 
-But for starters: Rob was the resident teacher at Gaia House in England, teaching Buddhist insight meditation (and much, much more) from 2005 to 2015. In 2020, he passed away due to pancreatic cancer, but during the last 5 years of his life he worked tirelessly from home to continue his work.
+But for starters: Rob was the resident teacher at Gaia House in England, teaching Buddhist insight meditation (and much, much more) from 2005 to 2015, at which point he was diagnosed with pancreatic cancer. Rob continued to work with devotion until his passing in 2020.
 
-For the purposes of this post, I won't talk about Rob for too long, so if you want a fully-fledged introduction of Rob, his teachings, and the positive impact he's had on many people's lives, I highly recommend [This wonderful article from Tasshin](https://tasshin.com/blog/rob-burbea-ordinary-guy-werewolf-eternal-wanderer/).
+For the purposes of this post, I won't talk about Rob for too long, so if you want a fully-fledged introduction of Rob, his teachings, and the positive impact he's had on many people's lives, I highly recommend [this wonderful article from Tasshin](https://tasshin.com/blog/rob-burbea-ordinary-guy-werewolf-eternal-wanderer/).
 
 But to get a feel for the type of person Rob was, these two quotes (pulled from Tasshin's article) do a good job of it:
 
@@ -97,7 +97,7 @@ But to get a feel for the type of person Rob was, these two quotes (pulled from 
 >
 > Some of those I am or have been in my life conventionally. Some conventionally. All of them mythically. None of them really."
 
-Rob brought a sense of magic that, combined with his intellectual rigor and deep dedication to action, introduced many people (myself included) to an entirely different way of seeing and living life.
+Rob brought a sense of magic that, combined with his intellectual rigor and deep dedication to action, introduced many people (myself included) to entirely new ways of seeing and living life.
 
 At the time of my crisis, listening to Rob's talks was like clinging to a lifeline as I drowned at sea: He had seen Buddhism, walked the path himself, and gone beyond it. And things were okay.
 
@@ -105,19 +105,23 @@ At the time of my crisis, listening to Rob's talks was like clinging to a lifeli
 
 My return to baseline okayness took about 3 months. As my self-induced paranoia faded, it was replaced by a hardening resolve to finally face my external fears and fight them head-on.
 
-"Never again", I said, and my life hasn't stopped improving since.
+"Never again", I said to the paranoia. To Buddhism: "... I'll be back."
 
-It's hard to point at one individual thing that has made the biggest impact on my sense of well-being. But if I had to choose, I'd say that being opened to the possibility that things could be better was key.
+And my life hasn't stopped improving since.
 
-**Our experience of reality is identical to what we believe it is**. And conversely, our beliefs circumscribe what is possible in our lives. If I had to pick _the_ most important fact, the one that has made the most impact over the course of my entire life, it would be that.
+___
 
-For example, take my whole saga above. When I legitimately believed that life was suffering, my experience of life inevitably reflected that.
+It's hard to pick one individual thing that has made the biggest impact on my sense of well-being. But if I had to choose, I'd say that opening to the possibility that things could be better has been key.
 
-Or, if you believe that life is inherently meaningless, your experience of life will inevitably reflect _that_, no matter how hard you try to find meaning.
+**Our experience of reality is identical to what we believe reality is**. And conversely, our beliefs circumscribe what is possible in our lives. If I had to pick _the_ most important fact, the one that has had the biggest impact over the course of my entire life, it would be that.
 
-On the contrary, if you actually believe that you have the ability to achieve your deepest desires, and your life will be filled with joy... it may still not happen. Sorry to burst your bubble. But! _While_ you believe those things, your experience of life will reflect that.
+For example, take my whole saga above. When I legitimately believed that life was suffering, my experience of life reflected that.
 
-Life _is_ not this way or that way. There is no "objective" subjective experience. When you're experiencing life, you are always looking at it in a certain way, and that way of looking changes the actual perception of life itself.
+This goes for every belief. If you believe that life is inherently meaningless, your experience of life will inevitably reflect _that_, no matter how hard you try to find meaning.
+
+On the contrary, if you believe that your existence is meaningful, your deepest desires are achievable, and your life will be filled with joy... it still might not happen. Sorry to burst your bubble. But! _While_ you believe those things, your experience of life will reflect those beliefs. It's worth thinking about.
+
+Life _is_ not this way or that way. There is no "objective" subjective experience. When you're experiencing life, you are always looking at it in a certain way, and that way of looking changes the actual experience of life itself.
 
 So what do you actually believe? And is it possible to _change_ those beliefs?
 

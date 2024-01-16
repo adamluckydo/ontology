@@ -1,15 +1,20 @@
 # Sensing with Soul
 
-At this point, the previous sections have given a general overview of Buddhism and some practical arguments for and against it. I personally had issues following the path as I understood it, but it could easily be argued that I simply didn't "fully" understand it. But if that's a possible (and extremely common) pitfall, perhaps there's a better way to reach the goal? And what _is_ the goal, anyway?
+![_The Tiger_, by Nael, age 6](tiger.jpg)
 
 ## Brass Tacks
 
+There is suffering when there is clinging. Just by being alive, there is some amount of clinging. A person _can_ achieve nirvana and be free of suffering forever.
+
+But what if some suffering is worth it?
+
 Humans suffer when they lack two things: Safety and love. Suffering happens when they don't feel like they have those.
 
-The Buddha realized: There is no way to _ever_ be safe, if "safety" means "not dying". Likewise, the need to be loved is infinitely expanding. The only way to resolve these needs for good would be to to remove the need for them in the first place.
-By modifying perception such that there _is_ no self that needs safety or love, those reason to even have those desires is extinguished. Ergo, no suffering.
+There is no way to _ever_ be safe, if "safety" means "not dying". Likewise, the needs of love are infinitely expanding.
 
-But what if we aren't there, or even going in that direction?
+The only way to resolve these needs forever is to remove the need for them (via seeing the emptiness of the self), or even "better", by preventing those needs from ever arising in the first place (by achieving nirvana).
+
+But what do we do before we're there? Or maybe more importantly, what if we don't want to do that at all?
 
 Why not focus on fulfilling those needs directly?
 
@@ -51,7 +56,7 @@ However, if the meaning inherent in desire is important to you, there's an orien
 
 But what if things _aren't_ ok?
 
-### Get over yourself
+### Defeat yourself
 
 Literally. This is the "hard" step. There's no way to move from "not okay" to "okay" without a volitional action,and this is the most direct possible way to do it. There's only one step:
 
@@ -97,6 +102,8 @@ This can also be looked at as a selflessness instruction. If you get past the id
   - The fear of the thing is what's causing the problem, not the thing itself
   - Everything that comes up needs to be understood, accepted, and loved, because it's all part of you
 - Again: Reality is something that can be shaped
+
+I think teaching Buddhism exactly as the Buddha taught in the modern western world is a terrible idea.
 
 - I believe everything the Buddha realized and taught about experience was true, but I specifically want to divide the things he said into three categories:
 
