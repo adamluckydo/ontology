@@ -151,7 +151,7 @@ At first, these ideas may seem obvious, or at the very least unimportant. Of cou
 
 At this point, we have enough context to describe how a person would experientially reach an understanding of the Buddha's teachings. And that experience is, paradoxically, the cessation of experience.
 
-I think it's useful to describe cessation as an operating system update for the mind. The mind, while awareness is still running, "resets". By witnessing how it builds experience from the ground up, the mind finally understands itself, and is thus able to operate more efficiently in the future.
+I think it's useful to describe cessation as an operating system update for the mind. The mind, while awareness is still running, "reboots". By witnessing how it builds experience from the ground up, the mind understands itself better, and is thus able to operate more efficiently in the future.
 
 So step by step:
 
@@ -159,9 +159,9 @@ So step by step:
 
 2. By maintaining awareness while Dependent Origination "shuts down" and "powers on" again, you witness the fabrication of phenomena in real time, thereby understanding their Emptiness.
 
-3. By understanding the Emptiness of all phenomena, you know that they are neither real nor not real, resulting in an ontology of The Middle Way.
+3. By understanding the Emptiness of all phenomena, you know that they are neither real nor not real, resulting in an "OS Update" of a new ontology: The Middle Way.
 
-4. Snakes are now hoses (see the last paragraph of [The Middle Way](#the-middle-way) for context). Hooray!
+4. Snakes are now a bit more hose-like (see the last paragraph of [The Middle Way](#the-middle-way) for context). Hooray!
 
 Sounds easy enough. Why don't you try it now? Go ahead, just cease all clinging.
 
@@ -180,10 +180,10 @@ As usual, the studious Buddha came up with solutions for both of these issues.
 
 ### Becoming Wholesome
 
-The Buddha put an incredible amount of emphasis on the importance of cultivating wholesome qualities. The Noble Eightfold path (the last of the Four Noble Truths) is more or less just a guide for acting ethically and becoming more loving. He specifically focused on four types of love:
+The Buddha put a massive amount of emphasis on the importance of cultivating wholesome qualities. The Noble Eightfold path (the last of the Four Noble Truths) is basically just a guide for acting ethically and with love. He specifically focused on four types of love:
 
 - Kindness: Love for all beings
-- Joy: Happiness at the existence of good things
+- Joy: Happiness about good things
 - Compassion: Care directed towards suffering
 - Equanimity: Peace in the face of everything
 
@@ -193,7 +193,7 @@ In day-to-day life, the Buddha recommended practicing generosity at every opport
 
 It _is_ a bit funny (but not contradictory) how the Buddha preached generosity while living on alms.
 
-And in meditation, the Buddha discovered eight states of meditative collectedness and bliss he called the "Jhanas". There are four "form" Jhanas, in which you can still sense your body, but in which the entire felt sense of the body becomes unified. In that unified sensation, each Jhana has a prominent factor:
+And in meditation, the Buddha recommended eight states of meditative collectedness and bliss he called the "Jhanas". There are four "form" Jhanas, in which you can still sense your body, but in which the entire felt sense of the body becomes unified. In that unified sensation, each Jhana has a prominent factor:
 
 - 1st Jhana: Pleasure
 - 2nd Jhana: Happiness
@@ -211,7 +211,7 @@ By spending a lot of time working with the Jhanas, meditators can learn how to a
 
 ### The Five Aggregates and The Three Characteristics
 
-Seems like the Buddha really liked listicles. That, _or_ maybe it was just easier to remember teachings this way back before everything was recorded or written down. In any case, this next set of groups aren't teachings so much as they are ways of looking at experience. These ways of looking are intentionally designed to undermine our habitual tendencies of clinging, and so lead to awakening.
+Seems like the Buddha really liked listicles. That, _or_ maybe it was just easier to remember teachings this way back before everything was recorded or written down. In any case, this next set of groups aren't conceptual teachings so much as they are ways of looking at experience. These ways of looking are intentionally designed to undermine our habitual tendencies of clinging, and so lead to awakening.
 
 #### The Five Aggregates
 
@@ -247,7 +247,7 @@ Sound a bit... bleak? Maybe this Buddha guy needed a good karaoke night.
 
 ![The Buddha singing karaoke](karaoke_buddha.png)
 
-Or... maybe he just _really_ wanted people to awaken, at whatever the cost.
+... Or maybe he just _really_ wanted people to awaken, at whatever the cost.
 
 There's a quote from him that goes:
 
@@ -259,7 +259,7 @@ Damn. What is this awakening then, and how is it _that_ good?
 
 ## The Fruit of Practice
 
-It's nigh impossible to convey the phenomenology of "awakening" accurately with words. Yet it is a very real and distinct phenomenon, so I'll try to contour some lines around it here, and point to some external resources that describe it in even more detail.
+It's nigh impossible to convey the phenomenology of "awakening" accurately with words. Yet it is a very real and distinct phenomenon, so I'll do my best to contour some lines around it.
 
 Technically, in Buddha Dharma, there are four stages of awakening, defined by ten fetters that must each be broken to reach full liberation. The initial stage, known as "stream entry", is what most people are referring to when you hear the word "enlightenment" (which is different than "full enlightenment", which is one of many reasons why "enlightenment" is a dumb term).
 
@@ -273,15 +273,15 @@ Awakening, stream entry, nonduality, pure being. There are many ways people desc
 
 After lots of practice paying close attention to experience in specific ways, suddenly you see, beyond a shadow of a doubt, that there is no "self", and there never was one.
 
-And it's not that the self is "lost", or "eradicated". Your personality and intelligence and everything about you is still fully intact; it's just that you realize you were adding extra tension onto experience in the shape of a self-conception that didn't actually inherently exist. It was empty, and dependently originated within your own mind, just like everything else.
+And it's not that the self is "lost", or "eradicated". Your personality and intelligence and everything about you is still fully intact; it's just that you realize you were adding extra tension onto experience in the shape of a self-conception that didn't actually inherently exist. It was empty, and dependently originated within your own mind (just like everything else).
 
-After releasing the vicegrip of a self that controls and receives experience, reality becomes an unlimited expanse of awareness without a subjective reference point, which is actually exactly how it's always been.
+After releasing the vicegrip of the self, "you" are no longer the one behind your eyes, controlling and receiving experience. Instead, you just experience the unlimited expanse of awareness without a subjective reference point, which is actually exactly how it's always been.
 
-And in knowing that the self is no more than a fictional narrative, "you" no longer experience craving or aversion, since there's no "you" to be helped or harmed by any outcome. Suffering: Ended.
+And in knowing that the self is no more than a fictional narrative, craving or aversion lose their power, since there's no "you" to be helped or harmed by any outcome. Suffering: Ended.
 
 But wait, wouldn't that just turn you into an apathetic lump?
 
-Maybe surprisingly, no. Your mind already has existing beliefs and habits in place, so if you have no desire for any specific outcome, you'll act exactly as you always have! Experience looks and feels identical after awakening, but with the added bonus of having a deep okayness with whatever happens.
+Maybe surprisingly, no. Your mind already has existing beliefs and habits in place, so if you have no desire for things to be different than they are, you'll act exactly as you always have! After awakening, experience is technically the same as it has always been, but with the added bonus that you now have a deep okayness with whatever happens.
 
 If that still doesn't sound good: Welcome to why people generally don't introduce Buddhism by talking about its practical goals.
 

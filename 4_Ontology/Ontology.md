@@ -1,5 +1,175 @@
 # Battle of the Ontologies
 
+Wow Adam, that essay on Buddhism was pretty cool! But unfortunately:
+
+- I don't really get it
+- I get it, but it's all bullshit
+- I believe it, but I hate it
+- Why would you waste so much time on this, you poor soul
+- I simply could not give a single rat's ass about any of this, but I'm still reading because I like you
+
+If any of these are you, then you're not alone: I have felt literally all of these things over the past few years (except for the last one, but thank you if that's you).
+
+This post is basically the culmination of all of my questions, concerns, investigations, and conclusions. I've tried to arrange the whole thing as a cohesive narrative, but since I'm touching on so many different points (and some people may not be able to stomach another full essay), I've also formatted it as an FAQ.
+
+## Buddhism vs. Science
+
+**First of all, how do you categorize Buddhism?**
+
+I think this point is really important, so I'm putting it first.
+
+Buddhism, like religion, philosophy, and science, is a mechanism that tries to convey truth. Take a look at this chart:
+
+|                   | Objective Reality      | Subjective Reality |
+|-------------------|------------------------|--------------------|
+| Claims of Fact    | Religion               | Buddhism           |
+| Theories          | Philosophy             | Scienctific Method |
+
+I can forsee a _lot_ of people looking at this chart and saying "wtf?", so let me clarify some definitions.
+
+- Objective Reality: What is true _outside_ of our experience. That which we can't perceive.
+- Subjective Reality: What is true _inside_ of our experience. That which we can perceive.
+- Claims of Fact: Beliefs that are treated as objectively true.
+- Theories: Beliefs that aren't treated as objectively true.
+
+Now, how each category matches those definitions:
+
+First, religion: Religion declares objective claims about a reality that we can't directly experience. Religion is clearly not presented as a "theory", nor is it used in practice as one. It's faith-based. Religion is treated as a ground truth that can be depended on, and it explains the reality that exists independently of our conception of it.
+
+Next, the scientific method: This one might be strange to some people, since science is supposed to be _the_ most objective thing we have. And... one could still argue that it is. But, with respect to the actual scientific method: Experimental results, even if replicated a million times, are still theories, not "facts" (objective claims). They _could_ be proven false at any time, they just haven't been yet. Science, when done with integrity, is just "what was done" -> "what happened". The "what happened" bit is not about some "objective reality" outside of what we experience. The only thing we know about "what happened" is what we saw/heard/felt/smelled/tasted. AKA: What we experienced. AKA: Our subjective reality.
+
+Next, philosophy: Philosophy, like religion, attempts to describe what reality really is, outside of our subjective experience. Unlike religion though, philosophical claims are intended to be purely rational. And since we, as subjective experiencers, can't possibly verify if a philosophical claim about an objective reality outside of our experience is true, philosophical claims must remain as theories.
+
+Finally, we have Buddhism. The reason it's so hard to categorize is because it's not _quite_ a religion, not _quite_ a science, and yet it's typically lumped in with philosophy even though it's literally the opposite. What do I mean by that? Like science, Buddhism is entirely about subjective experience. It says "practice these things and these results happen". But unlike science, it doesn't say "these results _have_ happened, but maybe they could be different". The Buddha said "all perception _is_ empty". In doing, so he was making an objective claim (emptiness) about subjective reality (perception/experience).
+
+**Why Buddhism over [insert religion here]?**
+
+Buddhism isn't really a religion; it's apples to oranges. Religion attempts to make objective claims about objective reality, whereas Buddhism makes objective claims about subjective reality. So technically, it's possible to be a Buddhist Christian.
+
+Instead, it's much more apt to pit Buddhism against the scientific method, since that's also about subjective reality. So then the question is...
+
+**Are science and Buddhism at odds?**
+
+It's not really possible for pure "science" and Buddhism to _be_ at odds. Both are just methods of running verifiable experiments and making claims about reality based on their results. Anyone is free to run the Buddha's experiments of meditative inquiry and come up with different results, but that just hasn't happened yet.
+
+There _is_ a difference between the two though. In science, everything is a "theory": As in, the claims should not be treated as objective fact. On the other hand, the Buddha _does_ makes objective claims.
+
+So to be clear, we have a few categories:
+
+
+
+I think the better question, and the one that most people are _really_ asking when they bring up science and objectivity as an argument against Buddhism, is...
+
+**Are Scientific Materialism and Buddhism at odds?**
+
+This is where things get spicy.
+
+If we actually look at modern science, nothing in it actually contradicts Buddhism. Scientific materialism is _not_ the same thing as science. If anything, it's "the religion of science". Basically, it's taking what we've learned from science, mixing it with our intuitions about how reality works, and declaring the amalgamation as objective reality.
+
+Buddhism was originally meant to provide a subjective ontology, so this isn't 
+In fact, if anything, the most recent science around quantum mechanics seems to support the things the Buddha said two and a half millenia ago.
+
+Remember, the fundamental concept underlying Buddhism is Emptiness: That things don't have an actual, inherent existence.
+
+Even going back a hundred years, we're already seeing chinks in the armor of 
+
+Take Werner Heisenbarg. This was a hundred years ago, and physics has only gotten crazier since:
+
+> What is an elementary particle? We say, for instance, simply “a neutron,” but we can
+give no well-defined picture of what we mean by the word. We can use several pictures
+and describe it once as a particle, once as a wave or as a wave packet. But we know that
+none of these descriptions is accurate…. If one wants to give an accurate description of
+the elementary particle … the only thing which can be written down is a probability
+function [what I just talked about]. But then one sees that not even the quality of being
+[that it ‘is’ or ‘is not’], if it may be called a quality, belongs to what is described.
+
+I'm not a physicist though, so maybe my word doesn't count. But how about Niels Bohr, creator of the Bohr model of the atom and major contributor to quantum theory?
+
+> “Everything we call real is made of things that cannot be regarded as real.”
+
+But Bohr was a bit of a philosopher. Maybe, despite his genius, he was also inclined to believe in some outlandish things. How about someone we can _really_ trust: Albert Einstein.
+
+> "Quantum mechanics is certainly imposing. But an inner voice tells me that it is not yet the real thing. The theory says a lot, but does not really bring us any closer to the secret of the old one. I, at any rate, am convinced that He does not throw dice."
+
+
+
+
+
+
+
+
+
+
+
+
+
+___
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A lot of people _hate_ Buddhism. I know I have at some points. In essence, it's "abandon everything because it's all suffering".
 
 In a world where beliefs are so powerful... Why would anyone pick Buddhism? If you don't believe in scientific materialism, why not find a belief system that _supports_ human desire, or at least supports _anything_? And frankly, how does one even _find_ Buddhism? If you don't like Christianity, why not pick any other random eastern religion? And finally: What are the practical implications of practicing Buddhism? Is it just fancy dissociation? Are its goals realistically attainable?
