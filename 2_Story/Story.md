@@ -131,6 +131,6 @@ On the contrary, if you believe that your existence is meaningful, your deepest 
 
 Life _is_ not this way or that way. There is no "objective" subjective experience. When you're experiencing life, you are always looking at it in a certain way, and that way of looking changes the actual experience of life itself.
 
-Even just knowing that fact has been powerful for me, but... I'm insatiable. If I can understand the meta-level of _why_ my experience is malleable, and how it can be shaped, I can essentially become a god of my own subjective experience.
+It's taken me up until... just about now, actually, to finally shed all of my fear of meditating post-incident. During that time, even just knowing about the above was powerful for me, but... I was insatiable. I figured: If I could understand the meta-level of _why_ my experience was malleable, and _how_ it could be shaped, I could essentially become the god of my own subjective experience.
 
-... That came out sounding a little bit foreboding. Which sets the tone perfectly for my next post: Buddhism in a nutshell.
+... That came out sounding a bit foreboding. Which sets the tone perfectly for my next post: _Buddhism in a Nutshell_.

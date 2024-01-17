@@ -4,7 +4,7 @@ Wow Adam, that essay on Buddhism was pretty cool! But unfortunately:
 
 - I don't really get it
 - I get it, but it's all bullshit
-- I believe it, but I hate it
+- I get it, but I hate it
 - Why would you waste so much time on this, you poor soul
 - I simply could not give a single rat's ass about any of this, but I'm still reading because I like you
 
@@ -40,7 +40,7 @@ Next, the scientific method: This one might be strange to some people, since sci
 
 Next, philosophy: Philosophy, like religion, attempts to describe what reality really is, outside of our subjective experience. Unlike religion though, philosophical claims are intended to be purely rational. And since we, as subjective experiencers, can't possibly verify if a philosophical claim about an objective reality outside of our experience is true, philosophical claims must remain as theories.
 
-Finally, we have Buddhism. The reason it's so hard to categorize is because it's not _quite_ a religion, not _quite_ a science, and yet it's typically lumped in with philosophy even though it's literally the opposite. What do I mean by that? Like science, Buddhism is entirely about subjective experience. It says "practice these things and these results happen". But unlike science, it doesn't say "these results _have_ happened, but maybe they could be different". The Buddha said "all perception _is_ empty". In doing, so he was making an objective claim (emptiness) about subjective reality (perception/experience).
+Finally, we have Buddhism. The reason it's so hard to categorize is because it's not _quite_ a religion, not _quite_ a science, and yet it's typically lumped in with philosophy even though it's literally the opposite. What do I mean by that? Like science, Buddhism is entirely about subjective experience. It says "practice these things and these results happen". But unlike science, it doesn't say "these results _have_ happened, but maybe they could be different". The Buddha said "all phenomena _are_ empty". In doing, so he was making an objective claim (emptiness) about subjective reality (experience).
 
 **Why Buddhism over [insert religion here]?**
 
@@ -218,10 +218,6 @@ A lot of popular Buddhist teachings gently skip over the fact that the Buddha _d
 
 ![Rival Voices on non-self](no_self.png)
 
-## Who is Rob Burbea?
-
-
-
 ## If everything is empty, how _isn't_ that Nihilism?
 
 While all phenomena (including suffering) may be empty, the Buddha cared very much about the beings who were experiencing it. So for him, "meaning" was never a concern. Liberating all beings from suffering is a meaningful cause while still attached to a non-empty conception of meaning, and after enlightenment, "meaning" lost all meaning.
@@ -330,7 +326,9 @@ If you don't fall into any of these camps, then what?
 
 - Paying attention to where your attention is, and directing it towards the things you want to see more of
 
-## What are the ingredients of success?
+## Dangers
+
+It's taken me up until... just about now, actually, to finally stop being scared of meditation post-incident.
 
 ## Is "Nirvana" actually an "end goal"?
 

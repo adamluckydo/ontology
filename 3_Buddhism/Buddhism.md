@@ -12,7 +12,7 @@ Based on my knowledge and my experience thus far, here's how I've decided to pre
 
 1. English: Do you know Pali or Sanskrit? No? Then let's not add any more indirection into the mix. (If you do know Pali or Sanskrit, you probably know more than what I'm covering anyway)
 
-2. Concept-based: Buddhism, unlike other religions, doesn't involve any supernatural deitites. Instead, the "religion" (which is really better described as a science or practice) is based on concepts that can be directly realized. Explaining those concepts at some level is key to painting an accurate picture of Buddhism as a whole.
+2. Concept-based: Buddhism, unlike other religions, doesn't involve any supernatural deitites. Instead, the "religion" (which is really better described as a science or practice) is based on concepts that can be directly realized. Understanding those concepts at some level is crucial to understanding Buddhism as a whole.
 
 3. Goal-oriented: What exactly did the Buddha desire as the end result of practice? How did he teach people to get there?
 
@@ -24,7 +24,7 @@ Date: 5th century BC (~2500 years ago)
 
 Location: The Indo-Gangetic Plain (North India)
 
-Dominant religion: Vedic Brahmanism (precursor to Hinduism). Belief in an individual immortal soul, which is reincarnated continuously until a being releases all of their karma, thus attaining liberation from the cycle and eternal unity with the divine.
+Dominant religion: Vedic Brahmanism (precursor to Hinduism) ~ Belief in an individual immortal soul, reincarnated continuously until the being releases all karma, thus attaining liberation from the interminable cycle and reaching eternal unity with the divine.
 
 ![Statue of the Buddha](buddha.png)
 
@@ -50,7 +50,7 @@ the end of craving has been reached.” (Dhp 153-154)
 
 And if you're curious, these were his last words:
 
-"Behold, O monks, this is my advice to you. All conditions are impermanent. Work hard to gain salvation." (DN 16 6.7.1)
+"Behold, O monks, this is my advice to you. All conditions are impermanent. Work hard to gain your salvation." (DN 16 6.7.1)
 
 If it's not clear already, the Buddha's view on life was not exactly happy-go-lucky. From the get-go, he was dead-set on his vision, and he never deviated from it. The Buddha was known to say:
 
@@ -76,15 +76,15 @@ The Four Noble Truths state that suffering is caused by "craving and aversion", 
 
 The first (and most important) piece of the puzzle comes from the phenomenology of suffering. What _is_ suffering made of?
 
-The Buddha realized that the feeling of suffering is the mental motion of "clinging". Our innate tendency to desire good feelings (craving) and avoid bad ones (aversion) manifests as a sub-second contraction in our minds that has the texture of suffering. This "clinging" contraction happens near-instantaneously after good or bad feelings, but is actually a separate phenomenon.
+The Buddha realized that the feeling of suffering is literally the mental motion of "clinging". Our innate tendency to desire good feelings (craving) and avoid bad ones (aversion) manifests as a sub-second contraction in our minds that has the texture of suffering. This "clinging" contraction happens near-instantaneously after good or bad feelings, but is actually a separate phenomenon.
 
-The Buddha describes this pattern with an analogy of "two arrows". The first arrow is the initial appearance of the good or bad thing: Being struck by it is out of your control. The second arrow is the reactivity _to_ the phenomenon: The one you jam into yourself without even realizing you're doing it. And as it turns out, the emotion and story of the second arrow causes _way_ more suffering than the initial strike. This makes sense if you imagine something like working out -- The pain you feel during an intense workout would have you calling the emergency room if it happened while you were sitting quietly at home, but in the context of a workout it feels totally fine, even satisfying. Reacting according to the situation is expected (and usually a good thing), but the point remains that the first arrow doesn't necessitate the second.
+The Buddha described this pattern with an analogy of "two arrows". The first arrow is the initial appearance of the good or bad thing: Being struck by it is out of your control. The second arrow is the reactivity _to_ the good or bad thing: That arrow you jam into yourself without even realizing you're doing it. And as it turns out, the emotion and story of the second arrow causes _way_ more suffering than the first arrow ever could. This makes sense if you imagine something like working out -- The pain you feel during an intense workout would have you calling the emergency room if it happened while you were sitting quietly at home, but in the context of a workout it feels totally fine, even satisfying. Reacting according to the situation is expected (and usually a good thing), but the point remains that the first arrow doesn't necessitate the second.
 
 So to put it simply: Suffering is just clinging in response to phenomena. And the Buddha says that if we clear up our ignorance about the reality of phenomena, we won't cling at all.
 
 Now that leaves us with the question: What is this "true" nature of reality that us plebians are blind to?
 
-## Concept Time: The Theory of Buddhism
+## The Science of Buddhism
 
 Buddhism is a pretty intellectual endeavor; it really can't be avoided. I've tried my best to explain it below with plenty of analogies, but if abstract concepts aren't to your taste, feel free to skip ahead.
 
@@ -94,27 +94,27 @@ Buddhism is a pretty intellectual endeavor; it really can't be avoided. I've tri
 
 "Existence isn't real, but it isn't _not_ real either. 😏"
 
-In Buddhism, the nature of reality is explained by The Middle Way. The Middle Way is both a way of living (avoiding extremes of self-gratification and self-mortification) and a way of looking (seeing neither existence nor nonexistence as real).
+In Buddhism, the nature of reality is explained by the Middle Way. The Middle Way is both a way of living (avoiding extremes of self-gratification and self-mortification) and a way of looking (seeing neither existence nor nonexistence as real).
 
-How does The Middle Way result in the end of clinging? Imagine this: You're walking, and suddenly you see a snake two feet in front of you. You startle because you think it's real, but it turns out it was actually just the end of a hose. Whew, what a relief. The Middle Way is basically that, but for _everything_. And with the right practice, seeing this not-quite-reality of things isn't just faith-based, it's experiential. So basically, through Buddhism, you gain the power to turn snakes into hoses. Exciting.
+How does the Middle Way result in the end of clinging? Imagine this: You're walking, and suddenly you see a snake two feet in front of you. You startle because you think it's real, but it turns out it was actually just the end of a hose. Whew, what a relief. The Middle Way is basically that, but for _everything_. And with the right practice, seeing this not-quite-reality of things isn't just faith-based, it's directly experienced. So basically, through Buddhism, you gain the power to turn snakes into hoses. Exciting.
 
 #### What is this Middle Way even based on?
 
-The Middle Way is justified by the concept of Emptiness. Specifically, the emptiness of all phenomena.
+The Middle Way is based on the concept of Emptiness. Specifically, the emptiness of all phenomena.
 
-In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it's claiming that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. In addition to disavowing both existence and nonexistence, the Buddha condemned the stances of both nihilism and eternalism (that things are either totally meaningless, or totally meaningful, respectively).
+In this case, Emptiness does _not_ mean "nothingness"; it's not claiming that nothing exists. Instead, it's claiming that things don't exist in the way we naturally believe they do. And despite the name, it's also not endorsing nihilism. So in addition to disavowing both existence and nonexistence, the Buddha also condemned the stances of both nihilism and eternalism (that things are either totally meaningless, or totally meaningful, respectively). As we'll come to find out, the Buddha was a big fan of negation in general.
 
 #### So what actually _is_ Emptiness, then?
 
-When something is "empty", it is empty of "inherent existence": It doesn't actually exist in any real, independent way. It's helpful to think of "empty" as an adjective. But in this case, an adjective that applies to literally everything that exists: Physical objects, thoughts, and even consciousness itself.
+When something is "empty", it is empty of "inherent existence": It doesn't actually exist in any real, independent way. It's helpful to think of "empty" as an adjective. But in this case, it's an adjective that applies to literally everything: Physical objects, thoughts, even consciousness itself.
 
-For instance, imagine a can of soda. "Soda" is really just a label that we give to mixtures of carbonated water, sugar, and flavorings. So "soda" itself is empty. And that carbonated water is just a label for a mixture of water and oxygen molecules, so it's empty too! And molecules are just labels for groupings of atoms, and so on and so forth.
+For instance, imagine a can of soda. "Soda" is really just a label that we give to mixtures of carbonated water, sugar, and flavorings. So "soda" itself is empty. And that carbonated water is just a label for a mixture of water and oxygen molecules, so it's empty too! And molecules are just labels for groupings of atoms... and so on and so forth.
 
-So, according to Emptiness: "Things" are really just labels that point to groups of smaller things happening together (all of which are empty too). This differs from our natural method of interpreting phenomena, in which we perceive phenomena, instantly unconsciously label it, and conceive of that label as an inherently existing "thing".
+So, according to Emptiness: "Things" are really just labels that point to groups of smaller things happening together (all of which are empty too). This differs from our natural method of interpreting experience, in which we perceive some phenomenon, instantly unconsciously label it, and conceive of that label as an inherently existing "thing".
 
 #### How does this all relate to The Middle Way?
 
-The Middle Way states that reality neither exists nor doesn't exist, and Emptiness shows that things don't inherently exist. So Emptiness itself implies the Middle Way.
+The Middle Way states that reality neither exists nor doesn't exist. Emptiness shows us that things don't have an inherent existence. So Emptiness itself defines the Middle Way.
 
 #### "It" "Is" "Soup"
 
@@ -122,7 +122,7 @@ The Middle Way states that reality neither exists nor doesn't exist, and Emptine
 
 Is it really soup?
 
-Emptiness also applies to the existence of "things" over time: Say we have a bowl of hot broth with white meat and pasta in it. We think "this is chicken soup". And it's still soup when you spoon it into your mouth, but then maybe it's not quite soup because there's some saliva mixed in, and then when you swallow it the chicken isn't quite "in" the broth anymore, and everything is mashed up. So is it not soup anymore? And when it's in your stomach, when does the white meat stop being "chicken" and start being "you"? If you keep going deeper, the boundaries between independent "things" start to dissolve.
+Emptiness also applies to the existence of "things" over time: Say we have a bowl of hot broth with white meat and pasta in it. We think "this is chicken soup". And it's still soup when you spoon it into your mouth, but then maybe it's not quite soup because there's some saliva mixed in, and then when you swallow it the chicken isn't really "in" the broth anymore, and everything is mashed up. So is it not soup anymore? And when it's in your stomach, when does the white meat stop being "chicken" and start being "you"? If you keep going deeper, the boundaries between independent "things" start to dissolve.
 
 So it turns out that our natural inclination to label things is a lot less about reality, and a lot more about usefully categorizing things. If we want to understand reality beyond the labels, the Buddha is ready with an explanation.
 
@@ -130,20 +130,20 @@ So it turns out that our natural inclination to label things is a lot less about
 
 ![A snake eating itself](ouroboros.jpg)
 
-The teaching of Dependent Origination states that all phenomena are interconnected, only arising dependent on an inconceivably complex web of prior causes and conditions. Therefore, all "things" are both empty (non-inherent) and dependently originating (caused by something else). Additionally, the concept of Interdependent Co-Arising states that not only are all things dependent upon other things, but cause and effect necessarily arise together. The teaching of this concept generally goes as follows:
+The teaching of Dependent Origination states that all phenomena are interconnected, only arising dependent on an inconceivably complex web of prior causes and conditions. Therefore, all "things" are both empty (non-inherent) and dependently originating (caused by something else). Additionally, the concept of Interdependent Co-Arising states that not only are all things dependent upon other things, but cause and effect necessarily arise together. The teaching of this concept goes as follows:
 
 "With this as condition,
 That arises.
 With this NOT as condition,
 That does NOT arise." (SN 12.61 5.1)
 
-At first, these ideas may seem obvious, or at the very least unimportant. Of course things cause other things. But let's put some pieces together:
+At first, these ideas may seem obvious, or unimportant at best. Of course things cause other things. But let's put some pieces together:
 
 1. Nothing in our experience is fundamental. Put another way, there is no root cause that isn't also an effect of some other cause. It's all interconnected and cyclic. Imagine experience as an Ouroboros (a snake eating its own tail). Experience is digesting itself because there's nothing but itself to subsist on. This act feels both good (tasty tail) and bad (ouch my tail).
 
-2. Earlier, I mentioned that suffering is just clinging in response to phenomena, but actually that's only the second arrow. On a deeper level, the Buddha believed that _all_ phenomena lead to suffering. The Ouroboros analogy explains it well: Good things aren't good in a vacuum; eventually the digester will become the digested. Thus, the only way to truly be free of suffering is to prevent phenomena from arising at all.
+2. Earlier, I mentioned that suffering is just clinging in response to phenomena, but actually that's only the second arrow. On a deeper level, the Buddha believed that the arising of any phenomena at all is suffering. The Ouroboros analogy explains it well: Good things aren't good in a vacuum; eventually the digester will become the digested. Thus, the only way to truly be free of all suffering is to prevent phenomena from arising at all.
 
-3. Every phenomenon has a specific set of causes that are conditions for it to arise. If we can remove even one of the causes, the effect will no longer arise. In our Ouroboros analogy, if we can take the tail out of the snake's mouth, it'll stop eating itself. And this is where everything comes together nicely: It turns out that clinging is _also_ the weakest link in the dependently originating cycle of arisings and passings away. Meaning: If you are able to relax your clinging to phenomena enough, they no longer arise at all.
+3. Every phenomenon has a specific set of causes that are conditions for it to arise. If we can remove even one of the causes, the effect will no longer arise. In our Ouroboros analogy, if we can take the tail out of the snake's mouth, it'll stop eating itself. And this is where everything that's been discussed comes together nicely: It turns out that clinging is _also_ the weakest link in the dependently originating cycle of arisings and passings away. Meaning: If you are able to relax your clinging to phenomena enough, they no longer arise at all.
 
 ### Cessation
 
@@ -157,11 +157,11 @@ So step by step:
 
 1. You cease all clinging (if only for a moment). This breaks the cycle of Dependent Origination, causing the mind to "reset".
 
-2. By maintaining awareness while Dependent Origination "shuts down" and "powers on" again, you witness the fabrication of phenomena in real time, thereby understanding their Emptiness.
+2. By maintaining awareness while Dependent Origination "shuts down" and "starts up" again, you witness the fabrication of phenomena in real time, thereby gaining insight into their Emptiness.
 
-3. By understanding the Emptiness of all phenomena, you know that they are neither real nor not real, resulting in an "OS Update" of a new ontology: The Middle Way.
+3. With a better understanding the Emptiness of phenomena, your mind's OS runs differently, seeing things as a bit more "neither real nor not real" than usual.
 
-4. Snakes are now a bit more hose-like (see the last paragraph of [The Middle Way](#the-middle-way) for context). Hooray!
+4. Snakes are now more hose-like (see the last paragraph of [The Middle Way](#the-middle-way) for context). Hooray!
 
 Sounds easy enough. Why don't you try it now? Go ahead, just cease all clinging.
 
@@ -171,7 +171,7 @@ Didn't work? Well, just our luck: The Buddha also devised some practical strateg
 
 ## A Path of Practice
 
-The Buddha understood that humans don't naturally have the capacity to instantaneously let go of their attachments to literally everything. People have two main roadblocks:
+The Buddha understood that humans don't naturally have the capacity to instantaneously let go of all of their clinging. There are two main roadblocks:
 
 1. People don't feel comfortable letting go. They fear that they won't be safe or happy without their normal attachments.
 2. People don't even know _how_ they're clinging. Their unconcsious attachments are so strong and habitual that they don't even realize they're there.

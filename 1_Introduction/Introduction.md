@@ -1,6 +1,6 @@
 # On Being Human
 
-I was watching _Nausicaa of the Valley of the Wind_ the other day. It's one of Miyazaki's first films (1984), and it's still frequently lauded as one of the best animated films ever made. I actually thought it was kinda boring... but that's beside the point.
+I was watching _Nausicaa of the Valley of the Wind_ the other day. It's one of Miyazaki's first films (released in 1984), and it's still frequently lauded as one of the best animated films ever made. I actually thought it was kind of boring... but that's beside the point.
 
 When's the last time you saw someone being brave?
 
@@ -53,7 +53,7 @@ So the upcoming series of posts, while originally advertised to be about Buddhis
 
 "Only the fortunate warriors, O Arjuna, get such an opportunity for an unsought war that is like an open door to heaven." - Krishna, _The Bhagavad Gita_
 
-___
+## Two Kinds of Intelligence
 
 From _The Essential Rumi_, translated by Coleman Barks:
 
