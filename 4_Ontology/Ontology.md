@@ -27,51 +27,56 @@ Buddhism, like religion, philosophy, and science, is a mechanism that tries to c
 
 I can forsee a _lot_ of people looking at this chart and saying "wtf?", so let me clarify some definitions.
 
-- Objective Reality: What is true _outside_ of our experience. That which we can't perceive.
-- Subjective Reality: What is true _inside_ of our experience. That which we can perceive.
+- Objective Reality: What is true _outside_ of our experience.
+- Subjective Reality: What is true _inside_ of our experience.
 - Claims of Fact: Beliefs that are treated as objectively true.
 - Theories: Beliefs that aren't treated as objectively true.
 
 Now, how each category matches those definitions:
 
-First, religion: Religion declares objective claims about a reality that we can't directly experience. Religion is clearly not presented as a "theory", nor is it used in practice as one. It's faith-based. Religion is treated as a ground truth that can be depended on, and it explains the reality that exists independently of our conception of it.
+First, religion: Religion makes claims of fact about objective reality. Religion is clearly not presented as a "theory", nor is it used in practice as one. It's faith-based. Religion is treated as a ground truth that can be depended on, and it explains the reality that exists independently of our conception of it.
 
-Next, the scientific method: This one might be strange to some people, since science is supposed to be _the_ most objective thing we have. And... one could still argue that it is. But, with respect to the actual scientific method: Experimental results, even if replicated a million times, are still theories, not "facts" (objective claims). They _could_ be proven false at any time, they just haven't been yet. Science, when done with integrity, is just "what was done" -> "what happened". The "what happened" bit is not about some "objective reality" outside of what we experience. The only thing we know about "what happened" is what we saw/heard/felt/smelled/tasted. AKA: What we experienced. AKA: Our subjective reality.
+Next, the scientific method: This one might be strange to some people, since science is supposed to be _the_ most reliable thing we have to determine what is real. And... I would agree with that. But, according to the actual scientific method: Experimental results, even if replicated a million times, are still theories, not "facts" (objective claims). They _could_ be proven false at any time, they just haven't been yet. Science, when done with integrity, is just "what was done" -> "what happened". The "what happened" bit is not some "objective reality" outside of what we experience. The only thing we know about "what happened" is what we saw/heard/felt/smelled/tasted. AKA: What we experienced. AKA: Our subjective reality.
 
 Next, philosophy: Philosophy, like religion, attempts to describe what reality really is, outside of our subjective experience. Unlike religion though, philosophical claims are intended to be purely rational. And since we, as subjective experiencers, can't possibly verify if a philosophical claim about an objective reality outside of our experience is true, philosophical claims must remain as theories.
 
-Finally, we have Buddhism. The reason it's so hard to categorize is because it's not _quite_ a religion, not _quite_ a science, and yet it's typically lumped in with philosophy even though it's literally the opposite. What do I mean by that? Like science, Buddhism is entirely about subjective experience. It says "practice these things and these results happen". But unlike science, it doesn't say "these results _have_ happened, but maybe they could be different". The Buddha said "all phenomena _are_ empty". In doing, so he was making an objective claim (emptiness) about subjective reality (experience).
+Finally, we have Buddhism. The reason it's so hard to categorize is because it's not _quite_ a religion and not _quite_ a science. What do I mean by that? Like the scientific method, Buddhism only deals with things in our subjective experience. It says "practice these things and these results happen". But unlike the scientifc method, it doesn't say "these results _have_ happened, but maybe they could be different". The Buddha said "all phenomena _are_ empty". In doing, so he was making an claim of fact about subjective reality.
 
-**Why Buddhism over [insert religion here]?**
+### Why Buddhism over [insert religion here]?
 
-Buddhism isn't really a religion; it's apples to oranges. Religion attempts to make objective claims about objective reality, whereas Buddhism makes objective claims about subjective reality. So technically, it's possible to be a Buddhist Christian.
+As mentioned above, Buddhism isn't really a religion; it's apples to oranges. Religion attempts to declare facts about objective reality, whereas Buddhism declares facts about subjective reality. So it's quite possible to be a Christian Buddhist.
 
-Instead, it's much more apt to pit Buddhism against the scientific method, since that's also about subjective reality. So then the question is...
+### Are science and Buddhism at odds?
 
-**Are science and Buddhism at odds?**
-
-It's not really possible for pure "science" and Buddhism to _be_ at odds. Both are just methods of running verifiable experiments and making claims about reality based on their results. Anyone is free to run the Buddha's experiments of meditative inquiry and come up with different results, but that just hasn't happened yet.
+Again, there's no overlap between these two where they even _could_ be at odds. Both the scientific method and Buddhism are based on running verifiable experiments on subjective reality and making claims based on their results. Anyone is free to run the Buddha's experiments of meditative inquiry and come up with different results, but that just hasn't happened yet.
 
 There _is_ a difference between the two though. In science, everything is a "theory": As in, the claims should not be treated as objective fact. On the other hand, the Buddha _does_ makes objective claims.
 
-So to be clear, we have a few categories:
-
-
-
 I think the better question, and the one that most people are _really_ asking when they bring up science and objectivity as an argument against Buddhism, is...
 
-**Are Scientific Materialism and Buddhism at odds?**
+### Are Scientific Materialism and Buddhism at odds?
 
 This is where things get spicy.
 
-If we actually look at modern science, nothing in it actually contradicts Buddhism. Scientific materialism is _not_ the same thing as science. If anything, it's "the religion of science". Basically, it's taking what we've learned from science, mixing it with our intuitions about how reality works, and declaring the amalgamation as objective reality.
+Scientific materialism is the belief that objective reality is made of matter; the particles that make up our reality are fundamentally real and cause everything else to work the way it does.
 
-Buddhism was originally meant to provide a subjective ontology, so this isn't 
-In fact, if anything, the most recent science around quantum mechanics seems to support the things the Buddha said two and a half millenia ago.
+It's important to clarify that scientific materialism is _not_ the same thing as the scientific method, and it's not "the results of the scientic method" either. Scientific materialism takes the theories we've come up with based on scientific experiments run on subjective reality, mixed them with subjective intuitions about how reality works, and claims that the amalgamation is objective reality.
+
+In the chart, scientific materialism would fall under the "religion" category because it's claiming a fact about objective reality. In a sense, scientific materialism is the "religion of no religion", and its followers have a "faith in faithlessness".
+
+As with other religions, there's not technically overlap between scientific materialism and Buddhism. It's very possible to be an athiestic Buddhist, for example.
+
+But, since it'd be fun... why don't we try using the concepts of Buddhism to try to explain objective reality?
+
+![Emptiness got hands](hands.jpg)
+
+### Emptiness as Objective
+
+If we look at modern physics, we can almost intuit emptiness without even knowing about Buddhism. Modern quantum mechanics seems to support the things the Buddha said two and a half millenia ago.
 
 Remember, the fundamental concept underlying Buddhism is Emptiness: That things don't have an actual, inherent existence.
 
-Even going back a hundred years, we're already seeing chinks in the armor of 
+Even going back a hundred years, scientific material was already starting to lose it's footing.
 
 Take Werner Heisenbarg. This was a hundred years ago, and physics has only gotten crazier since:
 
@@ -358,12 +363,16 @@ The absolute best response that I've heard to this whole deal comes from a talk 
 
 "What am I becoming as the days and nights fly past?" (AN 10:48)
 
+“Only put off until tomorrow what you are willing to die having left undone.” - Pablo Picasso
+
+“The only true wisdom is in knowing you know nothing” - Socrates
+
 ## Adam's Instructions for Meditation (and Living Well)
 
 ### Prerequisites
 
 1. You must love yourself. If you do not love yourself, I recommend Sasha Chapin's [self-acceptance course](https://www.sashachapin.com/self-acceptance-course). If you don't like that idea, then try talking to your friends and family about how they learned to love themselves. I promise you'll get something out of it.
-2. You must be able to reside in your body. River Kenna's [somatic resonance course](https://www.riverkenna.com/soma) is designed specifically around that. If you don't like that idea, then I recommend practicing yoga or some other form of exercise or movement where bodily awareness is key.
+2. You must be able to reside in your body. River Kenna's [somatic resonance course](https://www.riverkenna.com/soma) is designed specifically for that. If you don't like that idea, then I recommend practicing yoga or some other form of exercise or movement where bodily awareness is key.
 
 ### Practice
 
@@ -381,5 +390,7 @@ The absolute best response that I've heard to this whole deal comes from a talk 
 ### Bringing Practice into Life
 
 1. Once you're able to regularly tune into your body and make it feel good in meditation, it's time to tune into your body in real life. Your body always knows _what_ to do, and your head always knows _how_ to do it. When it's safe, instead of relying on your head to decide everything, let the body take charge. Isabel from Mind Mine has [a fantastic post](https://mindmine.substack.com/p/head) on this.
-2. You'll know when you're actually letting your body call the shots because doing things will feel _good_. Not just physically, but emotionally as well. You'll feel more confident in the things you're saying and doing, which enables you to do the cool things you want to do, like, say, writing this series of posts.
-3. When you're embodied, you feel powerful and in control, and this does _magic_ for your well-being. You feel allowed, maybe for the first time ever, to believe the things you secretly want to believe. For example, I'm fond of Vivid Void's [Ontology](https://x.com/VividVoid_/status/1730709020741386708?s=20).
+2. You'll know when you're actually letting your body call the shots because doing things will feel _good_. Not just physically, but emotionally as well. You'll feel more confident in the things you're saying and doing, which enables you to do fun stuff, like, say, [writing a tweet like this](https://twitter.com/eigenrobot/status/1747448124396757077).
+3. When you're embodied, you feel powerful and in control, and this does _magic_ for your well-being. You feel allowed, maybe for the first time ever, to believe the things you secretly want to believe. For example, I'm fond of [Vivid Void's Ontology](https://x.com/VividVoid_/status/1730709020741386708?s=20).
+
+If you're just beginning meditation, I recommend Rob Burbea's retreat on [Unbinding the Heart](https://hermesamara.org/resources/all/retreat/Unbinding%20the%20Heart). Another world awaits.

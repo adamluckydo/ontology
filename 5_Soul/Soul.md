@@ -20,7 +20,7 @@ Where there is magic, there is love.
 - River Kenna: [Soul](https://twitter.com/the_wilderless)
 - Isabel: [Femininity](https://twitter.com/isabelunraveled)
 - Eigenrobot: [Masculinity](https://twitter.com/eigenrobot)
-- Vivid Void: [Ontology](https://x.com/VividVoid_/status/1730709020741386708?s=20)
+- Vivid Void: [Ontology](https://twitter.com/VividVoid_)
 
 ## My Collage
 
@@ -42,9 +42,9 @@ Where there is magic, there is love.
 
 ![attention](attention.png)
 
-![mushrooms](mushrooms.jpg)
+![muscle](muscle.jpg)
 
-![muscle](muscle.png)
+![mushrooms](mushrooms.jpg)
 
 ![walking](walking.jpg)
 
@@ -155,6 +155,6 @@ into hypocrites!
 
 ## Where to now, St. Peter?
 
-[Perfection and Christ's Blessing](https://hermesamara.org/resources/talk/2020-03-06-perfection-and-christs-blessing) - Rob Burbea
+[Perfection and Christ's Blessing](https://hermesamara.org/resources/talk/2020-03-06-perfection-and-christs-blessing) - Rob Burbea's final talk
 
 "Courage, however, is the best slayer, courage which attacketh: it slayeth even death itself; for it saith: 'Was that life? Well! Once more!'" - Friedrich Nietzsche
