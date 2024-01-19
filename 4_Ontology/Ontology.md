@@ -8,9 +8,80 @@ Wow Adam, that essay on Buddhism was pretty cool! But unfortunately:
 - Why would you waste so much time on this, you poor soul
 - I simply could not give a single rat's ass about any of this, but I'm still reading because I like you
 
-If any of these are you, then you're not alone: I have felt literally all of these things over the past few years (except for the last one, but thank you if that's you).
+If any of these are you, then you're not alone: I have felt almost all of these things over the past few years. And now, this post is the culmination of all of my questions, concerns, investigations, and conclusions.
 
-This post is basically the culmination of all of my questions, concerns, investigations, and conclusions. I've tried to arrange the whole thing as a cohesive narrative, but since I'm touching on so many different points (and some people may not be able to stomach another full essay), I've also formatted it as an FAQ.
+But first, a _massive_ content warning: **If you are negatively affected by hearing about other people's bad experiences, stop reading now!**
+
+![Rob Burbea meme](burbea.png)
+
+Burbea meme by [Aaron Nesmith-Beck](https://twitter.com/anesmithbeck/status/1728204114528698845)
+
+## Do I believe The Buddha?
+
+I do believe the Buddha was absolutely correct. When I had my very first deep meditative "breakthrough", this is the note I wrote myself:
+
+![The Buddha is right](realization.png)
+
+After that was when I attempted to blast my way through to enlightenment using... alternative means. And I was simply and utterly unprepared for what hit me:
+
+![The terror and misery at touching on a universal truth](realization2.png)
+
+**"In the moment, I would have rather suffered a full lifetime's normal suffering rather than have to live with the truth in the frame in which it was presented."** This is a **very** important point; it's the whole point of this essay, even.
+
+**Suffering is contingent on the frame, and the frame is malleable.**
+
+![Takeaways: Your mind creates your reality, be unwaveringly loving, and you are okay the way you are right now.](realization3.png)
+
+## Why am I telling you all of this?
+
+When I first learned about Buddhism, it was very gradual. It took me quite a while to put the pieces together as I attempted to do in my last post. And when you put the pieces together gradually, you will inevitably have some missing pieces. Practicing Buddhism with an incomplete picture is like trying to sit on a stool that only has two legs: You _will_ fall over, and it _will_ be undignified.
+
+So I've decided: If I'm going to talk about Buddhism at all, I have to give people a vertical slice:
+
+![Minimum Viable Content: A vertical slice of everything](mvc.jpg)
+
+Idea of Minimum Viable Content taken from [Visakan Veerasamy's blog](https://medium.com/@visakanv/minimum-viable-content-real-talk-about-content-marketing-and-the-four-mistakes-youll-make-29b3088168fe)
+
+So now that I've covered a vertical slice of Buddhism, I can finally talk about what I want to talk about.
+
+## Where Buddhism goes Wrong
+
+Here's an excerpt from one of the talks Rob Burbea gave at a [2008 retreat](https://hermesamara.org/resources/talk/2008-12-28-the-meaning-of-refuge):
+
+> One of my teachers, Ajaan Geoff, said the path is based on a sense of fear, which when I first heard it, I was like, "Wow, that's really odd." Actually to have a very alive sense of danger and fear, it's a requirement for refuge. So the Buddha would encourage these kind of reflections, reflections on ageing, reflections on the fact of sickness, reflections on death, reflections on loss, on the inevitable growing separate from what and who we love. This is the nature of things, and so he said one should reflect, "I am subject to ageing, subject to sickness, subject to death, subject to loss. I have not gone beyond ageing, sickness, death." To really reflect on this. And then to reflect further: "I am not the only one subject to ageing, sickness, death, etc. All beings are subject to ageing, have not gone beyond ageing, sickness, death, loss."
+
+2500 years ago, Indian culture was about transcending life. To them, ways of looking like The Five Aggregates and The Three Characteristics, if taken in a religious context, would be desirable. The Buddha's teachings were perfect for his time because they were built around helping people to follow their deepest desires.
+
+But just because the Buddha was a genius for his time: Does that not mean any other human can improve on his teachings? Imagine a scenario where we treated scientists that way:
+
+`>` Copernicus comes up with the theory of heliocentrism
+
+`>` Made-up guy that actually supported a scientist _during_ his time instead of after it: "Copernicus figured out that everything revolves around the sun! All of the math adds up, he's a genius. Now we know that the sun is the center of the universe!"
+
+`>` Copernicus' discoveries help the world
+
+`>` Decades pass
+
+`>` Kepler proposes that planets orbit the sun ellipticaly instead of circularly
+
+`>` Made-up guy A (I like him): "I'm super thankful for Copernicus; he laid the groundwork which allowed Kepler to improve on his findings even further"
+
+`>` Made-up guy B (I like him less): "NO! Copernicus was RIGHT. Clearly the planets revolve around the sun. If you're saying that his findings can be improved upon, you must be saying he was wrong in some way."
+
+Rob Burbea is an emptiness teacher of the modern day, and I would argue that his teachings, which are based on Nagarjuna, have surpassed the Buddha's. The Buddha did not go far enough. Mahayana: Everything is empty, even nirvana.
+
+## My Theory on "Why" (Religion)
+
+We already defined suffering as "clinging". Anytime there is a duality, your mind is literally "clinging" to maintain the structure of "this" vs. "that". So another word that I think will clarify some things here is "effort". I think this word does a _way_ more helpful job of categorizing phenomena than "suffering". Phenomena is not objectively bad (remember, all ways of looking are empty), but it does take effort to have any perception at all.
+
+And you know another word for effort? Work.
+
+We cannot escape the trappings of the culture we grew up in. If you live in the western world, Christianity is in your bloodstream whether you like it or not. If I rephrase the Buddha's teachings in a more Christan frame, suddenly they become:
+
+1. There is work to be done
+2. There is work to be done because you are a sinner
+3. It is possible to be free of sin (e.g. John 3:16 "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.")
+4. The path to becoming free of sin is to follow the word of Jesus Christ, to do work in God's name
 
 ## Buddhism vs. Science
 
@@ -202,18 +273,6 @@ But something has not been learnt. I haven't learnt anything. Just the next expe
 And this is where we go back to this thing about appropriateness. Don't forget what I said about that. But ultimately speaking, what's the most compassionate thing? We can learn to see the concocting, and that is the main purpose of meditation practice. The main, if we talk about the deeper thrust, it's to learn to see this concocting. If we do that, I don't know if some of you maybe had the thought, "Oh, that means it's my fault, because I'm projecting this and I'm doing that." And then there can come some judgment: "Oh, you're saying suffering is my fault." No, because not only is the self not real enough to be found fault with, but also this process of concoction is just what consciousness does. It's what consciousness does. It's the way it works. Please remember as I say all this, there's something about timing. When is the right time to tell this person? When is the appropriate time to share with this person and point out to them, "Can you see your other hand? Can you see the process that's going on?"
 
 ## What exactly _is_ the Buddhist Path?
-
-Here's an excerpt from one of the talks Rob Burbea gave at a [2008 retreat](https://hermesamara.org/resources/talk/2008-12-28-the-meaning-of-refuge):
-
-> One of my teachers, Ajaan Geoff, said the path is based on a sense of fear, which when I first heard it, I was like, "Wow, that's really odd." Actually to have a very alive sense of danger and fear, it's a requirement for refuge. So the Buddha would encourage these kind of reflections, reflections on ageing, reflections on the fact of sickness, reflections on death, reflections on loss, on the inevitable growing separate from what and who we love. This is the nature of things, and so he said one should reflect, "I am subject to ageing, subject to sickness, subject to death, subject to loss. I have not gone beyond ageing, sickness, death." To really reflect on this. And then to reflect further: "I am not the only one subject to ageing, sickness, death, etc. All beings are subject to ageing, have not gone beyond ageing, sickness, death, loss."
-
-Not only is Buddhism complex, heavy, and incredibly far out of the realm of our normal conception of existence, but even just hearing about it can strike people in unexpected ways. Furthermore, attempting to follow its doctrines it in earnest can be mentally destabilizing (even when practice is going "well"). At least, that's what happened to me.
-
-Turns out, if you meditate a bunch and practice viewing all phenomena as suffering, it's possible to convince your brain that it is the truth. And the effects of doing that (at the very least with no preparation) are not good.
-
-Specifically, the way it registered for me was like a sudden jolt of realization that everything was a trick. All good things, all bad things, every thing that _has_ happened or _will_ happen was just fake, and caring about any of it could only lead to suffering. You know how your brain will drift off into daydreams as soon as you're not focusing on something? Well every time that happened, instead of random thoughts about myself or others or the future or the past, it was just "this is all suffering". And the only thing that helped was to clear my mind by meditating, but the thought of being alone with my own mind was too overwhelmingly terrifying to allow myself to do even that. For a few weeks after the initial shift, I could not go to sleep without a light on and some audio playing to try to distract my mind from "the truth".
-
-There were only two things that really pulled me out of it: Time, and Rob Burbea.
 
 ## Is the end of suffering the most important thing?
 

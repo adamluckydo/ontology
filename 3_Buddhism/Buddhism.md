@@ -193,7 +193,9 @@ In day-to-day life, the Buddha recommended practicing generosity at every opport
 
 It _is_ a bit funny (but not contradictory) how the Buddha preached generosity while living on alms.
 
-And in meditation, the Buddha recommended eight states of meditative collectedness and bliss he called the "Jhanas". There are four "form" Jhanas, in which you can still sense your body, but in which the entire felt sense of the body becomes unified. In that unified sensation, each Jhana has a prominent factor:
+In meditation, the Buddha taught eight states of meditative collectedness and bliss he called the "Jhanas". These states are ordered: In each one, there is less clinging than in the previous one. And, as such, less fabrication of experience.
+
+There are four "form" Jhanas, in which you can still sense your body, but in which the entire felt sense of the body becomes unified. In that unified sensation, each Jhana has a prominent factor:
 
 - 1st Jhana: Pleasure
 - 2nd Jhana: Happiness
@@ -269,7 +271,7 @@ Technically, in Buddha Dharma, there are four stages of awakening, defined by te
 
 ![Abstract art of the self looking in a mirror](stream_entry.png)
 
-Awakening, stream entry, nonduality, pure being. There are many ways people describe it, but it comes down to one key point:
+Awakening, stream entry, nonduality, pure being, true self. There are many ways people describe it, but it comes down to one key point:
 
 After lots of practice paying close attention to experience in specific ways, suddenly you see, beyond a shadow of a doubt, that there is no "self", and there never was one.
 
