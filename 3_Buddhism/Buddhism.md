@@ -6,17 +6,26 @@ But I think his teachings are important, and I want more people to understand an
 
 ## Reasonings & Disclaimers
 
-There are endless arguments about who/what/when/where/why/how the Buddha's teachings should be offered. I am not a Buddhist scholar, nor even an "awakened" being, but I _have_ spent the past couple of years learning from books, dharma talks, and opinions of experienced meditators.
+There are endless arguments about who/what/when/where/why/how the Buddha's teachings should be offered. I am not a Buddhist scholar, nor even an "awakened" being, but I _have_ spent the past couple of years learning from books, dharma talks, and the opinions of experienced meditators.
 
 Based on my knowledge and my experience thus far, here's how I've decided to present things:
 
-1. English: Do you know Pali or Sanskrit? No? Then let's not add any more indirection into the mix. (If you do know Pali or Sanskrit, you probably know more than what I'm covering anyway)
+1. English: Do you know Pāli or Sanskrit? If not, let's not add any more layers of indirection into the mix. (If you do know Pāli or Sanskrit, you probably know more than what I'm covering anyway)
 
 2. Concept-based: Buddhism, unlike other religions, doesn't involve any supernatural deitites. Instead, the "religion" (which is really better described as a science or practice) is based on concepts that can be directly realized. Understanding those concepts at some level is crucial to understanding Buddhism as a whole.
 
 3. Goal-oriented: What exactly did the Buddha desire as the end result of practice? How did he teach people to get there?
 
-I have done my best to emphasize only things the Buddha himself actually taught. I'm also intentionally not going to go into arguments against any of his claims here. I want the Buddha's implicit beliefs to come through as clearly as possible, and I explicitly don't want to blunt that impact. Please, _PLEASE_ do not take any of this as meditation advice. Instead, stay tuned for the next parts `:)`
+I have done my best to emphasize only things the Buddha himself actually taught. I'm also intentionally not going to go into arguments against any of his claims here. I want the Buddha's implicit beliefs to come through as clearly as possible, and I explicitly don't want to blunt that impact. Please, _PLEASE_ do not take any of this as meditation advice. Instead, stay tuned for the next part `:)`
+
+Citations from the Pāli Canon (The Buddha's original teachings) are inlined as acronyms; the full sutta names are provided below for reference:
+
+- AN = Aṅguttara Nikāya
+- DN = Dīgha Nikāya
+- Dhp = Dhammapada
+- MN = Majjhima Nikāya
+- SN = Saṃyutta Nikāya
+- UD = Udāna
 
 ## The Buddha's Story
 
@@ -141,7 +150,7 @@ At first, these ideas may seem obvious, or unimportant at best. Of course things
 
 1. Nothing in our experience is fundamental. Put another way, there is no root cause that isn't also an effect of some other cause. It's all interconnected and cyclic. Imagine experience as an Ouroboros (a snake eating its own tail). Experience is digesting itself because there's nothing but itself to subsist on. This act feels both good (tasty tail) and bad (ouch my tail).
 
-2. Earlier, I mentioned that suffering is just clinging in response to phenomena, but actually that's only the second arrow. On a deeper level, the Buddha believed that the arising of any phenomena at all is suffering. The Ouroboros analogy explains it well: Good things aren't good in a vacuum; eventually the digester will become the digested. Thus, the only way to truly be free of all suffering is to prevent phenomena from arising at all.
+2. Earlier, I mentioned that suffering is just clinging in response to phenomena, but actually that's only the second arrow. On a deeper level, the Buddha saw that the arising of any phenomena at all involves suffering. The Ouroboros analogy explains it well: Good things aren't good in a vacuum; eventually the digester will become the digested. Thus, the only way to truly be free of all suffering is to prevent phenomena from arising at all.
 
 3. Every phenomenon has a specific set of causes that are conditions for it to arise. If we can remove even one of the causes, the effect will no longer arise. In our Ouroboros analogy, if we can take the tail out of the snake's mouth, it'll stop eating itself. And this is where everything that's been discussed comes together nicely: It turns out that clinging is _also_ the weakest link in the dependently originating cycle of arisings and passings away. Meaning: If you are able to relax your clinging to phenomena enough, they no longer arise at all.
 
@@ -183,7 +192,7 @@ As usual, the studious Buddha came up with solutions for both of these issues.
 The Buddha put a massive amount of emphasis on the importance of cultivating wholesome qualities. The Noble Eightfold path (the last of the Four Noble Truths) is basically just a guide for acting ethically and with love. He specifically focused on four types of love:
 
 - Kindness: Love for all beings
-- Joy: Happiness about good things
+- Joy: Happiness about life's blessings
 - Compassion: Care directed towards suffering
 - Equanimity: Peace in the face of everything
 
@@ -209,7 +218,9 @@ The last four Jhanas are the "formless" Jhanas, in which the sense of the body d
 - 7th Jhana: The realm of nothingness
 - 8th Jhana: The realm of neither perception nor non-perception
 
-By spending a lot of time working with the Jhanas, meditators can learn how to access abundant bliss independently of their external conditions. To people who aren't familiar with these states, even the possibility of their existence may sound crazy, but equally so is the Buddha's second thrust of practice, which is characterized by...
+And from the 8th Jhana, total cessation is a step away.
+
+By spending a lot of time working with the Jhanas, meditators can learn to relax their clinging and access abundant bliss independently of their external conditions. To people who aren't familiar with these states, even the possibility of their existence may sound crazy, but equally so is the Buddha's second thrust of practice, which is characterized by...
 
 ### The Five Aggregates and The Three Characteristics
 
@@ -279,7 +290,7 @@ And it's not that the self is "lost", or "eradicated". Your personality and inte
 
 After releasing the vicegrip of the self, "you" are no longer the one behind your eyes, controlling and receiving experience. Instead, you just experience the unlimited expanse of awareness without a subjective reference point, which is actually exactly how it's always been.
 
-And in knowing that the self is no more than a fictional narrative, craving or aversion lose their power, since there's no "you" to be helped or harmed by any outcome. Suffering: Ended.
+And in knowing that the self is no more than a fictional narrative, craving and aversion lose their power, since there's no "you" to be helped or harmed by any outcome. Second arrow: Gone.
 
 But wait, wouldn't that just turn you into an apathetic lump?
 

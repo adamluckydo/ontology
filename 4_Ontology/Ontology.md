@@ -6,29 +6,50 @@ Wow Adam, that essay on Buddhism was pretty cool! But unfortunately:
 - I get it, but it's all bullshit
 - I get it, but I hate it
 - Why would you waste so much time on this, you poor soul
-- I simply could not give a single rat's ass about any of this, but I'm still reading because I like you
 
-If any of these are you, then you're not alone: I have felt almost all of these things over the past few years. And now, this post is the culmination of all of my questions, concerns, investigations, and conclusions.
+If any of these are you, then you're not alone: I have felt literally all of these things over the past few years. Yet, from where I stand now, the time I spent digging around The Buddha's rabbithole feels worth it and then some. And now, this post is the culmination of all of my questions, concerns, investigations, and conclusions.
 
-But first, a _massive_ content warning: **If you are negatively affected by hearing about other people's bad experiences, stop reading now!**
+But first, a _massive_ content warning: **This post will cover some scary experiences and ontological viewpoints. Read at your own discretion!**
 
 ![Rob Burbea meme](burbea.png)
 
 Burbea meme by [Aaron Nesmith-Beck](https://twitter.com/anesmithbeck/status/1728204114528698845)
 
-## Do I believe The Buddha?
+## Hold up, can you summarize that last post?
 
-I do believe the Buddha was absolutely correct. When I had my very first deep meditative "breakthrough", this is the note I wrote myself:
+If you didn't read the last post, or didn't fully grok what I was trying to convey, no worries. For the purposes of this essay, there are just a few main points you need to know.
+
+1. The Buddha saw that death was inevitable, and wanted a way to escape that suffering for good
+2. The Buddha investigated his own experience and discovered some things:
+    - When he experienced suffering, it was actually the mental motion of "clinging".
+    - As he relaxed his clinging, experience itself would fade and eventually cut out entirely.
+    - Upon fully awakening, he saw that experience is "empty": It only exists dependent on clinging.
+    - He also realized that, in seeing the emtpiness of experience, he did not cling to it.
+3. The Buddha spread his teachings to help other people understand the truth he had awakened to and reach the end of suffering themselves.
+4. The goal of this positive reinforcement cycle of relaxing clinging and seeing emptiness is "Nirvana": Permanent freedom from suffering and the cycle of birth, death, and rebirth (Samsara).
+
+And if you're still wondering what Nirvana is, I don't have a better answer for you. It's not existence, it's not _nonexistence_, it's not both, and it's not neither. It's entirely beyond concepts, but apparently it's pretty good stuff.
+
+## Was The Buddha Correct?
+
+Well, his teachings are very falsifiable. If you were to do the same investigation into your own experience as The Buddha did, and you found different results, you could know that he's a fraud. But for the past two and a half millenia, countless individuals have followed his teachings and found that they were 100% correct, so it's hard to argue that he was just making stuff up.
+
+As for myself: This is a note I wrote myself after one of my meditative 
+
 
 ![The Buddha is right](realization.png)
 
-After that was when I attempted to blast my way through to enlightenment using... alternative means. And I was simply and utterly unprepared for what hit me:
+
+ When I attempted to blast my way through to enlightenment using "alternative" means, this is what happened:
 
 ![The terror and misery at touching on a universal truth](realization2.png)
 
-**"In the moment, I would have rather suffered a full lifetime's normal suffering rather than have to live with the truth in the frame in which it was presented."** This is a **very** important point; it's the whole point of this essay, even.
+**"In the moment, I would have rather suffered a full lifetime's normal suffering rather than have to live with the truth in the frame in which it was presented."** This is a **very** important point; In fact, it's the whole point of this essay.
 
 **Suffering is contingent on the frame, and the frame is malleable.**
+
+
+
 
 ![Takeaways: Your mind creates your reality, be unwaveringly loving, and you are okay the way you are right now.](realization3.png)
 
@@ -42,7 +63,7 @@ So I've decided: If I'm going to talk about Buddhism at all, I have to give peop
 
 Idea of Minimum Viable Content taken from [Visakan Veerasamy's blog](https://medium.com/@visakanv/minimum-viable-content-real-talk-about-content-marketing-and-the-four-mistakes-youll-make-29b3088168fe)
 
-So now that I've covered a vertical slice of Buddhism, I can finally talk about what I want to talk about.
+In the previous post, I covered a vertical slice of Buddhism. Now I can talk about what I want to talk about.
 
 ## Where Buddhism goes Wrong
 
@@ -56,19 +77,55 @@ But just because the Buddha was a genius for his time: Does that not mean any ot
 
 `>` Copernicus comes up with the theory of heliocentrism
 
-`>` Made-up guy that actually supported a scientist _during_ his time instead of after it: "Copernicus figured out that everything revolves around the sun! All of the math adds up, he's a genius. Now we know that the sun is the center of the universe!"
+`>` Made-up guy: "Copernicus figured out that everything revolves around the sun! All of the math adds up, he's a genius. Now we know that the sun is the center of the universe!"
 
-`>` Copernicus' discoveries help the world
+`>` Copernicus' discoveries help the world (mostly after his time)
 
 `>` Decades pass
 
 `>` Kepler proposes that planets orbit the sun ellipticaly instead of circularly
 
-`>` Made-up guy A (I like him): "I'm super thankful for Copernicus; he laid the groundwork which allowed Kepler to improve on his findings even further"
+`>` Another made-up guy (I like him): "I'm super thankful for Copernicus; he laid the groundwork which allowed Kepler to improve on his findings even further"
 
-`>` Made-up guy B (I like him less): "NO! Copernicus was RIGHT. Clearly the planets revolve around the sun. If you're saying that his findings can be improved upon, you must be saying he was wrong in some way."
+`>` One more made-up guy (I like him less): "NO! Copernicus was RIGHT. Clearly the planets revolve around the sun. If you're saying that his findings can be improved upon, you must be saying he was wrong in some way."
 
 Rob Burbea is an emptiness teacher of the modern day, and I would argue that his teachings, which are based on Nagarjuna, have surpassed the Buddha's. The Buddha did not go far enough. Mahayana: Everything is empty, even nirvana.
+
+## All Ways of Looking are Empty
+
+When there is experience, there is a way of looking at that expereince.
+
+Instead of seeing "through" the illusion of self, you're seeing "as" not self, which is a way of looking just like seeing "as" the self is. It's not that one is more "real" than the other.
+
+If you want to see the emptiness of all things and be free from suffering: Ways of looking (Buddha dharma)
+If you want to open to deeper depths of love and desire: Ways of looking (Soulmaking dharma)
+
+What the Buddha awakened to was the emptiness of all things. The reason the Buddha taught "suffering and the end of suffering" was because awakening to emptiness _is_ the end of suffering. The way in which we awaken to that can look a billion different ways, but Buddhism, and all of its branches, and anything else that attempts to reach the truth of reality, converge on this point.
+
+But is the end of suffering the point?
+
+## Is "Nirvana" actually an "end goal"?
+
+The second-most famous Buddhist teacher, Nagarjuna, became famous due to his expansions on the teachings of emptiness. A couple of quotes:
+
+"There exists no distinction at all between samsara and nirvana." (Mūlamadhyamakakārikā 25:19)
+
+"Those who do not see reality conceive samsara and nirvana; those who see reality conceive neither samsara and nirvana." (Yuktisastika)
+
+The Buddha tended to speak of nirvana as an "ultimate goal"; an end to the cycle of rebirth. But... to speak of nirvana as a real goal, one that can be attained, is to reify it. Nagarjuna states that, if emptiness is _actually_ observed, even nirvana (permanent cessation) will be seen as just as empty as the world of appearances (samsara). So where does that leave us?
+
+"Because everything is unconditioned, unproduced, and non-existent... all [phenomena] are the same as enlightenment." (Saptaśatikā Prajñāpāramitā Sūtra)
+
+If everything is empty, then _any_ view is empty, even the view of emptiness.
+
+So if it's all empty, what's the point of even doing _any_ of this investigation and practice in the first place?
+
+I think Rob Burbea puts it well in the last words of his book, _Seeing that Frees_:
+
+"When there is insight, we know that how and what we see are not simply givens, but are the colourable and malleable, magical, material of empty appearances.
+
+There is space here, and space for reference and devotion. When we see the void -- the open and groundless nature of all things, the inseparability of appearances and emptiness -- we recognize anyway just how profound is our participation in this magic of appearances. Then whether fabrication, which is empty, is consciously intended in a certain direction or not, the heart bows to the fathomless wonder and beauty of it all. It can be touched by an inexhaustible amazement, touched again and again by blessedness and relief. In knowing fully the thorough voidness of this and that, of then and now, of there and here, this heart opens, over and over in joy, in awe and release. Free itself, it knows the essential freedom in everything."
+
 
 ## My Theory on "Why" (Religion)
 
@@ -82,6 +139,14 @@ We cannot escape the trappings of the culture we grew up in. If you live in the 
 2. There is work to be done because you are a sinner
 3. It is possible to be free of sin (e.g. John 3:16 "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.")
 4. The path to becoming free of sin is to follow the word of Jesus Christ, to do work in God's name
+
+Do I believe this? Not really.
+
+What I believe is not really based on any religion. It's just a result of listening to people who seem to be more in touch with life than me, judging them over and over again, putting my judgements aside and listening some more, trying to practice what I've learned, failing, trying some more, failing some more, and then one day, without really realizing when, I'm suddenly doing things less out of fear, and more out of love. And with that love has come a strength to face the suffering head-on, and an ability to somehow see it all as worth it. I am not just this mind, or this body. I'll never reach my goals, but it's enough to try.
+
+I am really just passing through this life. None of it is mine; I didn't make it, and I don't get to keep it. Yet I get to experience it nonetheless, and the only way I can repay that is with love. Kindness to everyone I encounter, even though I'll fail. Joy at the magic of it all, even though I'll take it for granted. Compassion to everyone else who still suffers, including myself. And equanimity, because the space in which all of this is appearing was here before I lived, and will exist after I'm gone.
+
+I am a [Bodhisattva](https://hermesamara.org/resources/talk/2008-02-12-the-birth-of-a-bodhisattva).
 
 ## Buddhism vs. Science
 
@@ -394,27 +459,7 @@ If you don't fall into any of these camps, then what?
 
 It's taken me up until... just about now, actually, to finally stop being scared of meditation post-incident.
 
-## Is "Nirvana" actually an "end goal"?
 
-The second-most famous Buddhist teacher, Nagarjuna, became famous due to his expansions on the teachings of emptiness. A couple of quotes:
-
-"There exists no distinction at all between samsara and nirvana." (MMK 25:19)
-
-"Those who do not see reality conceive samsara and nirvana; those who see reality conceive neither samsara and nirvana." (Yuktisastika)
-
-The Buddha tended to speak of nirvana as an "ultimate goal"; an end to the cycle of rebirth. But... to speak of nirvana as a real goal, one that can be attained, is to reify it. Nagarjuna states that, if emptiness is _actually_ observed, even nirvana (permanent cessation) will be seen as just as empty as the world of appearances (samsara). So where does that leave us?
-
-"Because everything is unconditioned, unproduced, and non-existent... all [phenomena] are the same as enlightenment." (Saptaśatikā Prajñāpāramitā Sūtra)
-
-If everything is empty, then _any_ view is empty, even the view of emptiness.
-
-So if it's all empty, what's the point of even doing _any_ of this investigation and practice in the first place?
-
-I think Rob Burbea puts it well in the last words of his book, _Seeing that Frees_:
-
-"When there is insight, we know that how and what we see are not simply givens, but are the colourable and malleable, magical, material of empty appearances.
-
-There is space here, and space for reference and devotion. When we see the void -- the open and groundless nature of all things, the inseparability of appearances and emptiness -- we recognize anyway just how profound is our participation in this magic of appearances. Then whether fabrication, which is empty, is consciously intended in a certain direction or not, the heart bows to the fathomless wonder and beauty of it all. It can be touched by an inexhaustible amazement, touched again and again by blessedness and relief. In knowing fully the thorough voidness of this and that, of then and now, of there and here, this heart opens, over and over in joy, in awe and release. Free itself, it knows the essential freedom in everything."
 
 ## What other assumptions are buried under this mess?
 
