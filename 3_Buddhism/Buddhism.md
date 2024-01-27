@@ -25,7 +25,7 @@ Citations from the Pāli Canon (The Buddha's original teachings) are inlined as 
 - Dhp = Dhammapada
 - MN = Majjhima Nikāya
 - SN = Saṃyutta Nikāya
-- UD = Udāna
+- Ud = Udāna
 
 ## The Buddha's Story
 
@@ -253,7 +253,7 @@ The five aggregates view is also depersonalizing: If things are just "aggregates
 In order to end suffering once and for all, drastic measures must be taken. Specifically, adopting lenses that cast experience in a less-than-appealing light. Or, the Buddha would argue, an accurate light. These lenses are:
 
 1. Impermanence: Everything changes, nothing lasts
-2. Unsatisfactoriness (highly contended translation): Phenomena is "a bummer", or "not quite it", or, if you're really hardcore, "suffering"
+2. Unsatisfactoriness (highly contended translation): Phenomena is "a bummer", or "not quite it", or, if you're really hardcore, "suffering". Often referred to by the original Pali term: "Dukkha"
 3. Non-self: No phenomena is "I" or "me" or "mine". That is, there is no agent owning, controlling, or even witnessing phenomena. There is just experience.
 
 Sound a bit... bleak? Maybe this Buddha guy needed a good karaoke night.
@@ -264,9 +264,9 @@ Sound a bit... bleak? Maybe this Buddha guy needed a good karaoke night.
 
 There's a quote from him that goes:
 
-"Monks, suppose there was a man whose life span was 100 years, who would live to 100. Someone would say to him, ‘Look here, fellow. They will stab you at dawn with 100 spears, at noon with 100 spears, & again at evening with 100 spears. You, thus stabbed day after day with 300 spears, will have a lifespan of 100 years, will live to be 100, and at the end of 100 years you will realize the four noble truths that you have never realized before.’
+"Monks, suppose there was a man whose life span was 100 years, who would live to 100. Someone would say to him, ‘Look here, fellow. They will stab you at dawn with 100 spears, at noon with 100 spears, & again at evening with 100 spears. You, thus stabbed day after day with 300 spears, will have a lifespan of 100 years, will live to be 100, and at the end of 100 years you will realize the Four Noble Truths that you have never realized before.’
 
-"Monks, a person who desired his own true benefit would do well to take up [the offer]... if this were to occur, I tell you that the realization of the four noble truths would not be accompanied by pain & distress. Instead, I tell you, the realization of the four noble truths would be accompanied by pleasure & happiness." (SN 56:35)
+"Monks, a person who desired his own true benefit would do well to take up [the offer]... if this were to occur, I tell you that the realization of the Four Noble Truths would not be accompanied by pain & distress. Instead, I tell you, the realization of the Four Noble Truths would be accompanied by pleasure & happiness." (SN 56:35)
 
 Damn. What is this awakening then, and how is it _that_ good?
 
@@ -336,6 +336,6 @@ From the Buddha:
 
 “Deep is this Dharma, hard to see, hard to realize, peaceful and refined, beyond the scope of conjecture, subtle, to be experienced by the wise. For those with other views, other practices, other satisfactions, other aims, other teachers, it is difficult to know.” (MN 72 18.1)
 
-"There is that dimension, monks, where there is neither earth, nor water, nor fire, nor wind; neither dimension of the infinitude of space, nor dimension of the infinitude of consciousness, nor dimension of nothingness, nor dimension of neither perception nor non-perception; neither this world, nor the next world, nor sun, nor moon. And there, I say, there is neither coming, nor going, nor staying; neither passing away nor arising. It is without foundation. It continues not. This, just this, is the end of suffering." (UD 8.1)
+"There is that dimension, monks, where there is neither earth, nor water, nor fire, nor wind; neither dimension of the infinitude of space, nor dimension of the infinitude of consciousness, nor dimension of nothingness, nor dimension of neither perception nor non-perception; neither this world, nor the next world, nor sun, nor moon. And there, I say, there is neither coming, nor going, nor staying; neither passing away nor arising. It is without foundation. It continues not. This, just this, is the end of suffering." (Ud 8.1)
 
 “Where all phenomena cease, there all ways of speaking cease.” (SN 5.6)

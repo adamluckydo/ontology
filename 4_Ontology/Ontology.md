@@ -9,7 +9,7 @@ Wow Adam, that essay on Buddhism was pretty cool! But unfortunately:
 
 If any of these are you, then you're not alone: I have felt literally all of these things over the past few years. Yet, from where I stand now, the time I spent digging around The Buddha's rabbithole feels worth it and then some. And now, this post is the culmination of all of my questions, concerns, investigations, and conclusions.
 
-But first, a _massive_ content warning: **This post will cover some scary experiences and ontological viewpoints. Read at your own discretion!**
+But first, a _massive_ content warning: **This post will cover some very unsettling ontological viewpoints. Read at your own discretion!**
 
 ![Rob Burbea meme](burbea.png)
 
@@ -24,107 +24,163 @@ If you didn't read the last post, or didn't fully grok what I was trying to conv
     - When he experienced suffering, it was actually the mental motion of "clinging".
     - As he relaxed his clinging, experience itself would fade and eventually cut out entirely.
     - Upon fully awakening, he saw that experience is "empty": It only exists dependent on clinging.
-    - He also realized that, in seeing the emtpiness of experience, he did not cling to it.
+    - He also realized that, in fully seeing the emtpiness of experience, he did not cling to it.
 3. The Buddha spread his teachings to help other people understand the truth he had awakened to and reach the end of suffering themselves.
 4. The goal of this positive reinforcement cycle of relaxing clinging and seeing emptiness is "Nirvana": Permanent freedom from suffering and the cycle of birth, death, and rebirth (Samsara).
 
 And if you're still wondering what Nirvana is, I don't have a better answer for you. It's not existence, it's not _nonexistence_, it's not both, and it's not neither. It's entirely beyond concepts, but apparently it's pretty good stuff.
 
-## Was The Buddha Correct?
-
-Well, his teachings are very falsifiable. If you were to do the same investigation into your own experience as The Buddha did, and you found different results, you could know that he's a fraud. But for the past two and a half millenia, countless individuals have followed his teachings and found that they were 100% correct, so it's hard to argue that he was just making stuff up.
-
-As for myself: This is a note I wrote myself after one of my meditative 
-
-
-![The Buddha is right](realization.png)
-
-
- When I attempted to blast my way through to enlightenment using "alternative" means, this is what happened:
-
-![The terror and misery at touching on a universal truth](realization2.png)
-
-**"In the moment, I would have rather suffered a full lifetime's normal suffering rather than have to live with the truth in the frame in which it was presented."** This is a **very** important point; In fact, it's the whole point of this essay.
-
-**Suffering is contingent on the frame, and the frame is malleable.**
-
-
-
-
-![Takeaways: Your mind creates your reality, be unwaveringly loving, and you are okay the way you are right now.](realization3.png)
-
 ## Why am I telling you all of this?
 
-When I first learned about Buddhism, it was very gradual. It took me quite a while to put the pieces together as I attempted to do in my last post. And when you put the pieces together gradually, you will inevitably have some missing pieces. Practicing Buddhism with an incomplete picture is like trying to sit on a stool that only has two legs: You _will_ fall over, and it _will_ be undignified.
+When I first learned about Buddhism, it was very gradual. It took me quite a while to put the pieces together as I attempted to do in my last post. And when you put the pieces together gradually, you will inevitably have some missing pieces. Engaging with an incomplete picture of Buddhism is like trying to sit on a stool that only has two legs: You _will_ fall over, and it _will_ be undignified.
 
 So I've decided: If I'm going to talk about Buddhism at all, I have to give people a vertical slice:
 
 ![Minimum Viable Content: A vertical slice of everything](mvc.jpg)
 
-Idea of Minimum Viable Content taken from [Visakan Veerasamy's blog](https://medium.com/@visakanv/minimum-viable-content-real-talk-about-content-marketing-and-the-four-mistakes-youll-make-29b3088168fe)
+Image taken from [Visakan Veerasamy's blog](https://medium.com/@visakanv/minimum-viable-content-real-talk-about-content-marketing-and-the-four-mistakes-youll-make-29b3088168fe)
 
-In the previous post, I covered a vertical slice of Buddhism. Now I can talk about what I want to talk about.
+In the previous post, I covered a vertical slice of Buddhism. Now I can talk about what I really want to talk about.
+
+**Final content warning.**
+
+## Was The Buddha Correct?
+
+Buddhism is very falsifiable. Over the last two and a half millenia, anyone _could_ have run the same experiments the Buddha did and outed him as a fraud, but so far he appears to have been 100% correct about the nature of experience.
+
+But if the Buddha is correct, then experience itself is _literally_ made of little bits of suffering. And a lot of people can not, or will not, accept that, for obvious reasons. But that "first arrow" of perception is indeed an arrow. It's a known phenomenon in medititation, when in seeing the texture of phenomena clearly, people simply cannot handle it. That was exactly what happened to me. And when I saw it, I knew the Buddha was right. This was the note I left to myself:
+
+![The Buddha is right](realization.png)
+
+So that's it then? The culmination of this whole series is just that "life is suffering, so let's escape"?
+
+It _can_ be the end, if you want it to be.
+
+...
+
+There's no option but to go through the bad to get the good.
+
+Remember when I said I didn't have a better answer about what Nirvana was? I was lying `>:)`
+
+Nirvana, translated literally, means "blowing out". In this case, blowing out, or extinguishing, the fires of desire, aversion, and ignorance.
+
+And if you read the Four Noble Truths, it's pretty easy to draw the conclusion that those three things are the root of all suffering. Therefore, the Buddha must think desire is bad... right?
+
+## The Buddha and Desire
+
+2500 years ago, transcending life itself was a hot topic in Indian culture. Karma, rebirth, and liberation from Samsara were nothing new. To them, teachings like The Five Aggregates and The Three Characteristics would seem like just another day in the office. Nirvana and Moksha: Pen pals. What I'm trying to get at here is that the Buddha's teachings were a product from and for his time. They grew out of the culture's existing beliefs and encouraged people along the lines of their deepest spiritual desires.
+
+If you don't believe me, maybe you'll believe the Buddha himself. You might have previously been aware of the Four Noble Truths, and maybe the Noble Eightfold Path, but are you aware of The Four Bases of Power? They are:
+
+1. Desire
+2. Effort
+3. Focus
+4. Inquiry
+
+And the Buddha says:
+
+"Whoever develops [whoever cultivates, whoever gives attention to] these four bases of power gives attention to and develops the eightfold path [the path to the ending and to liberation. And] whoever neglects these four bases of power neglects the eightfold path [neglects the way, forsakes the way to liberation]." (Saṃyutta Nikāya 51:21)
+
+The Buddha noted these qualities specifically with respect to making progress on the path. Meaning: To free yourself from desire, you need desire. So if you don't actually have the desire to follow the Buddha's path, you won't really want to put the effort in, your focus in meditation will be poor, and you won't be curious enough to investigate your experience enough to actually reach any sort of awakening.
+
+Now, knowing that, let's jump forward a couple thousand years, and across the globe.
 
 ## Where Buddhism goes Wrong
 
-Here's an excerpt from one of the talks Rob Burbea gave at a [2008 retreat](https://hermesamara.org/resources/talk/2008-12-28-the-meaning-of-refuge):
+Here's an excerpt from a talk Rob Burbea gave at a [2008 retreat](https://hermesamara.org/resources/talk/2008-12-28-the-meaning-of-refuge):
 
 > One of my teachers, Ajaan Geoff, said the path is based on a sense of fear, which when I first heard it, I was like, "Wow, that's really odd." Actually to have a very alive sense of danger and fear, it's a requirement for refuge. So the Buddha would encourage these kind of reflections, reflections on ageing, reflections on the fact of sickness, reflections on death, reflections on loss, on the inevitable growing separate from what and who we love. This is the nature of things, and so he said one should reflect, "I am subject to ageing, subject to sickness, subject to death, subject to loss. I have not gone beyond ageing, sickness, death." To really reflect on this. And then to reflect further: "I am not the only one subject to ageing, sickness, death, etc. All beings are subject to ageing, have not gone beyond ageing, sickness, death, loss."
 
-2500 years ago, Indian culture was about transcending life. To them, ways of looking like The Five Aggregates and The Three Characteristics, if taken in a religious context, would be desirable. The Buddha's teachings were perfect for his time because they were built around helping people to follow their deepest desires.
+I don't know about you, but reading that doesn't exactly get me fired up to practice.
 
-But just because the Buddha was a genius for his time: Does that not mean any other human can improve on his teachings? Imagine a scenario where we treated scientists that way:
+The Buddha was undeniably a genius. So much so that his original teachings are still potent to this day.
 
-`>` Copernicus comes up with the theory of heliocentrism
+Yet here we are, thousands of years later, and almost every western Buddhist teaching you encounter will gently skip over the dirty bits, like how the Buddha _despised_ phenomena. Want to know how he described the Five Aggregates? “Inconstant, dukkha, a disease, a boil, an arrow, misery, an affliction, alien, a disintegration, empty, not-self” (Aṅguttara Nikāya 9:36). When westerners hear this, their default reaction is to recoil and label the Buddha as being "anti-life". And I can't really disagree with that. The Buddha was not "against life" per se, but he _was_ against suffering. And since life was composed of phenomena that are not free of suffering, that was that.
 
-`>` Made-up guy: "Copernicus figured out that everything revolves around the sun! All of the math adds up, he's a genius. Now we know that the sun is the center of the universe!"
+But clearly, the context for receiving his teachings has changed. Is the only answer to feed everyone a watered-down soup of Buddhist pleasantries and ignore the hard bits? Or do we softies just have to buckle down and ride the fear-coaster into the end of existence?
 
-`>` Copernicus' discoveries help the world (mostly after his time)
+What if there's another answer?
 
-`>` Decades pass
+## Nagarjuna
 
-`>` Kepler proposes that planets orbit the sun ellipticaly instead of circularly
+The second-most famous Buddhist teacher, Nagarjuna, lived 500 years after the Buddha. His works tore apart any possible argument for the inherent existence of any phenomena, furthering the Buddha's original teachings on emptiness. I won't cover the specifics of his arguments here, but have a gander at these quotes:
 
-`>` Another made-up guy (I like him): "I'm super thankful for Copernicus; he laid the groundwork which allowed Kepler to improve on his findings even further"
+"There exists no distinction at all between Samsara and Nirvana." (Mūlamadhyamakakārikā 25:19)
 
-`>` One more made-up guy (I like him less): "NO! Copernicus was RIGHT. Clearly the planets revolve around the sun. If you're saying that his findings can be improved upon, you must be saying he was wrong in some way."
+"Those who do not see reality conceive Samsara and Nirvana; those who see reality conceive neither Samsara and Nirvana." (Yuktisastika)
 
-Rob Burbea is an emptiness teacher of the modern day, and I would argue that his teachings, which are based on Nagarjuna, have surpassed the Buddha's. The Buddha did not go far enough. Mahayana: Everything is empty, even nirvana.
+"Because everything is unconditioned, unproduced, and non-existent... all [phenomena] are the same as enlightenment." (Saptaśatikā Prajñāpāramitā Sūtra)
 
-## All Ways of Looking are Empty
+But wait... the Buddha tended to speak of Nirvana as an "ultimate goal"; an end to the cycle of rebirth. But to treat it as a real goal, one that can be attained in any real way, invalidates his own doctrine of emptiness. Nagarjuna states that, if emptiness is _actually_ observed, even Nirvana will be seen as just as empty (so not to be craved) as the world of phenomena. So where does that leave us?
+
+If everything is empty, then _any_ view is empty, even the view of emptiness, and any need to reach it.
+
+So if it's all empty, what's the point of even doing _any_ of this investigation and practice in the first place?
+
+## Rob Burbea
 
 When there is experience, there is a way of looking at that expereince.
 
+"It's impossible to have a moment of consciousness, a moment of perceiving anything, of experiencing anything, a moment of anything appearing without there being a way of looking. We cannot rest from a way of looking. Actually, not even the Unfabricated, not even a cessation of perception of feeling is really, technically, a rest from a way of looking. Anything we see, sense, anything we sense at all, anything we experience at all, is always experienced through a way of looking." - Rob Burbea, [Emptiness and Ways of Looking](https://hermesamara.org/resources/talk/2020-02-11-emptiness-and-ways-of-looking)
+
+(Read: Dukkha = Suffering):
+
+"How much of my dukkha right now is coming in relation to there's something I really deeply love, and it's just frustrating not to be there, not to have that opening, not to reach it, but it's in relation to something I deeply love? And how much of my dukkha is actually just a kind of propensity for negative self-view, which could latch itself onto all kinds of things? If I put myself in another situation where we're emphasizing again and again and again something else, that thing gets charged, this practice, that practice, this thing, that thing, and other people around, and then the self gets constructed, as I said before, in relation to that charged thing through repetition, through environment, and then the propensity for the self to get constructed with a negative self-view in relation to that thing -- how much of my dukkha is that kind of dukkha, and how much of my dukkha is the other kind? I don't need to know in percentages, but in terms of practice, it's more like, is it possible at times to focus on the former, on the real, deep desire?
+
+...
+
+So there's a kind of potential alchemy here through the dukkha, but I have to, again, discriminate, discern: which threads am I following here? Desire is hard. It's hard. If I say "yes" to desire, I'm saying "yes" to -- the Buddha's analogy -- a burning coal. Either I throw that burning coal away, or I learn how to relate to it, and I tolerate my burning. And where there's burning, there's beauty, and even blessing, benediction, and gift. But I have to find the right way to let myself be on fire, let that fire burn in me, let that desire move in me, in a way that's actually fruitful. Some of that takes quite fine discernment through the pain." - Rob Burbea, [True to Your Deepest Desires](https://hermesamara.org/resources/talk/2019-12-26-true-to-your-deepest-desires-talk-and-short-guided-meditation)
+
+
+
 Instead of seeing "through" the illusion of self, you're seeing "as" not self, which is a way of looking just like seeing "as" the self is. It's not that one is more "real" than the other.
 
-If you want to see the emptiness of all things and be free from suffering: Ways of looking (Buddha dharma)
-If you want to open to deeper depths of love and desire: Ways of looking (Soulmaking dharma)
+If you want the fullest, deepest, widest, liberation: Ways of looking (Buddha dharma)
+If you want to open to the deepest depths of love and desire: Ways of looking (Soulmaking dharma)
+If you want the deepest, richest, widest, sense of meaningfulness and beauty: Ways of Looking
+
+What way of looking is happening when those senses are around?
+Practicing those ways of looking improves the sense of those things, and opens the possibility of developing those ways of looking further.
+
+At the beginning, _don't_ presuppose the conclusion of emptiness. The goal is not to just know one more thing, and it's not even to "reach" a final way of looking. It's a continuous, experiential and experimental approach to finding what moves life in the directions we find most important.
+
+It's important to be clear on emptiness: Emptiness does not mean that _really_ everything is just a big, empty space, and therefore we should be nihilistic because nothing exists. And Emptiness _also_ doesn't mean that everything is just a process of the five aggregates in time.
+
+Until you have an experienced understanding of emptiness, the conceptual understanding of it should really be of how it functions. That is, via dependent origination. Nothing exists independently of the conditions that brought it about. And applying the Ways of Looking approach teaches us to see how certain conditions (e.g. generosity) result in certain outcomes (more freedom and love). In this way, we learn to see that things are empty, not in the sense that they are nonexistent or meaningless, but that nothing is set in stone.
 
 What the Buddha awakened to was the emptiness of all things. The reason the Buddha taught "suffering and the end of suffering" was because awakening to emptiness _is_ the end of suffering. The way in which we awaken to that can look a billion different ways, but Buddhism, and all of its branches, and anything else that attempts to reach the truth of reality, converge on this point.
 
 But is the end of suffering the point?
 
-## Is "Nirvana" actually an "end goal"?
+If you recall, craving and aversion are the causes for suffering. But "craving" is just a really unflattering way to say "desire". So it would be accurate to say that "if there is desire, there is suffering". And if we take the (equivalent) contrapositive of that: "If there is no suffering, there is no desire".
 
-The second-most famous Buddhist teacher, Nagarjuna, became famous due to his expansions on the teachings of emptiness. A couple of quotes:
+In other words, suffering is the price of being able to experience beauty, love, and meaning, paid upfront.
 
-"There exists no distinction at all between samsara and nirvana." (Mūlamadhyamakakārikā 25:19)
+In the seeing of emptiness, in _really_ knowing the emptiness of all things, a freedom of the deepest sort is available to us.
 
-"Those who do not see reality conceive samsara and nirvana; those who see reality conceive neither samsara and nirvana." (Yuktisastika)
+If you wanted to, "you" could never have a problem again. The Buddha laid out the path exquisitely. It's been followed before, and you can follow it too.
 
-The Buddha tended to speak of nirvana as an "ultimate goal"; an end to the cycle of rebirth. But... to speak of nirvana as a real goal, one that can be attained, is to reify it. Nagarjuna states that, if emptiness is _actually_ observed, even nirvana (permanent cessation) will be seen as just as empty as the world of appearances (samsara). So where does that leave us?
+And, if you wanted, you could achieve eternal perfection; a universe unblemished by suffering of any kind.
 
-"Because everything is unconditioned, unproduced, and non-existent... all [phenomena] are the same as enlightenment." (Saptaśatikā Prajñāpāramitā Sūtra)
+But the question is: What is it that you really, most deeply, want?
 
-If everything is empty, then _any_ view is empty, even the view of emptiness.
+...
 
-So if it's all empty, what's the point of even doing _any_ of this investigation and practice in the first place?
+As for myself: I want to touch reality as deeply as possible. Even knowing that I _am_ empty, all of my experiences are empty, and I can't know what will happen after this life ends. Yet right now, by some magic, that emptiness has shaped itself into me. At times I wish it hadn't, and at other times I feel unfathomably blessed that it has.  I'm along for the ride, so I aim to make it as good as possible.
 
-I think Rob Burbea puts it well in the last words of his book, _Seeing that Frees_:
+Rob Burbea puts it well in the last words of his book, _Seeing that Frees_:
 
 "When there is insight, we know that how and what we see are not simply givens, but are the colourable and malleable, magical, material of empty appearances.
 
-There is space here, and space for reference and devotion. When we see the void -- the open and groundless nature of all things, the inseparability of appearances and emptiness -- we recognize anyway just how profound is our participation in this magic of appearances. Then whether fabrication, which is empty, is consciously intended in a certain direction or not, the heart bows to the fathomless wonder and beauty of it all. It can be touched by an inexhaustible amazement, touched again and again by blessedness and relief. In knowing fully the thorough voidness of this and that, of then and now, of there and here, this heart opens, over and over in joy, in awe and release. Free itself, it knows the essential freedom in everything."
+There is space here, and space for reverence and devotion. When we see the void -- the open and groundless nature of all things, the inseparability of appearances and emptiness -- we recognize anyway just how profound is our participation in this magic of appearances. Then whether fabrication, which is empty, is consciously intended in a certain direction or not, the heart bows to the fathomless wonder and beauty of it all. It can be touched by an inexhaustible amazement, touched again and again by blessedness and relief. In knowing fully the thorough voidness of this and that, of then and now, of there and here, this heart opens, over and over in joy, in awe and release. Free itself, it knows the essential freedom in everything."
+
+
+
+**"In the moment, I would have rather suffered a full lifetime's normal suffering rather than have to live with the truth in the frame in which it was presented."** This is a **very** important point; In fact, it's the whole point of this essay.
+
+**Suffering is contingent on the frame, and the frame is malleable.**
+
+![Takeaways: Your mind creates your reality, be unwaveringly loving, and you are okay the way you are right now.](realization3.png)
 
 
 ## My Theory on "Why" (Religion)
@@ -142,11 +198,25 @@ We cannot escape the trappings of the culture we grew up in. If you live in the 
 
 Do I believe this? Not really.
 
-What I believe is not really based on any religion. It's just a result of listening to people who seem to be more in touch with life than me, judging them over and over again, putting my judgements aside and listening some more, trying to practice what I've learned, failing, trying some more, failing some more, and then one day, without really realizing when, I'm suddenly doing things less out of fear, and more out of love. And with that love has come a strength to face the suffering head-on, and an ability to somehow see it all as worth it. I am not just this mind, or this body. I'll never reach my goals, but it's enough to try.
+What I believe is not really based on any religion. It's just a result of listening to people who seem to be more in touch with life than me, judging them over and over again, putting my judgements aside and listening some more, trying to practice what I've learned, failing, trying some more, failing some more, and then one day, without really realizing when, I'm suddenly doing things less out of fear, and more out of love. And with that love has come a strength to face more suffering head-on, and sometimes even an ability to see it all as worth it. I am not just this mind, or this body.
 
-I am really just passing through this life. None of it is mine; I didn't make it, and I don't get to keep it. Yet I get to experience it nonetheless, and the only way I can repay that is with love. Kindness to everyone I encounter, even though I'll fail. Joy at the magic of it all, even though I'll take it for granted. Compassion to everyone else who still suffers, including myself. And equanimity, because the space in which all of this is appearing was here before I lived, and will exist after I'm gone.
+I really am just passing through this life. None of it is mine; I didn't make it, and I don't get to keep it. Yet I get to experience it nonetheless, and the only way I can repay that is with love. Kindness to everyone I encounter, even though I'll fail. Joy at the magic of it all, even though I'll take it for granted. Compassion to everyone else who still suffers, including myself. And peace, because the space in which all of this is appearing was here before I lived, and will exist after I'm gone.
 
 I am a [Bodhisattva](https://hermesamara.org/resources/talk/2008-02-12-the-birth-of-a-bodhisattva).
+
+"So when there’s that collectedness, integrity of mind, energy, desire, body, at that point there’s
+power. I don’t mean power over; I mean power. The being has power. The person has power. And you
+can sense it in a person." - Rob Burbea, [Developing Piti, Developing Focus, Developing Wellbeing](https://hermesamara.org/resources/talk/2019-12-21-developing-piti-developing-focus-developing-wellbeing)
+
+## On Giving Love
+
+"You could search the entire universe for someone more deserving of loving-kindness than yourself, and you will not find that person. You will not find that being." (Ud 5.1)
+
+I probably have a solid 500 hours of meditation experience at this point. I've touched the Dark Night through psychedelics, I understand exactly _what_ I'm supposed to be doing when I meditate, but I've yet to see more than an inch or so of progress in my actual meditative skill. Meanwhile, people I know with less than 50 hours of practice are experiencing states of bliss they never thought possible. So what is it that I'm doing wrong?
+
+I did a 10-day Jhourney Jhana retreat in September of last year. As usual, I made basically no progress over the 30 hours of practice. In interviews, the theme that kept coming up was "control". Due to a variety of factors, my default mechanism to get through life is to handle everything by "managing" it. Socially: Manage people's emotions so nobody feels bad. Financially: Manage my money in a way that won't make me feel bad. Exercise: Do it so I won't feel bad (physically, or mentally, about myself). Meditation: I still don't know if there's a "thing" I'm doing wrong, but the only thing my brain feels safe doing is controlling things.
+
+If I'm really true to my values, my only option is to fight my natural inclination. The thing I want to do is not the most compassionate thing to do. I don't know what the point of life is, but I do know that it's not to arrive safely at death.
 
 ## Buddhism vs. Science
 
@@ -234,15 +304,45 @@ But Bohr was a bit of a philosopher. Maybe, despite his genius, he was also incl
 
 
 
+### Ontology
 
+> When I was in graduate school, I recall hearing “One starts as a materialist, then one becomes
+a dualist, then a panpsychist, and one ends up as an idealist”. I don’t know where this comes from, but I think the idea was something like this. First, one is impressed by the successes of science, endorsing materialism about everything and so about the mind. Second, one is moved by problem of consciousness to see a gap between physics and consciousness, thereby endorsing dualism, where both matter and consciousness are fundamental. Third, one is moved by the inscrutability of matter to realize that science reveals at most the structure of matter and not its underlying nature, and to speculate that this nature may involve consciousness, thereby endorsing panpsychism. Fourth, one comes to think that there is little reason to believe in anything beyond consciousness and that the physical world is wholly constituted by consciousness, thereby endorsing idealism.
 
+- David J. Chalmers
 
+Most of us "pick" our ontologies totally unconsciously. Family, friends, school, and society usually push us into believing whatever would be most accepted by our social circle. And it's unfortunate, since Ontology is totally unverifiable, and yet it has an extremely powerful effect on how we live our lives.
 
+To me, ontology is like one of those memes where you pick one based on totally arbitrary criteria. And so, I've created a "What's your Ontology" picker!
 
+Objective reality (Birth Month)...
 
+- Is exactly what we perceive (Materialism) - January / July
+- Is both mind and matter (Dualism) - February / August
+- Is made of consciousness (Panpsychism) - March / September
+- Doesn't exist (Idealism) - April / October
+- _REALLY_ doesn't exist (Buddhism) - May / November
+- Is all of the above, infinitely and cyclically - June / December
 
+God...
 
+- Doesn't exist
+- Is working through you
+- Is punishing you
+- Is teaching you
+- Is you
+- Is many different things
+- Is just playing it by ear
 
+And the point of it all...
+
+- Doesn't exist
+- Is to fulfill your duty
+- Is to enjoy it
+- Is to suffer
+- Is to create and discover
+- Is to love and be loved
+- Exists but is unknowable
 
 ___
 
@@ -319,45 +419,15 @@ All of these (and more) will be answered in this post.
 
 ## To do your duty as a human
 
-Here's an excerpt from [one of Rob Burbea's talks](https://hermesamara.org/resources/talk/2011-12-31-this-matter-of-emptiness):
-
-___
-
-So the most fundamental fact about anything at all, and the most fundamentally important fact about anything at all, any experience at all, is that it is dependent on how I'm looking, how I'm aware of it. And as I said, that means it's empty. And that's the most fundamental and fundamentally important fact about anything. So we talk, I and all the teachers, we talk about 'what is,' and 'being with what is,' and 'opening to what is,' and all that. But is what is, what is? What? [laughter] There is no objective reality that we arrive at. And if you know anything about, for instance, quantum physics, and the discoveries of the last century and ongoing, very similar discoveries. The way we look conjures what we see, at the most basic level of reality.
-
-Imagine going into a room. There's a person in the room, and they've got their back on the wall in a lot of fear. You just enter this room, and this person is stuck there with fear. And you think, "What on earth's going on?" And they say, "There's a wolf in the room." And you look -- I don't think this is going to work! You look at the wall, and you see -- can we have a little technical special effects? [laughter] No? Okay, leave it.
-
-Yogi: Turn the lights down!
-
-Rob: Just try the bottom ones at first, Annie, if you would, please. The bottom ones, yeah, thanks. Okay, let's try this. Aahhhh, it's a wolf! [laughter] Okay, and this person is terrified of the wolf. Can everyone see this scary wolf? [laughter] And you say, "Well, what's going on?" They say, "There's a wolf, but I'm being with the wolf. I'm being with the wolf, and I'm being with my fear, and I'm practising mindfulness, and I'm being with it." And you say, "... Okay." [laughter] And they're not seeing their other hand [creating the shadow of the wolf]. They're not seeing their other hand. They're stuck looking at the wolf. It's a silhouette, the hand shadow. If you're listening to this on tape, I was playing with a light and a hand shadow, and a terrifyingly realistic impression of a wolf. [laughter] They don't see their other hand. They don't see the fabrication that's going on, because I'm stuck looking at the wolf.
-
-Maybe 'being with' this wolf and being with my process with the wolf, maybe equanimity comes, and maybe patience comes. But ultimately the suffering won't be undermined. It won't be cut at the deepest level. Maybe I'm with the wolf and the wolf disappears. And maybe -- could we have the lights again? [laughter] Sorry, Annie. It's a busy night for you! Okay, the wolf disappears, and then a bunny rabbit comes! [laughter] Nice bunny rabbit. There we go. [laughter, applause] Thank you. And then bunny rabbit, aahhhh, huge relief. It's a bunny rabbit. How lovely! And basically what happens is phew, relief.
-
-But something has not been learnt. I haven't learnt anything. Just the next experience comes, without asking: how is it that the wolf appeared? How is it that the wolf disappeared? How is it that the bunny rabbit appeared and the bunny rabbit disappeared? And me, or you, as a person walking into that room, what's the most compassionate response? What's the most compassionate thing to say to this person? "Keep being with it"? Or "It's impermanent"? Or kind of, you know, "Maybe it's something releasing"?
-
-And this is where we go back to this thing about appropriateness. Don't forget what I said about that. But ultimately speaking, what's the most compassionate thing? We can learn to see the concocting, and that is the main purpose of meditation practice. The main, if we talk about the deeper thrust, it's to learn to see this concocting. If we do that, I don't know if some of you maybe had the thought, "Oh, that means it's my fault, because I'm projecting this and I'm doing that." And then there can come some judgment: "Oh, you're saying suffering is my fault." No, because not only is the self not real enough to be found fault with, but also this process of concoction is just what consciousness does. It's what consciousness does. It's the way it works. Please remember as I say all this, there's something about timing. When is the right time to tell this person? When is the appropriate time to share with this person and point out to them, "Can you see your other hand? Can you see the process that's going on?"
-
 ## What exactly _is_ the Buddhist Path?
 
 ## Is the end of suffering the most important thing?
 
-## Is the Buddha actually Anti-Life?
-
-A lot of popular Buddhist teachings gently skip over the fact that the Buddha _despised_ phenomena. He frequently described the Five Aggregates as “inconstant, dukkha, a disease, a boil, an arrow, misery, an affliction, alien, a disintegration, empty, not-self” (e.g. 9:36 of the Numbered Discourses). The Buddha was not "against life" per se, but he was against suffering. Since life was composed of phenomena that are not free of suffering, that was that.
 
 ![Rival Voices on non-self](no_self.png)
 
 ## If everything is empty, how _isn't_ that Nihilism?
 
-While all phenomena (including suffering) may be empty, the Buddha cared very much about the beings who were experiencing it. So for him, "meaning" was never a concern. Liberating all beings from suffering is a meaningful cause while still attached to a non-empty conception of meaning, and after enlightenment, "meaning" lost all meaning.
-
-## Is Buddhism the Truth?
-
-Is it possible for a human being to have _the_ Truth?
-
-How can anything be real when we don't have access to reality?
-
-"Real" is a category error just like "Truth" is. It's not something that even exists in our experience.
 
 ### Paradoxes
 
@@ -385,19 +455,7 @@ Due to the way suffering works, much of our daily suffering can be directly redu
 - Can update your beliefs instantly if you want to
 - Never bored
 
-### The Most Practical Route to Emptiness?
 
-[Rob Burbea on approaching Emptiness](https://hermesamara.org/resources/talk/2011-12-31-this-matter-of-emptiness).
-
-## Will awakening cause you to lose your personality?
-
-No, you will pretty much be unidentifiably different from before. I say this based on:
-
-- Experience direclty interacting with awakened people
-- Hearing accounts from awakened people
-- Understanding the process of awakening itself at a general level
-
-Nothing about meditation "removes" any part of your personality, but it may make you a bit more awkward if you spend all of your time meditating without socializing.
 
 ## Is the work required to reach stream entry worth it?
 
@@ -409,20 +467,7 @@ If you listen to any stream enterer, almost all will say that the shift that occ
 
 Whether you personally should make the effort can only be a personal decision. Do you desire to try? And speaking of desire...
 
-## Does the Buddha hate desire?
 
-If you read the Four Noble Truths, it's pretty easy to draw the conclusion that desire is the root of all suffering. Therefore, the Buddha must think desire is bad.
-
-Well, turns out, the Buddha also coined a listicle called "The Four Bases of Power". They are:
-
-1. Desire
-2. Effort
-3. Focus
-4. Inquiry
-
-The Buddha noted these qualities specifically with respect to making progress on the path. Meaning: To free yourself from desire, you need desire. But if you look at that list again, those are qualities required to make progress in _anything_.
-
-So if you don't actually have the desire to follow the Buddha's path, you won't really want to put the effort in, your focus in meditation will be poor, and you won't be curious enough to investigate your experience enough to actually reach any sort of awakening.
 
 This is why it's important to ask...
 
@@ -455,11 +500,8 @@ If you don't fall into any of these camps, then what?
 
 - Paying attention to where your attention is, and directing it towards the things you want to see more of
 
-## Dangers
 
-It's taken me up until... just about now, actually, to finally stop being scared of meditation post-incident.
-
-
+[Rob Burbea on approaching Emptiness](https://hermesamara.org/resources/talk/2011-12-31-this-matter-of-emptiness).
 
 ## What other assumptions are buried under this mess?
 
