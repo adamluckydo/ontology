@@ -38,11 +38,11 @@ Where there is magic, there is love.
 
 ![lugia](lugia.jpg)
 
+![muscle](muscle.jpg)
+
 ![rain](rain.png)
 
 ![attention](attention.png)
-
-![muscle](muscle.jpg)
 
 ![mushrooms](mushrooms.jpg)
 

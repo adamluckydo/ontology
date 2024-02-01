@@ -1,5 +1,5 @@
 
-# Storytime
+# The Path of Fear
 
 ## One Thinky Boi
 
@@ -61,7 +61,7 @@ After listening to the series on Stoicism, I remember telling my sister my revie
 
 Finally, I stumbled upon a section of the app called "The Path of Insight"; a series of Buddha Dharma talks by Joseph Goldstein. At first, it sounded like a bunch of religious dogma: "Be kind to thy neighbor" and whatnot. But as I continued hitting play, I started realizing something: "Wait, this is actually a science? Of subjective experience? And not only is it a science, but it's a _solved_ science? The Buddha just _has_ the answers, and it turns out those answers solve suffering for good?!?" I was still skeptical, but Buddhism seemed to be on an entirely different level of insight, practicality, and scientific rigor from anything else on the app.
 
-## The Path of Fear
+## Discovering the Path
 
 Buddhism is complex, heavy, and in a lot of ways, opposite of most people's conceptions of existence. Just hearing about it can strike people in unexpected ways. So consider this a disclaimer: **Buddhism warning: Potentially distressing ontology ahead.**
 
@@ -77,7 +77,7 @@ At this point, I was already quite interested in understanding reality (for reas
 
 According to the Buddha, one of the characteristics of existence is "dukkha", which more or less means "suffering". In any moment of perception, the Buddha says that there is some amount of suffering, and the way to get clear on that is to meditate on it.
 
-Turns out, if you practice viewing all phenomena as suffering while your brain is in a... suggestible state, it's possible to convince your brain that that is "The Truth" (superseding all other truths). And from firsthand experience, I can tell you that the effects of that are not good. The last few months of 2022 were by far the most miserable I've had in my entire life.
+Turns out, if you practice viewing all phenomena as suffering while your brain is in a suggestible state, it's possible to convince your brain that suffering is "The Truth" (superseding all other truths). And from firsthand experience, I can tell you that the effects of that are not good. The last few months of 2022 were by far the most miserable I've experienced in my entire life.
 
 Specifically, what happened for me was a sudden jolt of realization that everything was a trick. All good things, all bad things, every thing that _has_ happened or _will_ happen was just fake, and caring about any of it could only lead to suffering. You know how your brain will drift off into daydreams as soon as you're not focusing on something? Well every time that happened, instead of random thoughts about myself or others or the future or the past, it was just "this is all suffering". The only thing that helped was to clear my mind by meditating, but usually the thought of being alone with my own mind was too overwhelmingly terrifying to allow myself to do even that. For a few weeks after my initial jolt, I could not go to sleep without a light on and some audio playing to try to distract my mind from "The Truth".
 
@@ -103,7 +103,7 @@ But to get a feel for the type of person Rob was, these two quotes (pulled from 
 
 Rob brought a sense of magic that, combined with his intellectual rigor and deep dedication to action, introduced many people (myself included) to entirely new ways of seeing and living life.
 
-At the time of my crisis, listening to Rob's talks was like clinging to a lifeline as I drowned at sea: He had seen Buddhism, walked the path himself, and gone beyond it. Maybe "The Truth" wasn't as real or horrible as I had thought. Maybe even, "The Truth" was just a lego I had stepped on in the living room of life.
+At the time of my crisis, listening to Rob's talks was like clinging to a lifeline as I drowned at sea: He had seen Buddhism, walked the path himself, and gone beyond it. Maybe, just maybe, "The Truth" wasn't quite as real or horrible as I had thought.
 
 But most importantly, things started to feel okay again.
 
@@ -119,7 +119,7 @@ It's been about a year since _the incident_, and my life is better in a lot of w
 
 But as for how I managed to make that happen... It was really just opening to the possibility that things could be better. I think listening to enough Rob Burbea will do that to you.
 
-In my next posts I'll be going over all sorts of conceptual stuff and lots of fun conjecture will be had, but at the present, If I had to pick the _one_ thing that's made the biggest practical difference in my life, and the _one_ thing I'd like anyone reading my story to take away from it, it's this:
+If I had to pick the _one_ thing that's made the biggest practical difference in my life, and the _one_ thing I'd like anyone reading my story to take away from it, it's this:
 
 **Our experience of reality is identical to what we believe reality is**. And conversely, our beliefs circumscribe what is possible in our lives.
 

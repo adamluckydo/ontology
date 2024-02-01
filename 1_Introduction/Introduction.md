@@ -33,7 +33,7 @@ Upon reading it, I quickly realized a couple of things:
 
 I was smart (or so I thought), I was trying my best, yet consistent happiness was nowhere to be found. Wtf life?!?
 
-In theory, being happy is simple. It's pretty consistently correlated with making healthier choices, feeling close with other people, and spending time doing meaningful work.
+In theory, being happy should be simple. It's pretty consistently correlated with making healthier choices, feeling close with other people, and spending time doing meaningful work.
 
 So why not just do those things?
 
@@ -41,13 +41,13 @@ For starters: Life is unfair. At any time, misfortune can strike: Financial trou
 
 So again, why? And more importantly, what's to be done?
 
-This may be obvious to some people, but not to others, so: Everyone is different and has a different mountain to climb, so no advice is universal.
+This may be obvious to some people, but not to others, so: Everyone is different and everyone has different mountains to climb, so no advice is universal.
 
 But I can say: My mountain is fear. And that fear has blocked me from feeling love, which is the _real_ precursor to happiness.
 
-Love for yourself helps you to make non-coercive healthy choices (as opposed to, say, following a diet or working out because you feel like you have to look a certain way in order to be loved), love for other people is what makes relationships close, and love for the world is the fuel for doing meaningful work.
+Loving yourself naturally leads to non-coercive healthy choices, love for other people is what makes relationships close, and love for the world is the fuel for doing meaningful work.
 
-So the upcoming series of posts, while originally advertised to be about Buddhism, ontology, or some other technical topic, can also be read as a documentary of surveying the internal battlefield of fear and love.
+So this series of posts, while originally planned to be a survey of Buddhism and ontology, can also be read as a documentary, surveying one man's internal battlefield of fear and love.
 
 ![Krishna speaks to Arjuna](gita.jpg)
 
