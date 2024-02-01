@@ -4,15 +4,15 @@ I was watching _Nausicaa of the Valley of the Wind_ the other day. It's one of M
 
 When's the last time you saw someone being brave?
 
-![Nausicaa and others watching an unidentified airship appearing](Bravery.png)
+![Nausicaa and others watching an unidentified airship appearing](bravery.png)
 
 To be brave, you have to know pain is coming, and still face it anyway. And there are only two reasons people will do that. Out of fear (because they can't avoid it), or out of love (because they know it's worth it).
 
-![Getting bit by a fox squirrel](Pain.png)
+![Getting bit by a fox squirrel](pain.png)
 
 "See? Nothing to fear."
 
-![Fox squirrel licking the bite he made](Response.png)
+![Fox squirrel licking the bite he made](response.png)
 
 Nausicaa is the quintessential idealist: She probably risks her life about 50 times over the course of the movie, and with so little self-concern that it's almost comical. Watching it, I caught myself thinking: "Man, if only anyone was like this in real life".
 
