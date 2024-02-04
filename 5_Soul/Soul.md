@@ -17,14 +17,14 @@ Where there is magic, there is love.
 ## People I think are doing important work
 
 - Sasha Chapin: [Everything](https://www.sashachapin.com/)
-- River Kenna: [Soul](https://twitter.com/the_wilderless)
-- Isabel: [Femininity](https://twitter.com/isabelunraveled)
-- Eigenrobot: [Masculinity](https://twitter.com/eigenrobot)
-- Vivid Void: [Ontology](https://twitter.com/VividVoid_)
+- River Kenna: [Mêtis](https://innerwilds.blog/p/the-one-essential-quality)
+- Eigenrobot: [Masculinity](https://twitter.com/eigenrobot/status/948709539397869568)
+- Isabel: [Femininity](https://mindmine.substack.com/p/head)
+- Vivid Void: [Ontology](https://twitter.com/VividVoid_/status/1730709020741386708)
 
 ## My Collage
 
-[Two Player Competition - Kirby's Avalanche](https://www.youtube.com/watch?v=fdYJBUIi5IQ&t=7s)
+[Two Player Competition - Kirby's Avalanche](https://www.youtube.com/watch?v=fdYJBUIi5IQ)
 
 ![jirt](jirt.png)
 
@@ -38,7 +38,7 @@ Where there is magic, there is love.
 
 ![lugia](lugia.jpg)
 
-![muscle](muscle.jpg)
+![motivation](motivation.jpg)
 
 ![rain](rain.png)
 

@@ -46,37 +46,47 @@ In the previous post, I covered a vertical slice of Buddhism. Now I can talk abo
 
 ## Was The Buddha Correct?
 
-Buddhism is very falsifiable. Over the last two and a half millenia, anyone _could_ have run the same experiments the Buddha did and outed him as a fraud, but so far he appears to have been 100% correct about the nature of experience.
+Here's a question totally out of left field: Have you ever seen the show _Bojack Horseman_? Aside from being one of the most depressing shows of all time, it has some golden insights, such as the following:
 
-But if the Buddha is correct, then experience itself is _literally_ made of little bits of suffering. And a lot of people can not, or will not, accept that, for obvious reasons. But that "first arrow" of perception is indeed an arrow. It's a known phenomenon in medititation, when in seeing the texture of phenomena clearly, people simply cannot handle it. That was exactly what happened to me. And when I saw it, I knew the Buddha was right. This was the note I left to myself:
+**Happiness = Reality - Expectations**
+
+Normally, we feel like the only way to improve our happiness is by changing the reality variable: If we can make the conditions of our lives better, we'll be happier. But the other variable is also just as valid of a lever. If we're able to set our expectations to negative one billion, we'll be happy no matter what reality shapes up to be. Honestly, it's kind of a genius idea.
+
+And of course, the Buddha not only thought of this, but also figured out a consistent way to achieve it.
+
+___
+
+Buddhism, as a practice, is very falsifiable. Over the last two and a half millenia, anyone running the same experiments the Buddha did _could_ have outed him as a fraud, but so far his findings seem to be 100% replicable.
+
+For example: If you meditate deeply enough, you see that the "first arrow" of raw perception is indeed a pointy arrow. It's a known phenomenon in medititation, when in seeing the texture of experience at a microscopic level, people perceive it _literally_ as little bits of suffering. That's exactly what happened to me. And when I saw it, I was sure the Buddha was right. This was the note I left to myself:
 
 ![The Buddha is right](realization.png)
 
-So that's it then? The culmination of this whole series is just that "life is suffering, so just grit your teeth and 'be with what is'"?
+So that's it then? The culmination of this whole series is "nuke your expectations of reality into the ground and 'be with what is'"?
 
 It _can_ be the end, if you want it to be.
 
-But there's no option but to go through the bad to get to the good.
+But what if there's more to it?
 
-...
-
-If you recall, craving and aversion are the causes for suffering. But "craving" is really just an unflattering way to say "desire". So it would be accurate to say that "if there is desire, there is suffering". And if we take the (equivalent) contrapositive of that: "If there is no suffering, there is no desire".
-
-In other words, suffering is the price of being able to experience beauty, love, and meaning, paid upfront.
-
-___
+## The Buddha and Desire
 
 Remember when I said I didn't have a better answer about what Nirvana was? I was lying `>:)`
 
 Nirvana, translated literally, means "blowing out". In this case, blowing out, or extinguishing, the fires of desire, aversion, and ignorance.
 
+If you recall, craving and aversion are the causes for suffering. But "craving" is really just an unflattering way to say "desire". So it would be accurate to say that "if there is desire, there is suffering". And if we take the (equivalent) contrapositive of that: "If there is no suffering, there is no desire".
+
+In other words, suffering is the price of being able to experience beauty, love, and meaning, paid upfront.
+
 And if you read the Four Noble Truths, it's pretty easy to draw the conclusion that those three things are the root of all suffering. Therefore, the Buddha must think desire is bad... right?
 
-## The Buddha and Desire
+### The Four Bases of Power
 
-2500 years ago, transcending life itself was a hot topic in Indian culture. Karma, rebirth, and liberation from Samsara were nothing new. To them, the teachings of the Five Aggregates and the Three Characteristics would seem like just another day in the office. Nirvana and Moksha: Pen pals. What I'm trying to get at here is that the Buddha's teachings were a product from and for his time. They grew out of the culture's existing beliefs and encouraged people along the lines of their deepest spiritual desires.
+(This is the last listicle, I promise)
 
-If you don't believe me, maybe you'll believe the Buddha himself. You might already known about the Four Noble Truths, and maybe the Noble Eightfold Path, but are you aware of The Four Bases of Power? They are:
+2500 years ago, transcending life itself was a hot topic in Indian culture. Karma, rebirth, and liberation from Samsara were nothing new. In that culture, the teachings of the Five Aggregates and the Three Characteristics would seem like just another day in the office. Nirvana and Moksha: Pen pals. What I'm trying to get at here is that the Buddha's teachings were a product from and for his time. They grew out of the culture's existing beliefs and encouraged people along the lines of their deepest spiritual desires.
+
+If you don't believe me, maybe you'll believe the Buddha himself. You might already known about the Four Noble Truths, and maybe even the Noble Eightfold Path, but are you aware of The Four Bases of Power? They are:
 
 1. Desire
 2. Effort
@@ -101,11 +111,13 @@ I don't know about you, but reading that doesn't exactly get me fired up to prac
 
 The Buddha was undeniably a genius. So much so that his original teachings are still potent to this day.
 
-Yet here we are, thousands of years later, and almost every western Buddhist teaching you encounter will gently skip over the dirty bits, like how the Buddha _despised_ phenomena. Want to know how he described the Five Aggregates? “Inconstant, dukkha, a disease, a boil, an arrow, misery, an affliction, alien, a disintegration, empty, not-self” (Aṅguttara Nikāya 9:36). A common western reaction to this sentiment is to recoil: "The Buddha's teachings are anti-life!" And I would have to agree with that. The Buddha was not "against life" per se, but he _was_ against suffering. And since life is composed of phenomena that are not free of suffering, that's that.
+Yet here we are, thousands of years later, and almost every western Buddhist teaching you encounter will gently skip over the dirty bits, like how the Buddha _despised_ phenomena. Want to know how he described the Five Aggregates? “Inconstant, dukkha, a disease, a boil, an arrow, misery, an affliction, alien, a disintegration, empty, not-self” (Aṅguttara Nikāya 9:36). A common western reaction to this sentiment is to recoil: "The Buddha's teachings are anti-life!" And I would have to agree with that. The Buddha was not "against life" per se, but he _was_ against suffering. And since he saw that life was composed of phenomena that are not free of suffering, that was that.
 
 But clearly, the context for receiving his teachings has changed. Is the only answer to feed everyone a watered-down soup of Buddhist pleasantries and ignore the hard bits? Or do we softies just have to buckle down and ride the fear-coaster into the end of existence?
 
-What if there's another answer?
+Or maybe... what if the Buddha's teachings _aren't_ the be-all, end-all?
+
+
 
 ## Nagarjuna
 
@@ -152,6 +164,10 @@ And to get a sense for where I'm headed: Rob Burbea puts it beautifully in the l
 "When there is insight, we know that how and what we see are not simply givens, but are the colourable and malleable, magical, material of empty appearances.
 
 There is space here, and space for reverence and devotion. When we see the void -- the open and groundless nature of all things, the inseparability of appearances and emptiness -- we recognize anyway just how profound is our participation in this magic of appearances. Then whether fabrication, which is empty, is consciously intended in a certain direction or not, the heart bows to the fathomless wonder and beauty of it all. It can be touched by an inexhaustible amazement, touched again and again by blessedness and relief. In knowing fully the thorough voidness of this and that, of then and now, of there and here, this heart opens, over and over in joy, in awe and release. Free itself, it knows the essential freedom in everything."
+
+If you believe it, you can make it real.
+
+You can do it.
 
 ## Me
 
